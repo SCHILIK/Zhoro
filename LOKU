@@ -337,7 +337,7 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV S1 RS" tvg-id="" tvg-logo="https://i.imgur.com/ISE1kjs.jpg" group-title="EX-YUG",TV S1 RS
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="*** MUSIC JUKEBOX ***" group-title="MUSIC" tvg-logo="https://i.imgur.com/VflDaiL.jpg",*** MUSIC JUKEBOX ***
+#EXTINF:-1 tvg-name="*** MUSIC JUKEBOX ***" group-title="MUSIC" tvg-logo="https://i.imgur.com/vF7TUVD.png",*** MUSIC JUKEBOX ***
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="1HD Music (RU)" tvg-logo="https://i.imgur.com/hnMPzM0.png" group-title="MUSIC",1HD Music (RU)
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
