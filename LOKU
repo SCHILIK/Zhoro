@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** ALBANIA ***" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",*** ALBANIA ***
+#EXTINF:-1 tvg-name="★★★★ ALBANIA ★★★★" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",★★★★ ALBANIA ★★★★
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="21 Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/5793gRM.png" group-title="ALBANIA",21 Macedonia
 http://us.bestvideostreaming.is/8748/playlist.m3u8
@@ -232,7 +232,7 @@ https://t2.tvmak.com/tv/zicotv.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 
-#EXTINF:-1 tvg-name="*** EX-YUG ***" tvg-logo="https://i.imgur.com/VSz9sQP.png" group-title="EX-YUG",*** EX-YUG ***
+#EXTINF:-1 tvg-name="★★★★ EX-YUG ★★★★" tvg-logo="https://i.imgur.com/VSz9sQP.png" group-title="EX-YUG",★★★★ EX-YUG ★★★★
 https://
 #EXTINF:-1 tvg-name="Aljazeera Balkans (BiH)" tvg-id="" tvg-logo="https://i.imgur.com/hsiO62I.png" group-title="EX-YUG",Aljazeera Balkans (BiH)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
@@ -337,7 +337,7 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV S1 RS" tvg-id="" tvg-logo="https://i.imgur.com/ISE1kjs.jpg" group-title="EX-YUG",TV S1 RS
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="*** MUSIC JUKEBOX ***" group-title="MUSIC" tvg-logo="https://i.imgur.com/vF7TUVD.png",*** MUSIC JUKEBOX ***
+#EXTINF:-1 tvg-name="★★★★ MUSIC JUKEBOX ★★★★" group-title="MUSIC" tvg-logo="https://i.imgur.com/vF7TUVD.png",★★★★ MUSIC JUKEBOX ★★★★
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="1HD Music (RU)" tvg-logo="https://i.imgur.com/hnMPzM0.png" group-title="MUSIC",1HD Music (RU)
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -996,622 +996,529 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv Music (IT)" tvg-id="" tvg-logo="https://i.imgur.com/vC9NJ6D.png" group-title="MUSIC",Zerouno Tv Music (IT)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,TOP GOLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eY7UcMq.png" group-title="MIX Radio",★★★★ MIX Radio ★★★★
+https://
+#EXTINF:-1 group-title="MIX Radio",TOP GOLD
 https://live.topgold.al/topgold
-#EXTINF:-1,TOP ALBANIA RADIO
+#EXTINF:-1 group-title="MIX Radio",TOP ALBANIA RADIO
 https://live.top-media.al/tar
-#EXTINF:-1,MY MUSIC RADIO (AL)
+#EXTINF:-1 group-title="MIX Radio",MY MUSIC RADIO (AL)
 https://live.top-media.al/mmr
-#EXTINF:-1,N-JOY Radio (DE)
+#EXTINF:-1 group-title="MIX Radio",N-JOY Radio (DE)
 http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3
-#EXTINF:-1,LOS40 (ES)
+#EXTINF:-1 group-title="MIX Radio",LOS40 (ES)
 https://22733.live.streamtheworld.com/LOS40_CATAAC.aac
-#EXTINF:-1,LOS40 España (ES)
+#EXTINF:-1 group-title="MIX Radio",LOS40 España (ES)
 https://22323.live.streamtheworld.com/LOS40AAC.aac
-#EXTINF:-1,LOS40 Classic (ES)
+#EXTINF:-1 group-title="MIX Radio",LOS40 Classic (ES)
 https://22713.live.streamtheworld.com/LOS40_CLASSICAAC.aac
-#EXTINF:-1,LOS40 DANCE (ES)
+#EXTINF:-1 group-title="MIX Radio",LOS40 DANCE (ES)
 https://22713.live.streamtheworld.com/LOS40_DANCEAAC.aac
-#EXTINF:-1,105'5 Spreeradio 80er
+#EXTINF:-1 group-title="MIX Radio",105'5 Spreeradio 80er
 http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1,50’s
+#EXTINF:-1 group-title="MIX Radio",50’s
 http://192.99.34.205:8005/stream
-#EXTINF:-1,60’s
+#EXTINF:-1 group-title="MIX Radio",60’s
 http://192.99.34.205:8007/stream
-#EXTINF:-1,70’s
+#EXTINF:-1 group-title="MIX Radio",70’s
 http://192.99.34.205:8008/stream
-#EXTINF:-1,80’s
+#EXTINF:-1 group-title="MIX Radio",80’s
 http://192.99.34.205:8030/stream
-#EXTINF:-1,90’s
+#EXTINF:-1 group-title="MIX Radio",90’s
 http://192.99.34.205:8046/stream
-#EXTINF:-1,Alternativo
+#EXTINF:-1 group-title="MIX Radio",Alternativo
 http://192.99.34.205:8201/stream
-#EXTINF:-1,Ambiental
+#EXTINF:-1 group-title="MIX Radio",Ambiental
 http://192.99.34.205:8079/stream
-#EXTINF:-1,Americano
+#EXTINF:-1 group-title="MIX Radio",Americano
 http://192.99.34.205:8021/stream
-#EXTINF:-1,Andina
+#EXTINF:-1 group-title="MIX Radio",Andina
 http://gemini.shoutca.st:8171/stream
-#EXTINF:-1,Antonio Badu
+#EXTINF:-1 group-title="MIX Radio",Antonio Badu
 http://gemini.shoutca.st:8306/stream
-#EXTINF:-1,Armando Manzanero
+#EXTINF:-1 group-title="MIX Radio",Armando Manzanero
 http://192.99.34.205:8088/stream
-#EXTINF:-1,Bachata
+#EXTINF:-1 group-title="MIX Radio",Bachata
 http://192.99.34.205:8465/stream
-#EXTINF:-1,Baladas
+#EXTINF:-1 group-title="MIX Radio",Baladas
 http://192.99.34.205:8095/stream
-#EXTINF:-1,Banda
+#EXTINF:-1 group-title="MIX Radio",Banda
 http://192.99.34.205:8401/stream
-#EXTINF:-1,Bebop
+#EXTINF:-1 group-title="MIX Radio",Bebop
 http://192.99.34.205:8450/stream
-#EXTINF:-1,Blues
+#EXTINF:-1 group-title="MIX Radio",Blues
 http://192.99.34.205:8144/stream
-#EXTINF:-1,Bolero
+#EXTINF:-1 group-title="MIX Radio",Bolero
 http://192.99.34.205:8444/stream
-#EXTINF:-1,Bossa Nova
+#EXTINF:-1 group-title="MIX Radio",Bossa Nova
 http://192.99.34.205:8399/stream
-#EXTINF:-1,Buena Vista Social Club
+#EXTINF:-1 group-title="MIX Radio",Buena Vista Social Club
 http://192.99.34.205:8482/stream
-#EXTINF:-1,Carlos Gardel
+#EXTINF:-1 group-title="MIX Radio",Carlos Gardel
 http://gemini.shoutca.st:8307/stream
-#EXTINF:-1,Celta
+#EXTINF:-1 group-title="MIX Radio",Celta
 http://gemini.shoutca.st:8209/stream
-#EXTINF:-1,Charlestone
+#EXTINF:-1 group-title="MIX Radio",Charlestone
 http://gemini.shoutca.st:8067/stream
-#EXTINF:-1,Classic Rock
+#EXTINF:-1 group-title="MIX Radio",Classic Rock
 http://192.99.34.205:8127/stream
-#EXTINF:-1,Clásica
+#EXTINF:-1 group-title="MIX Radio",Clásica
 http://192.99.34.205:8126/stream
-#EXTINF:-1,Country
+#EXTINF:-1 group-title="MIX Radio",Country
 http://192.99.34.205:8145/stream
-#EXTINF:-1,Cubana
+#EXTINF:-1 group-title="MIX Radio",Cubana
 http://192.99.34.205:8400/stream
-#EXTINF:-1,Cumbia
+#EXTINF:-1 group-title="MIX Radio",Cumbia
 http://192.99.34.205:8445/stream
-#EXTINF:-1,Dance
+#EXTINF:-1 group-title="MIX Radio",Dance
 http://192.99.34.205:8448/stream
-#EXTINF:-1,Disco
+#EXTINF:-1 group-title="MIX Radio",Disco
 http://192.99.34.205:8202/stream
-#EXTINF:-1,Downtempo
+#EXTINF:-1 group-title="MIX Radio",Downtempo
 http://192.99.34.205:8112/stream
-#EXTINF:-1,Drum and Bass
+#EXTINF:-1 group-title="MIX Radio",Drum and Bass
 http://192.99.34.205:8446/stream
-#EXTINF:-1,EBM
+#EXTINF:-1 group-title="MIX Radio",EBM
 http://192.99.34.205:8227/stream
-#EXTINF:-1,Electro House
+#EXTINF:-1 group-title="MIX Radio",Electro House
 http://192.99.34.205:8460/stream
-#EXTINF:-1,Electrónica
+#EXTINF:-1 group-title="MIX Radio",Electrónica
 http://192.99.34.205:8096/stream
-#EXTINF:-1,Elvis Presley
+#EXTINF:-1 group-title="MIX Radio",Elvis Presley
 http://192.99.34.205:8453/stream
-#EXTINF:-1,Enrique Batiz
+#EXTINF:-1 group-title="MIX Radio",Enrique Batiz
 http://192.99.34.205:8476/stream
-#EXTINF:-1,Fiesta Mexicana
+#EXTINF:-1 group-title="MIX Radio",Fiesta Mexicana
 http://192.99.34.205:8073/stream
-#EXTINF:-1,Flamenco
+#EXTINF:-1 group-title="MIX Radio",Flamenco
 http://gemini.shoutca.st:8208/stream
-#EXTINF:-1,Folk
+#EXTINF:-1 group-title="MIX Radio",Folk
 http://gemini.shoutca.st:8049/stream
-#EXTINF:-1,Funk
+#EXTINF:-1 group-title="MIX Radio",Funk
 http://gemini.shoutca.st:8065/stream
-#EXTINF:-1,Gospel
+#EXTINF:-1 group-title="MIX Radio",Gospel
 http://192.99.34.205:8449/stream
-#EXTINF:-1,Grandes Bandas
+#EXTINF:-1 group-title="MIX Radio",Grandes Bandas
 http://192.99.34.205:8480/stream
-#EXTINF:-1,Grupera
+#EXTINF:-1 group-title="MIX Radio",Grupera
 http://192.99.34.205:8472/stream
-#EXTINF:-1,Hard Rock
+#EXTINF:-1 group-title="MIX Radio",Hard Rock
 http://192.99.34.205:8456/stream
-#EXTINF:-1,Hawaiana
+#EXTINF:-1 group-title="MIX Radio",Hawaiana
 http://gemini.shoutca.st:8159/stream
-#EXTINF:-1,Heavy Metal
+#EXTINF:-1 group-title="MIX Radio",Heavy Metal
 http://192.99.34.205:8109/stream
-#EXTINF:-1,Hip-Hop
+#EXTINF:-1 group-title="MIX Radio",Hip-Hop
 http://192.99.34.205:8125/stream
-#EXTINF:-1,Indie Rock
+#EXTINF:-1 group-title="MIX Radio",Indie Rock
 http://192.99.34.205:8455/stream
-#EXTINF:-1,Javier Solis
+#EXTINF:-1 group-title="MIX Radio",Javier Solis
 http://192.99.34.205:8473/stream
-#EXTINF:-1,Jazz
+#EXTINF:-1 group-title="MIX Radio",Jazz
 http://192.99.34.205:8108/stream
-#EXTINF:-1,Jorge Muñiz
+#EXTINF:-1 group-title="MIX Radio",Jorge Muñiz
 http://192.99.34.205:8013/stream
-#EXTINF:-1,Jorge Negrete
+#EXTINF:-1 group-title="MIX Radio",Jorge Negrete
 http://192.99.34.205:8474/stream
-#EXTINF:-1,José Alfredo Jiménez
+#EXTINF:-1 group-title="MIX Radio",José Alfredo Jiménez
 http://192.99.34.205:8477/stream
-#EXTINF:-1,José José
+#EXTINF:-1 group-title="MIX Radio",José José
 http://192.99.34.205:8040/stream
-#EXTINF:-1,Juan Gabriel
+#EXTINF:-1 group-title="MIX Radio",Juan Gabriel
 http://192.99.34.205:8451/stream
-#EXTINF:-1,Julio, Camilo y Rafael
+#EXTINF:-1 group-title="MIX Radio",Julio, Camilo y Rafael
 http://192.99.34.205:8479/stream
-#EXTINF:-1,K-pop
+#EXTINF:-1 group-title="MIX Radio",K-pop
 http://gemini.shoutca.st:8115/stream
-#EXTINF:-1,Kids
+#EXTINF:-1 group-title="MIX Radio",Kids
 http://192.99.34.205:8042/stream
-#EXTINF:-1,Las Sonoras
+#EXTINF:-1 group-title="MIX Radio",Las Sonoras
 http://192.99.34.205:8475/stream
-#EXTINF:-1,Latina
+#EXTINF:-1 group-title="MIX Radio",Latina
 http://192.99.34.205:8166/stream
-#EXTINF:-1,Los 4 Hermanos Silva
+#EXTINF:-1 group-title="MIX Radio",Los 4 Hermanos Silva
 http://gemini.shoutca.st:8305/stream
-#EXTINF:-1,Los Hermanos Castro
+#EXTINF:-1 group-title="MIX Radio",Los Hermanos Castro
 http://192.99.34.205:8483/stream
-#EXTINF:-1,Los Hermanos Martinez Gil
+#EXTINF:-1 group-title="MIX Radio",Los Hermanos Martinez Gil
 http://gemini.shoutca.st:8292/stream
-#EXTINF:-1,Mambo
+#EXTINF:-1 group-title="MIX Radio",Mambo
 http://192.99.34.205:8443/stream
-#EXTINF:-1,Manuel José
+#EXTINF:-1 group-title="MIX Radio",Manuel José
 http://192.99.34.205:8021/stream
-#EXTINF:-1,Marco Antonio Muñiz
+#EXTINF:-1 group-title="MIX Radio",Marco Antonio Muñiz
 http://192.99.34.205:8041/stream
-#EXTINF:-1,Marco Antonio Solís
+#EXTINF:-1 group-title="MIX Radio",Marco Antonio Solís
 http://192.99.34.205:8087/stream
-#EXTINF:-1,Mariachi
+#EXTINF:-1 group-title="MIX Radio",Mariachi
 http://192.99.34.205:8165/stream
-#EXTINF:-1,Merengue
+#EXTINF:-1 group-title="MIX Radio",Merengue
 http://gemini.shoutca.st:8247/stream
-#EXTINF:-1,Miguel Aceves Mejia
+#EXTINF:-1 group-title="MIX Radio",Miguel Aceves Mejia
 http://gemini.shoutca.st:8281/stream
-#EXTINF:-1,Mijares & Emmanuel
+#EXTINF:-1 group-title="MIX Radio",Mijares & Emmanuel
 http://192.99.34.205:8031/stream
-#EXTINF:-1,Minimal
+#EXTINF:-1 group-title="MIX Radio",Minimal
 http://gemini.shoutca.st:8264/stream
-#EXTINF:-1,Navideña
+#EXTINF:-1 group-title="MIX Radio",Navideña
 http://192.99.34.205:8237/stream
-#EXTINF:-1,New Age
+#EXTINF:-1 group-title="MIX Radio",New Age
 http://192.99.34.205:8222/stream
-#EXTINF:-1,Norteña
+#EXTINF:-1 group-title="MIX Radio",Norteña
 http://192.99.34.205:8469/stream
-#EXTINF:-1,Oldies
+#EXTINF:-1 group-title="MIX Radio",Oldies
 http://192.99.34.205:8146/stream
-#EXTINF:-1,Opera
+#EXTINF:-1 group-title="MIX Radio",Opera
 http://192.99.34.205:8203/stream
-#EXTINF:-1,Oscar Frank
+#EXTINF:-1 group-title="MIX Radio",Oscar Frank
 http://192.99.34.205:8085/stream
-#EXTINF:-1,Pedro Infante
+#EXTINF:-1 group-title="MIX Radio",Pedro Infante
 http://192.99.34.205:8452/stream
-#EXTINF:-1,Pop
+#EXTINF:-1 group-title="MIX Radio",Pop
 http://192.99.34.205:8147/stream
-#EXTINF:-1,Psycho
+#EXTINF:-1 group-title="MIX Radio",Psycho
 http://192.99.34.205:8148/stream
-#EXTINF:-1,Punk
+#EXTINF:-1 group-title="MIX Radio",Punk
 http://192.99.34.205:8168/stream
-#EXTINF:-1,Rat Pack
+#EXTINF:-1 group-title="MIX Radio",Rat Pack
 http://192.99.34.205:8238/stream
-#EXTINF:-1,Reggae
+#EXTINF:-1 group-title="MIX Radio",Reggae
 http://192.99.34.205:8143/stream
-#EXTINF:-1,Reggaeton
+#EXTINF:-1 group-title="MIX Radio",Reggaeton
 http://192.99.34.205:8466/stream
-#EXTINF:-1,Regional Mexicano
+#EXTINF:-1 group-title="MIX Radio",Regional Mexicano
 http://192.99.34.205:8470/stream
-#EXTINF:-1,Rhythm and Blues
+#EXTINF:-1 group-title="MIX Radio",Rhythm and Blues
 http://192.99.34.205:8447/stream
-#EXTINF:-1,Rock
+#EXTINF:-1 group-title="MIX Radio",Rock
 http://192.99.34.205:8175/stream
-#EXTINF:-1,Rock en Español
+#EXTINF:-1 group-title="MIX Radio",Rock en Español
 http://192.99.34.205:8457/stream
-#EXTINF:-1,Salsa
+#EXTINF:-1 group-title="MIX Radio",Salsa
 http://192.99.34.205:8239/stream
-#EXTINF:-1,Samba
+#EXTINF:-1 group-title="MIX Radio",Samba
 http://gemini.shoutca.st:8234/stream
-#EXTINF:-1,Ska
+#EXTINF:-1 group-title="MIX Radio",Ska
 http://192.99.34.205:8458/stream
-#EXTINF:-1,Sleep
+#EXTINF:-1 group-title="MIX Radio",Sleep
 http://gemini.shoutca.st:8149/stream
-#EXTINF:-1,Sonora Matancera & Santanera
+#EXTINF:-1 group-title="MIX Radio",Sonora Matancera & Santanera
 http://gemini.shoutca.st:8282/stream
-#EXTINF:-1,Soul
+#EXTINF:-1 group-title="MIX Radio",Soul
 http://192.99.34.205:8167/stream
-#EXTINF:-1,Soundtrack
+#EXTINF:-1 group-title="MIX Radio",Soundtrack
 http://192.99.34.205:8484/stream
-#EXTINF:-1,Summer Dance Party
+#EXTINF:-1 group-title="MIX Radio",Summer Dance Party
 http://192.99.34.205:8459/stream
-#EXTINF:-1,Tango
+#EXTINF:-1 group-title="MIX Radio",Tango
 http://192.99.34.205:8240/stream
-#EXTINF:-1,The Beatles
+#EXTINF:-1 group-title="MIX Radio",The Beatles
 http://192.99.34.205:8481/stream
-#EXTINF:-1,Trance
+#EXTINF:-1 group-title="MIX Radio",Trance
 http://gemini.shoutca.st:8280/stream
-#EXTINF:-1,Tribal
+#EXTINF:-1 group-title="MIX Radio",Tribal
 http://192.99.34.205:8471/stream
-#EXTINF:-1,Tropical
+#EXTINF:-1 group-title="MIX Radio",Tropical
 http://gemini.shoutca.st:8190/stream
-#EXTINF:-1,Trova
+#EXTINF:-1 group-title="MIX Radio",Trova
 http://192.99.34.205:8173/stream
-#EXTINF:-1,TopGold ALB
+#EXTINF:-1 group-title="MIX Radio",TopGold ALB
 https://live.topgold.al/topgold
-#EXTINF:-1,Vallenato
+#EXTINF:-1 group-title="MIX Radio",Vallenato
 http://gemini.shoutca.st:8163/stream
-#EXTINF:-1,Vicente Fernández
+#EXTINF:-1 group-title="MIX Radio",Vicente Fernández
 http://192.99.34.205:8478/stream
-#EXTINF:-1,Western
+#EXTINF:-1 group-title="MIX Radio",Western
 http://gemini.shoutca.st:8066/stream
-#EXTINF:-1,WHM Mexico
+#EXTINF:-1 group-title="MIX Radio",WHM Mexico
 http://gemini.shoutca.st:8207/stream
-#EXTINF:-1,WHM USA
+#EXTINF:-1 group-title="MIX Radio",WHM USA
 http://gemini.shoutca.st:8206/stream
-#EXTINF:-1,World Music
+#EXTINF:-1 group-title="MIX Radio",World Music
 http://192.99.34.205:8174/stream
-#EXTINF:-1,Árabe
+#EXTINF:-1 group-title="MIX Radio",Árabe
 http://192.99.34.205:8094/stream
-#EXTINF:-1,Éxitos en Inglés
+#EXTINF:-1 group-title="MIX Radio",Éxitos en Inglés
 http://192.99.34.205:8454/stream
 
-#EXTINF:-1 tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Big R Radio",★★★★ Big R Radio ★★★★
+#EXTINF:-1 tvg-name="★★★★ Big R Radio ★★★★" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Big R Radio",★★★★ Big R Radio ★★★★
 https://
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",100.3 The Rock Mix
 http://bigrradio.cdnstream1.com/5172_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Yacht Rock (70s&80s soft rock)
 http://bigrradio.cdnstream1.com/5256_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Christmas Classics
 http://bigrradio.cdnstream1.com/5190_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Christmas Rock
 http://bigrradio.cdnstream1.com/5192_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Christmas Top40
 http://bigrradio.cdnstream1.com/5193_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Christmas Country
 http://bigrradio.cdnstream1.com/5191_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",100.7 The Mix
 http://bigrradio.cdnstream1.com/5173_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",101.6 Adult Warm Hits
 http://bigrradio.cdnstream1.com/5177_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",100.5 Classic Rock
 http://bigrradio.cdnstream1.com/5171_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",100.8 The Hawk
 http://bigrradio.cdnstream1.com/5174_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",108.1 Jamz
 http://bigrradio.cdnstream1.com/5178_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",101.1 The Beat
 http://bigrradio.cdnstream1.com/5176_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",R&B
 http://bigrradio.cdnstream1.com/5202_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Classic R&B
 http://bigrradio.cdnstream1.com/5194_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",100.9 Star Country
 http://bigrradio.cdnstream1.com/5175_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Country Mix
 http://bigrradio.cdnstream1.com/5196_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Country Oldies
 http://bigrradio.cdnstream1.com/5195_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",70s FM
 http://bigrradio.cdnstream1.com/5182_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",70s and 80s Pop Mix
 http://bigrradio.cdnstream1.com/5181_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",80s FM
 http://bigrradio.cdnstream1.com/5184_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",80s Lite
 http://bigrradio.cdnstream1.com/5185_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",80s and 90s Pop Mix
 http://bigrradio.cdnstream1.com/5183_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",90s FM
 http://bigrradio.cdnstream1.com/5188_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",80s Metal FM
 http://bigrradio.cdnstream1.com/5186_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",The Wave
 http://bigrradio.cdnstream1.com/5208_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Rock Top 40
 http://bigrradio.cdnstream1.com/5204_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Coffee House
 http://bigrradio.cdnstream1.com/5156_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",90s Alternative Rock
 http://bigrradio.cdnstream1.com/5187_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Alternative Rock
 http://bigrradio.cdnstream1.com/5189_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Post Grunge Rock
 http://bigrradio.cdnstream1.com/5203_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Grunge FM	
 http://bigrradio.cdnstream1.com/5200_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Erin's Chill
 http://bigrradio.cdnstream1.com/5197_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",The Love Channel
 http://bigrradio.cdnstream1.com/5207_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Golden Oldies
 http://bigrradio.cdnstream1.com/5198_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Gospel Channel
 http://bigrradio.cdnstream1.com/5199_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",1Faith - Hits
 http://bigrradio.cdnstream1.com/5180_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",1Faith - Worship
 http://bigrradio.cdnstream1.com/5179_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Smooth Jazz
 http://bigrradio-edge1.cdnstream.com/5123_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Vocal Jazz
 http://bigrradio-edge1.cdnstream.com/5127_128
-
 #EXTINF:-1 tvg-logo="http://live2.mystreamplayer.com/configs/images/bigr-fbimage.png" group-title="Big R Radio",Explicit Top 40
 http://bigrradio.cdnstream1.com/5237_128
 
 # https://gotradio.com/music/ 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFMr4O2.png" group-title="",★★★★ Got Radio ★★★★
+#EXTINF:-1 tvg-name="★★★★ Got Radio ★★★★" tvg-logo="https://i.imgur.com/KFMr4O2.png" group-title="Got Radio",★★★★ Got Radio ★★★★
 https://
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H0NrLei.jpg" group-title="",90s Alternative
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0NrLei.jpg" group-title="Got Radio",90s Alternative
 https://pureplay.cdnstream1.com/6039_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wdP5Ec.jpg" group-title="",Adult Alternative
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8wdP5Ec.jpg" group-title="Got Radio",Adult Alternative
 https://pureplay.cdnstream1.com/6032_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azRBx6v.jpg" group-title="",Adult Hits!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azRBx6v.jpg" group-title="Got Radio",Adult Hits!
 https://pureplay.cdnstream1.com/6022_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iU0I6eK.jpg" group-title="",Alternative Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iU0I6eK.jpg" group-title="Got Radio",Alternative Rock
 https://pureplay.cdnstream1.com/6033_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D0bMzPA.jpg" group-title="",Americana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0bMzPA.jpg" group-title="Got Radio",Americana
 https://pureplay.cdnstream1.com/6046_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fg3rjfs.jpg" group-title="",Big Band Land
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fg3rjfs.jpg" group-title="Got Radio",Big Band Land
 https://pureplay.cdnstream1.com/6004_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZT5MIp.png" group-title="",Bit O Blues
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZT5MIp.png" group-title="Got Radio",Bit O Blues
 https://pureplay.cdnstream1.com/6019_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGvLqTQ.jpg" group-title="",Bluegrass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGvLqTQ.jpg" group-title="Got Radio",Bluegrass
 https://pureplay.cdnstream1.com/6000_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0pvMjhr.jpg" group-title="",Classic Country
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0pvMjhr.jpg" group-title="Got Radio",Classic Country
 https://pureplay.cdnstream1.com/6048_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mYV4hph.jpg" group-title="",Classic Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYV4hph.jpg" group-title="Got Radio",Classic Rock
 https://pureplay.cdnstream1.com/6012_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrsMAzP.jpg" group-title="",Disco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrsMAzP.jpg" group-title="Got Radio",Disco
 https://pureplay.cdnstream1.com/6055_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwhwoTV.jpg" group-title="",Folk Lore
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwhwoTV.jpg" group-title="Got Radio",Folk Lore
 https://pureplay.cdnstream1.com/6001_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5V29kBS.jpg" group-title="",Girl Power
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5V29kBS.jpg" group-title="Got Radio",Girl Power
 https://pureplay.cdnstream1.com/6006_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WVGQXPW.jpg" group-title="",Guitar Genius
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVGQXPW.jpg" group-title="Got Radio",Guitar Genius
 https://pureplay.cdnstream1.com/6018_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rwScVL.jpg" group-title="",Hip Hop Stop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rwScVL.jpg" group-title="Got Radio",Hip Hop Stop
 https://pureplay.cdnstream1.com/6041_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6F1cGwL.jpg" group-title="",Hot Hits – Todays Hits No Rap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6F1cGwL.jpg" group-title="Got Radio",Hot Hits – Todays Hits No Rap
 https://pureplay.cdnstream1.com/6026_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ingdOO6.jpg" group-title="",Jazz So Smooth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ingdOO6.jpg" group-title="Got Radio",Jazz So Smooth
 https://pureplay.cdnstream1.com/6049_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLM9SyB.jpg" group-title="",Jazz So True
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLM9SyB.jpg" group-title="Got Radio",Jazz So True
 https://pureplay.cdnstream1.com/6050_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYgF88u.jpg" group-title="",Oldies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYgF88u.jpg" group-title="Got Radio",Oldies
 https://pureplay.cdnstream1.com/6007_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nib5M9b.jpg" group-title="",Metal Madness
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nib5M9b.jpg" group-title="Got Radio",Metal Madness
 https://pureplay.cdnstream1.com/6014_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RZgR2kY.jpg" group-title="",New Age Nuance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZgR2kY.jpg" group-title="Got Radio",New Age Nuance
 https://pureplay.cdnstream1.com/6016_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tkJ90DP.jpg" group-title="",Piano Perfect
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkJ90DP.jpg" group-title="Got Radio",Piano Perfect
 https://pureplay.cdnstream1.com/6017_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3vhyZP.jpg" group-title="",R&B Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3vhyZP.jpg" group-title="Got Radio",R&B Classics
 https://pureplay.cdnstream1.com/6023_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Lv4Doo.jpg" group-title="",Rockin 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Lv4Doo.jpg" group-title="Got Radio",Rockin 80s
 https://pureplay.cdnstream1.com/6008_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VkL8uKC.jpg" group-title="",Soft Rock Cafe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkL8uKC.jpg" group-title="Got Radio",Soft Rock Cafe
 https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UUDpYT.jpg" group-title="",Southern Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UUDpYT.jpg" group-title="Got Radio",Southern Rock
 https://pureplay.cdnstream1.com/6057_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5stJ57.jpg" group-title="",Texas Red Dirt Music	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5stJ57.jpg" group-title="Got Radio",Texas Red Dirt Music	
 https://pureplay.cdnstream1.com/6028_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MiBhZr.jpg" group-title="",The 50s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7MiBhZr.jpg" group-title="Got Radio",The 50s
 https://pureplay.cdnstream1.com/6005_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydZ89km.jpg" group-title="",The 60s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ydZ89km.jpg" group-title="Got Radio",The 60s
 https://pureplay.cdnstream1.com/6011_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TD5qewT.jpg" group-title="",The 70s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TD5qewT.jpg" group-title="Got Radio",The 70s
 https://pureplay.cdnstream1.com/6013_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RHMDf5O.jpg" group-title="",The 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHMDf5O.jpg" group-title="Got Radio",The 80s
 https://pureplay.cdnstream1.com/6009_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIhkFof.jpg" group-title="",The 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIhkFof.jpg" group-title="Got Radio",The 90s
 https://pureplay.cdnstream1.com/6052_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CxYv7NS.jpg" group-title="",The Mix – 80s 90s & Todays Hits!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CxYv7NS.jpg" group-title="Got Radio",The Mix – 80s 90s & Todays Hits!
 https://pureplay.cdnstream1.com/6037_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GeqlHT.jpg" group-title="",The Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GeqlHT.jpg" group-title="Got Radio",The Rock
 https://pureplay.cdnstream1.com/6035_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qc4TwpQ.jpg" group-title="",Throwback Jamz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qc4TwpQ.jpg" group-title="Got Radio",Throwback Jamz
 https://pureplay.cdnstream1.com/6045_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcU7cLj.jpg" group-title="",Today’s Country
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcU7cLj.jpg" group-title="Got Radio",Today’s Country
 https://pureplay.cdnstream1.com/6029_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpkohJd.jpg" group-title="",Top 40
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpkohJd.jpg" group-title="Got Radio",Top 40
 https://pureplay.cdnstream1.com/6024_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQEaX0k.jpg" group-title="",Urban Jamz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQEaX0k.jpg" group-title="Got Radio",Urban Jamz
 https://pureplay.cdnstream1.com/6044_64.aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MVKpfWH.jpg" group-title="",Urban Lounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVKpfWH.jpg" group-title="Got Radio",Urban Lounge
 https://pureplay.cdnstream1.com/6053_64.aac/playlist.m3u8
 
 # https://www.0nradio.com/ #
-#EXTINF:-1 tvg-name="**** 0nradio ****" tvg-logo="https://www.0nradio.com/images/logo.png" group-title="0nradio",**** 0nradio ****
+#EXTINF:-1 tvg-name="★★★★ 0NRADIO ★★★★" tvg-logo="https://www.0nradio.com/images/logo.png" group-title="0nradio",★★★★ 0NRADIO ★★★★
 https://
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-50s-69-1.jpg" group-title="0nradio",50s
 https://0n-50s.radionetz.de/0n-50s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-60s-33-1.jpg" group-title="0nradio",60s
 https://0n-60s.radionetz.de/0n-60s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-70s-29-1.jpg" group-title="0nradio",70s
 https://0n-70s.radionetz.de/0n-70s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-80s-7-1.jpg" group-title="0nradio",80s
 https://0n-80s.radionetz.de/0n-80s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-90s-2-1.jpg" group-title="0nradio",90s
 https://0n-90s.radionetz.de/0n-90s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2000s-36-1.jpg" group-title="0nradio",2000s
 https://0n-2000s.radionetz.de/0n-2000s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2010s-64-1.jpg" group-title="0nradio",2010s
 https://0n-2010s.radionetz.de/0n-2010s.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hits-30-1.jpg" group-title="0nradio",Hits
 https://0n-hits.radionetz.de/0n-hits.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-greatest-hits-70-1.jpg" group-title="0nradio",Greatest Hits
 https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-charts-3-1.jpg" group-title="0nradio",Chart
 https://0n-charts.radionetz.de/0n-charts.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-top-40-38-1.jpg" group-title="0nradio",Top 40
 https://0n-top40.radionetz.de/0n-top40.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hot-65-1.jpg" group-title="0nradio",Hot
 https://0n-hot.radionetz.de/0n-hot.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-pop-42-1.jpg" group-title="0nradio",Pop
 https://0n-pop.radionetz.de/0n-pop.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-oldies-34-1.jpg" group-title="0nradio",Oldies
 https://0n-oldies.radionetz.de/0n-oldies.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-evergreens-57-1.jpg" group-title="0nradio",Evergreens
 https://0n-kult.radionetz.de/0n-kult.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gold-71-1.jpg" group-title="0nradio",Gold
 https://0n-gold.radionetz.de/0n-gold.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jukebox-58-1.jpg" group-title="0nradio",Jukebox
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-rock-32-1.jpg" group-title="0nradio",Rock
 https://0n-rock.radionetz.de/0n-rock.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-black-31-1.jpg" group-title="0nradio",black
 https://0n-black.radionetz.de/0n-black.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-dance-4-1.jpg" group-title="0nradio",Dance
 https://0n-dance.radionetz.de/0n-dance.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-6-1.jpg" group-title="0nradio",Schlager
 https://0n-schlager.radionetz.de/0n-schlager.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jazz-41-1.jpg" group-title="0nradio",Jazz
 https://0n-jazz.radionetz.de/0n-jazz.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-chillout-35-1.jpg" group-title="0nradio",Chillout
 https://0n-chillout.radionetz.de/0n-chillout.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-relax-49-1.jpg" group-title="0nradio",Relax
 https://0n-relax.radionetz.de/0n-relax.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-lounge-72-1.jpg" group-title="0nradio",Lounge
 https://0n-lounge.radionetz.de/0n-lounge.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-pop-73-1.jpg" group-title="0nradio",Soft Pop
 https://0n-softpop.radionetz.de/0n-softpop.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-love-74-1.jpg" group-title="0nradio",Love
 https://0n-love.radionetz.de/0n-love.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-country-47-1.jpg" group-title="0nradio",Country
 https://0n-country.radionetz.de/0n-country.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-kult-51-1.jpg" group-title="0nradio",Schlager Kult
 https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-gold-52-1.jpg" group-title="0nradio",Schlager Gold
 https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-volksmusik-53-1.jpg" group-title="0nradio",Volksmusik
 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-party-48-1.jpg" group-title="0nradio",Party
 https://0n-party.radionetz.de/0n-party.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-pop-54-1.jpg" group-title="0nradio",Deutsch Pop
 https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rap-55-1.jpg" group-title="0nradio",Deutsch Rap
 https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-disco-27-1.jpg" group-title="0nradio",Disco
 https://0n-disco.radionetz.de/0n-disco.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-house-66-1.jpg" group-title="0nradio",House
 https://0n-house.radionetz.de/0n-house.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-electro-5-1.jpg" group-title="0nradio",Electro
 https://0n-electro.radionetz.de/0n-electro.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gothic-39-1.jpg" group-title="0nradio",Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-indie-37-1.jpg" group-title="0nradio",Indie
 https://0n-indie.radionetz.de/0n-indie.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-classic-rock-50-1.jpg" group-title="0nradio",Classic Rock
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rock-75-1.jpg" group-title="0nradio",Deutsch Rock
 https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-rock-76-1.jpg" group-title="0nradio",Soft Rock
 https://0n-softrock.radionetz.de/0n-softrock.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-smooth-jazz-43-1.jpg" group-title="0nradio",Smooth Jazz
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-klassik-45-1.jpg" group-title="0nradio",Klassik
 https://0n-klassik.radionetz.de/0n-klassik.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-movies-46-1.jpg" group-title="0nradio",Movies
 https://0n-movies.radionetz.de/0n-movies.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-games-77-1.jpg" group-title="0nradio",Games
 https://0n-games.radionetz.de/0n-games.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-grand-prix-67-1.jpg" group-title="0nradio",Grand Prix
 https://0n-grandprix.radionetz.de/0n-grandprix.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-latin-78-1.jpg" group-title="0nradio",Latin
 https://0n-latin.radionetz.de/0n-latin.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-k-pop-79-1.jpg" group-title="0nradio",K Pop
 https://0n-kpop.radionetz.de/0n-kpop.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kids-68-1.jpg" group-title="0nradio",Kids
 https://0n-kids.radionetz.de/0n-kids.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gay-28-1.jpg" group-title="0nradio",Gay
 https://0n-gay.radionetz.de/0n-gay.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kult-57-1.jpg" group-title="0nradio",Kult
 https://0n-kult.radionetz.de/0n-kult.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-christmas-61-1.jpg" group-title="0nradio",Christmas
 https://0n-christmas.radionetz.de/0n-christmas.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-weihnachten-59-1.jpg" group-title="0nradio",Weihnachten
 https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
 
-#EXTINF:-1 tvg-name="**** GERMANY ****" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",**** GERMANY ****
+#EXTINF:-1 tvg-name="★★★★ RADIO GERMANY ★★★★" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",★★★★ RADIO GERMANY ★★★★
 https://
 #EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
@@ -1639,20 +1546,23 @@ https://secondradio.de:7070/ostrock?nc=1613902505298
 https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-name="**** SPAIN ****" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/acuIUpD.png",**** SPAIN ****
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+
+#EXTINF:-1 tvg-name="★★★★ RADIO SPAIN ★★★★" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/acuIUpD.png",★★★★ RADIO SPAIN ★★★★
+https://
 #EXTINF:-1 tvg-name="La Cuenca Radio" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/R0DQaME.jpg",La Cuenca Radio
 http://usa3.lhdserver.es:8082/stream
-#EXTINF:-1 tvg-name="**** USA ****" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",**** USA ****
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+
+#EXTINF:-1 tvg-name="★★★★ RADIO USA ★★★★" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",★★★★ RADIO USA ★★★★
+https://
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
 #EXTINF:-1 tvg-name="Thebig1510.com New Jersey" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/1z6u6ye.jpg",Thebig1510.com New Jersey
 https://ais-edge09-live365-dal02.cdnstream.com/a23482
 #EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
 https://live.topgold.al/topgold
-#EXTINF:-1 tvg-name="**** OLDIES ****" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",**** OLDIES ****
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+
+#EXTINF:-1 tvg-name="★★★★ OLDIES ★★★★" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",★★★★ OLDIES ★★★★
+https://
 #EXTINF:-1 tvg-name="60´s - Beatles Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/0tj4sXv.png",60´s - Beatles Radio
 http://www.beatlesradio.com:8000/stream/1/
 #EXTINF:-1 tvg-name="60´s - Harmony Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/iSdRq7b.png",60´s - Harmony Radio
