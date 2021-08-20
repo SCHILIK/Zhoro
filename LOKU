@@ -1405,115 +1405,115 @@ https://pureplay.cdnstream1.com/6044_64.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVKpfWH.jpg" group-title="Got Radio",Urban Lounge
 https://pureplay.cdnstream1.com/6053_64.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-name="★★★★ 0NRADIO ★★★★" tvg-logo="https://www.0nradio.com/images/logo.png" group-title="0nradio",★★★★ 0NRADIO ★★★★
+#EXTINF:-1 tvg-name="★★★★ ONRADIO ★★★★" tvg-logo="https://www.0nradio.com/images/logo.png" group-title="ONRADIO",★★★★ ONRADIO ★★★★
 https://
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-50s-69-1.jpg" group-title="0nradio",50s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-50s-69-1.jpg" group-title="ONRADIO",50s
 https://0n-50s.radionetz.de/0n-50s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-60s-33-1.jpg" group-title="0nradio",60s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-60s-33-1.jpg" group-title="ONRADIO",60s
 https://0n-60s.radionetz.de/0n-60s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-70s-29-1.jpg" group-title="0nradio",70s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-70s-29-1.jpg" group-title="ONRADIO",70s
 https://0n-70s.radionetz.de/0n-70s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-80s-7-1.jpg" group-title="0nradio",80s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-80s-7-1.jpg" group-title="ONRADIO",80s
 https://0n-80s.radionetz.de/0n-80s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-90s-2-1.jpg" group-title="0nradio",90s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-90s-2-1.jpg" group-title="ONRADIO",90s
 https://0n-90s.radionetz.de/0n-90s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2000s-36-1.jpg" group-title="0nradio",2000s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2000s-36-1.jpg" group-title="ONRADIO",2000s
 https://0n-2000s.radionetz.de/0n-2000s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2010s-64-1.jpg" group-title="0nradio",2010s
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-2010s-64-1.jpg" group-title="ONRADIO",2010s
 https://0n-2010s.radionetz.de/0n-2010s.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hits-30-1.jpg" group-title="0nradio",Hits
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hits-30-1.jpg" group-title="ONRADIO",Hits
 https://0n-hits.radionetz.de/0n-hits.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-greatest-hits-70-1.jpg" group-title="0nradio",Greatest Hits
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-greatest-hits-70-1.jpg" group-title="ONRADIO",Greatest Hits
 https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-charts-3-1.jpg" group-title="0nradio",Chart
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-charts-3-1.jpg" group-title="ONRADIO",Chart
 https://0n-charts.radionetz.de/0n-charts.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-top-40-38-1.jpg" group-title="0nradio",Top 40
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-top-40-38-1.jpg" group-title="ONRADIO",Top 40
 https://0n-top40.radionetz.de/0n-top40.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hot-65-1.jpg" group-title="0nradio",Hot
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-hot-65-1.jpg" group-title="ONRADIO",Hot
 https://0n-hot.radionetz.de/0n-hot.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-pop-42-1.jpg" group-title="0nradio",Pop
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-pop-42-1.jpg" group-title="ONRADIO",Pop
 https://0n-pop.radionetz.de/0n-pop.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-oldies-34-1.jpg" group-title="0nradio",Oldies
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-oldies-34-1.jpg" group-title="ONRADIO",Oldies
 https://0n-oldies.radionetz.de/0n-oldies.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-evergreens-57-1.jpg" group-title="0nradio",Evergreens
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-evergreens-57-1.jpg" group-title="ONRADIO",Evergreens
 https://0n-kult.radionetz.de/0n-kult.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gold-71-1.jpg" group-title="0nradio",Gold
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gold-71-1.jpg" group-title="ONRADIO",Gold
 https://0n-gold.radionetz.de/0n-gold.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jukebox-58-1.jpg" group-title="0nradio",Jukebox
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jukebox-58-1.jpg" group-title="ONRADIO",Jukebox
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-rock-32-1.jpg" group-title="0nradio",Rock
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-rock-32-1.jpg" group-title="ONRADIO",Rock
 https://0n-rock.radionetz.de/0n-rock.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-black-31-1.jpg" group-title="0nradio",black
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-black-31-1.jpg" group-title="ONRADIO",black
 https://0n-black.radionetz.de/0n-black.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-dance-4-1.jpg" group-title="0nradio",Dance
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-dance-4-1.jpg" group-title="ONRADIO",Dance
 https://0n-dance.radionetz.de/0n-dance.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-6-1.jpg" group-title="0nradio",Schlager
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-6-1.jpg" group-title="ONRADIO",Schlager
 https://0n-schlager.radionetz.de/0n-schlager.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jazz-41-1.jpg" group-title="0nradio",Jazz
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-jazz-41-1.jpg" group-title="ONRADIO",Jazz
 https://0n-jazz.radionetz.de/0n-jazz.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-chillout-35-1.jpg" group-title="0nradio",Chillout
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-chillout-35-1.jpg" group-title="ONRADIO",Chillout
 https://0n-chillout.radionetz.de/0n-chillout.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-relax-49-1.jpg" group-title="0nradio",Relax
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-relax-49-1.jpg" group-title="ONRADIO",Relax
 https://0n-relax.radionetz.de/0n-relax.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-lounge-72-1.jpg" group-title="0nradio",Lounge
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-lounge-72-1.jpg" group-title="ONRADIO",Lounge
 https://0n-lounge.radionetz.de/0n-lounge.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-pop-73-1.jpg" group-title="0nradio",Soft Pop
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-pop-73-1.jpg" group-title="ONRADIO",Soft Pop
 https://0n-softpop.radionetz.de/0n-softpop.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-love-74-1.jpg" group-title="0nradio",Love
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-love-74-1.jpg" group-title="ONRADIO",Love
 https://0n-love.radionetz.de/0n-love.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-country-47-1.jpg" group-title="0nradio",Country
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-country-47-1.jpg" group-title="ONRADIO",Country
 https://0n-country.radionetz.de/0n-country.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-kult-51-1.jpg" group-title="0nradio",Schlager Kult
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-kult-51-1.jpg" group-title="ONRADIO",Schlager Kult
 https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-gold-52-1.jpg" group-title="0nradio",Schlager Gold
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-schlager-gold-52-1.jpg" group-title="ONRADIO",Schlager Gold
 https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-volksmusik-53-1.jpg" group-title="0nradio",Volksmusik
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-volksmusik-53-1.jpg" group-title="ONRADIO",Volksmusik
 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-party-48-1.jpg" group-title="0nradio",Party
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-party-48-1.jpg" group-title="ONRADIO",Party
 https://0n-party.radionetz.de/0n-party.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-pop-54-1.jpg" group-title="0nradio",Deutsch Pop
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-pop-54-1.jpg" group-title="ONRADIO",Deutsch Pop
 https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rap-55-1.jpg" group-title="0nradio",Deutsch Rap
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rap-55-1.jpg" group-title="ONRADIO",Deutsch Rap
 https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-disco-27-1.jpg" group-title="0nradio",Disco
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-disco-27-1.jpg" group-title="ONRADIO",Disco
 https://0n-disco.radionetz.de/0n-disco.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-house-66-1.jpg" group-title="0nradio",House
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-house-66-1.jpg" group-title="ONRADIO",House
 https://0n-house.radionetz.de/0n-house.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-electro-5-1.jpg" group-title="0nradio",Electro
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-electro-5-1.jpg" group-title="ONRADIO",Electro
 https://0n-electro.radionetz.de/0n-electro.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gothic-39-1.jpg" group-title="0nradio",Gothic
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gothic-39-1.jpg" group-title="ONRADIO",Gothic
 https://0n-gothic.radionetz.de/0n-gothic.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-indie-37-1.jpg" group-title="0nradio",Indie
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-indie-37-1.jpg" group-title="ONRADIO",Indie
 https://0n-indie.radionetz.de/0n-indie.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-classic-rock-50-1.jpg" group-title="0nradio",Classic Rock
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-classic-rock-50-1.jpg" group-title="ONRADIO",Classic Rock
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rock-75-1.jpg" group-title="0nradio",Deutsch Rock
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-deutsch-rock-75-1.jpg" group-title="ONRADIO",Deutsch Rock
 https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-rock-76-1.jpg" group-title="0nradio",Soft Rock
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-soft-rock-76-1.jpg" group-title="ONRADIO",Soft Rock
 https://0n-softrock.radionetz.de/0n-softrock.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-smooth-jazz-43-1.jpg" group-title="0nradio",Smooth Jazz
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-smooth-jazz-43-1.jpg" group-title="ONRADIO",Smooth Jazz
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-klassik-45-1.jpg" group-title="0nradio",Klassik
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-klassik-45-1.jpg" group-title="ONRADIO",Klassik
 https://0n-klassik.radionetz.de/0n-klassik.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-movies-46-1.jpg" group-title="0nradio",Movies
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-movies-46-1.jpg" group-title="ONRADIO",Movies
 https://0n-movies.radionetz.de/0n-movies.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-games-77-1.jpg" group-title="0nradio",Games
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-games-77-1.jpg" group-title="ONRADIO",Games
 https://0n-games.radionetz.de/0n-games.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-grand-prix-67-1.jpg" group-title="0nradio",Grand Prix
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-grand-prix-67-1.jpg" group-title="ONRADIO",Grand Prix
 https://0n-grandprix.radionetz.de/0n-grandprix.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-latin-78-1.jpg" group-title="0nradio",Latin
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-latin-78-1.jpg" group-title="ONRADIO",Latin
 https://0n-latin.radionetz.de/0n-latin.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-k-pop-79-1.jpg" group-title="0nradio",K Pop
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-k-pop-79-1.jpg" group-title="ONRADIO",K Pop
 https://0n-kpop.radionetz.de/0n-kpop.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kids-68-1.jpg" group-title="0nradio",Kids
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kids-68-1.jpg" group-title="ONRADIO",Kids
 https://0n-kids.radionetz.de/0n-kids.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gay-28-1.jpg" group-title="0nradio",Gay
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-gay-28-1.jpg" group-title="ONRADIO",Gay
 https://0n-gay.radionetz.de/0n-gay.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kult-57-1.jpg" group-title="0nradio",Kult
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-kult-57-1.jpg" group-title="ONRADIO",Kult
 https://0n-kult.radionetz.de/0n-kult.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-christmas-61-1.jpg" group-title="0nradio",Christmas
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-christmas-61-1.jpg" group-title="ONRADIO",Christmas
 https://0n-christmas.radionetz.de/0n-christmas.mp3
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-weihnachten-59-1.jpg" group-title="0nradio",Weihnachten
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/images/programme/thumb1/0-n-weihnachten-59-1.jpg" group-title="ONRADIO",Weihnachten
 https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
 
 #EXTINF:-1 tvg-name="★★★★ RADIO GERMANY ★★★★" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",★★★★ RADIO GERMANY ★★★★
