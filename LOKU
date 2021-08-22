@@ -111,8 +111,10 @@ http://93.157.62.180/OraNews/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-name="Plus TV" tvg-id="" tvg-logo="https://i.imgur.com/rEZM1Gz.png" group-title="ALBANIA",Plus TV
 https://t2.tvmak.com/tv/plustelevision.m3u8
-#EXTINF:-1 tvg-name="Premium TV" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium TV
+#EXTINF:-1 tvg-name="Premium" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium
 https://premiummedia.al/stream/premium-channel/live.m3u8
+#EXTINF:-1 tvg-name="Premium Travel" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium Travel
+https://premiummedia.al/stream/premium-travel/live.m3u8
 #EXTINF:-1 tvg-name="Red TV" tvg-id="" tvg-logo="https://i.imgur.com/a0GtgvV.png" group-title="ALBANIA",Red TV
 https://t2.tvmak.com/tv/RTVRED.m3u8
 #EXTINF:-1 tvg-name="Report TV" tvg-id="" tvg-logo="https://i.imgur.com/Ac4Hfui.jpg" group-title="ALBANIA",Report TV
