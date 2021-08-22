@@ -83,8 +83,6 @@ http://us.bestvideostreaming.is/8704/playlist.m3u8
 http://93.157.62.180/KlanKosova/index.m3u8
 #EXTINF:-1 tvg-name="KLAN Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/nl7zjjD.png" group-title="ALBANIA",KLAN Macedonia
 http://us.bestvideostreaming.is/8789/index.m3u8
-#EXTINF:-1 tvg-name="KLAN News" tvg-id="" tvg-logo="https://i.imgur.com/NMtr8Z4.jpg" group-title="ALBANIA",KLAN News
-http://93.157.62.180/KlanNews/index.m3u8
 #EXTINF:-1 tvg-name="KLAN Plus" tvg-id="" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",KLAN Plus
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1 tvg-name="Koha TV" tvg-id="" tvg-logo="https://i.imgur.com/HQRdLbl.jpg" group-title="ALBANIA",Koha TV
@@ -199,8 +197,6 @@ https://t2.tvmak.com/tv/turbochannel.m3u8
 https://t2.tvmak.com/tv/TV2GV.m3u8
 #EXTINF:-1 tvg-name="TV 7" tvg-id="" tvg-logo="https://i.imgur.com/88NYxNV.png" group-title="ALBANIA",TV 7
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Ari" tvg-id="" tvg-logo="https://i.imgur.com/67AHTmt.png" group-title="ALBANIA",TV Ari
-http://live.aritv.ch:6969/live/ari/tv/1.m3u8
 #EXTINF:-1 tvg-name="TV Dielli" tvg-id="" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 tvg-name="TV Era" tvg-id="" tvg-logo="https://i.imgur.com/VA3iIP0.png" group-title="ALBANIA",TV Era
@@ -231,6 +227,8 @@ https://t2.tvmak.com/tv/USKANAKERCOVE.m3u8
 https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
 #EXTINF:-1 tvg-name="Vizion Plus" tvg-id="" tvg-logo="https://i.imgur.com/Q2MZPab.png" group-title="ALBANIA",Vizion Plus
 https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
+#EXTINF:-1 tvg-name="Vizion Plus HD" tvg-id="" tvg-logo="https://i.imgur.com/Mh9wROB.png" group-title="ALBANIA",Vizion Plus HD
+http://95.107.132.106/out/u/646_5.m3u8
 #EXTINF:-1 tvg-name="Zico TV" tvg-id="" tvg-logo="https://i.imgur.com/HDADUtX.png" group-title="ALBANIA",Zico TV
 https://t2.tvmak.com/tv/zicotv.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
