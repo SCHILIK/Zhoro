@@ -65,6 +65,8 @@ http://edge01eu.ekranet.com/elroditv_240p/index.m3u8
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 #EXTINF:-1 tvg-name="Fax News" tvg-id="" tvg-logo="https://i.imgur.com/14czF3V.jpg" group-title="ALBANIA",Fax News
 http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-name="Film Aksion" tvg-id="" tvg-logo="https://i.imgur.com/PxrW9D1.png" group-title="ALBANIA",Film Aksion
+http://us.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1 tvg-name="Film Dy HD" tvg-id="" tvg-logo="https://i.imgur.com/Bs4PWOn.png" group-title="ALBANIA",Film Dy HD
 http://us.bestvideostreaming.is/8732/playlist.m3u8
 #EXTINF:-1 tvg-name="First" tvg-id="" tvg-logo="https://i.imgur.com/xi6gq5p.png" group-title="ALBANIA",First
@@ -931,15 +933,15 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playli
 #EXTINF:-1 tvg-name="Mooz Dance (RO) (Not until Kodi 19!)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Dance (RO) (Not until Kodi 19!)
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-name="Mooz Hits (RO) (Not until Kodi 19!)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Hits (RO) (Not until Kodi 19!)
+#EXTINF:-1 tvg-name="Mooz Hits (RO)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Hits (RO)
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-name="Mooz RO! (RO) (Not until Kodi 19!)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz RO! (RO) (Not until Kodi 19!)
+#EXTINF:-1 tvg-name="Mooz RO! (RO)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz RO! (RO)
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 tvg-name="MTV Germany (DE) (Free from akamaihd.net!)" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/peq4OaE.png" group-title="MUSIC",MTV Germany (DE) (Free from akamaihd.net!)
+#EXTINF:-1 tvg-name="MTV Germany (DE)" tvg-id="MTVGermany.de" tvg-logo="https://i.imgur.com/peq4OaE.png" group-title="MUSIC",MTV Germany (DE)
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
-#EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" tvg-logo="https://i.imgur.com/peq4OaE.png" group-title="MUSIC",MTV Norway (NO) (Free from akamaihd.net!)
+#EXTINF:-1 tvg-name="MTV Norway (NO)" tvg-id="MTV Norway" tvg-logo="https://i.imgur.com/peq4OaE.png" group-title="MUSIC",MTV Norway (NO)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-name="MuzzOne (KZ)" tvg-id="" tvg-logo="https://i.imgur.com/g12MeUz.png" group-title="MUSIC",MuzzOne (KZ)
 https://muzzone-stream.daitsuna.net/muzzone/muzzone/index.m3u8
