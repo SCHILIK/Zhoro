@@ -41,6 +41,8 @@ https://t2.tvmak.com/tv/ALSATM.m3u8
 http://us.bestvideostreaming.is/7722/index.m3u8
 #EXTINF:-1 tvg-name="Apollon" tvg-id="" tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-name="Arta TV" tvg-id="" tvg-logo="https://i.imgur.com/mLQhxmw.jpg" group-title="ALBANIA",Arta TV
+http://us.bestvideostreaming.is/8745/index.m3u8
 #EXTINF:-1 tvg-name="ATD USA" tvg-id="" tvg-logo="https://i.imgur.com/qZtN1WI.jpg" group-title="ALBANIA",ATD USA
 http://46.99.146.236/0.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="https://i.imgur.com/VwnsYOo.png" group-title="ALBANIA",ATV
@@ -213,6 +215,8 @@ https://t2.tvmak.com/tv/TVKOPLIKU.m3u8
 http://us.bestvideostreaming.is/8823/index.m3u8
 #EXTINF:-1 tvg-name="TV Mitrovica" tvg-id="" tvg-logo="https://i.imgur.com/zWEdK5p.jpg" group-title="ALBANIA",TV Mitrovica
 http://us.bestvideostreaming.is/8716/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Plisi" tvg-id="" tvg-logo="https://i.imgur.com/CTBXEmm.jpg" group-title="ALBANIA",TV Plisi
+http://us.bestvideostreaming.is/8735/index.m3u8
 #EXTINF:-1 tvg-name="TV Pollogu" tvg-id="" tvg-logo="https://i.imgur.com/acMzlPF.png" group-title="ALBANIA",TV Pollogu
 https://t2.tvmak.com/tv/USKANATETOVE.m3u8
 #EXTINF:-1 tvg-name="TV Presheva" tvg-id="" tvg-logo="https://i.imgur.com/QXOYrsJ.png" group-title="ALBANIA",TV Presheva
@@ -705,7 +709,7 @@ https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Contact (BE)" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIC",Radio Contact (BE)
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-name="RADIO FRECCIA HD (IT)" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="MUSIC",RADIO FRECCIA HD (IT)
+#EXTINF:-1 tvg-name="Radio Freccia HD (IT)" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="MUSIC",Radio Freccia HD (IT)
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-name="Radio Italia TV (IT)" tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIC",Radio Italia TV (IT)
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
@@ -721,7 +725,7 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 https://stream7.xdevel.com/video0s975885-472/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Pilatus (CH)" tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="MUSIC",Radio Pilatus (CH)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Radiou TV (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/236PqNm.jpg",Radiou TV (US)
+#EXTINF:-1 tvg-name="Radiou TV (US)" tvg-logo="https://i.imgur.com/236PqNm.jpg" group-title="MUSIC",Radiou TV (US)
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-name="Radio Taormina Sicilia (IT)" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIC",Radio Taormina Sicilia (IT)
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
@@ -729,17 +733,19 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Dance 90's (RU)" tvg-logo="https://i.imgur.com/f0n3veh.jpeg" group-title="MUSIC",Retro Dance 90's (RU)
 https://retro-dance.online/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-name="Retro Musik (CZ)" group-title="MUSIC" tvg-logo="https://i.imgur.com/GHJYqYg.png",Retro Musik (CZ)
+#EXTINF:-1 tvg-name="Retro Musik (CZ)" tvg-logo="https://i.imgur.com/GHJYqYg.png" group-title="MUSIC",Retro Musik (CZ)
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Plus HD (BR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus HD (BR)
+#EXTINF:-1 tvg-name="Retro Plus HD (BR)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="MUSIC",Retro Plus HD (BR)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Plus 2 HD (BR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2 HD (BR)
+#EXTINF:-1 tvg-name="Retro Plus 2 HD (BR)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="MUSIC",Retro Plus 2 HD (BR)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-name="Rewind HD (CI)" group-title="MUSIC" tvg-logo="https://i.imgur.com/Ni2jlBi.png",Rewind HD (CI)
+#EXTINF:-1 tvg-name="Rewind HD (CI)" tvg-logo="https://i.imgur.com/Ni2jlBi.png" group-title="MUSIC",Rewind HD (CI)
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rimex TV (BG)" tvg-logo="https://i.imgur.com/j0nRzh5.jpeg" group-title="MUSIC",Rimex TV (BG)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-name="Rock TV (RO)" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="MUSIC",Rock TV (RO)
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 BEST (IT)" group-title="MUSIC" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST (IT)
+#EXTINF:-1 tvg-name="RTL 102.5 BEST (IT)" tvg-logo="https://i.imgur.com/E4G6PiA.png" group-title="MUSIC",RTL 102.5 BEST (IT)
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-name="Rwanda Television RTV (RW)" tvg-logo="https://i.imgur.com/VkaCr2d.png" group-title="MUSIC",Rwanda Television RTV (RW)
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
