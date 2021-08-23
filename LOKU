@@ -93,7 +93,7 @@ http://93.157.62.180/KlanPlus/index.m3u8
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
 #EXTINF:-1 tvg-name="Koha Vision" tvg-id="" tvg-logo="https://i.imgur.com/ybWxA87.png" group-title="ALBANIA",Koha Vision
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1 tvg-name="Korça +" tvg-id="" tvg-logo="https://i.imgur.com/TNkme0A.jpg" group-title="ALBANIA",Korça +
+#EXTINF:-1 tvg-name="Korça+" tvg-id="" tvg-logo="https://i.imgur.com/TNkme0A.jpg" group-title="ALBANIA",Korça+
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 tvg-name="MCN" tvg-id="" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
@@ -195,6 +195,8 @@ https://tv.syri.net/syrilive/webtv/playlist.m3u8
 https://t2.tvmak.com/tv/SYRIVISION.m3u8
 #EXTINF:-1 tvg-name="TOP Channel" tvg-id="" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel
 http://us.bestvideostreaming.is/8708/index.m3u8
+#EXTINF:-1 tvg-name="TOP Channel HD" tvg-id="" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel HD
+http://93.157.62.180/TopChannel/index.m3u8
 #EXTINF:-1 tvg-name="TOP News" tvg-id="" tvg-logo="https://i.imgur.com/KqyGF8M.png" group-title="ALBANIA",TOP News
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-name="TopEstrada TV" tvg-id="" tvg-logo="https://i.imgur.com/8Q1uoF7.png" group-title="ALBANIA",TopEstrada TV
