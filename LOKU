@@ -954,7 +954,7 @@ https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Melody Channel (CO)" tvg-id="" tvg-logo="https://i.imgur.com/aN0UFKV.jpg" group-title="MUSIC",Melody Channel (CO)
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Mooz Dance (RO) (Not until Kodi 19!)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Dance (RO) (Not until Kodi 19!)
+#EXTINF:-1 tvg-name="Mooz Dance (RO)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Dance (RO)
 #EXTVLCOPT:http-referrer=https://mooz.tv/
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-name="Mooz Hits (RO)" tvg-id="" tvg-logo="https://i.imgur.com/XsTRaRS.png" group-title="MUSIC",Mooz Hits (RO)
@@ -991,7 +991,7 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/chunklist_w1652701482.m3u8
 #EXTINF:-1 tvg-name="Radio Pop TV (CL)" tvg-id="" tvg-logo="https://i.imgur.com/wYtZLZK.png" group-title="MUSIC",Radio Pop TV (CL)
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-name="Radio Power (Webradio) (AR)" tvg-id="" tvg-logo="https://i.imgur.com/iit7jNO.png" group-title="MUSIC",Radio Power (Webradio) (AR)
+#EXTINF:-1 tvg-name="Radio Power (AR)" tvg-id="" tvg-logo="https://i.imgur.com/iit7jNO.png" group-title="MUSIC",Radio Power (AR)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-name="Radio Siena TV (IT)" tvg-id="" tvg-logo="https://i.imgur.com/iO8XAwa.png" group-title="MUSIC",Radio Siena TV (IT)
 http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
@@ -1583,19 +1583,12 @@ https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 
-#EXTINF:-1 tvg-name="★★★★ RADIO SPAIN ★★★★" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/acuIUpD.png",★★★★ RADIO SPAIN ★★★★
-https://
-#EXTINF:-1 tvg-name="La Cuenca Radio" group-title="RADIO SPAIN" radio="true" tvg-logo="https://i.imgur.com/R0DQaME.jpg",La Cuenca Radio
-http://usa3.lhdserver.es:8082/stream
-
 #EXTINF:-1 tvg-name="★★★★ RADIO USA ★★★★" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",★★★★ RADIO USA ★★★★
 https://
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
 #EXTINF:-1 tvg-name="Thebig1510.com New Jersey" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/1z6u6ye.jpg",Thebig1510.com New Jersey
 https://ais-edge09-live365-dal02.cdnstream.com/a23482
-#EXTINF:-1 tvg-name="TOP GOLD" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/MN7jL8S.jpg",TOP GOLD
-https://live.topgold.al/topgold
 
 #EXTINF:-1 tvg-name="★★★★ OLDIES ★★★★" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",★★★★ OLDIES ★★★★
 https://
@@ -1605,3 +1598,5 @@ http://www.beatlesradio.com:8000/stream/1/
 http://server1.harmonyradio.be:8052/stream/1/
 #EXTINF:-1 tvg-name="60´s - KTL Oldieradio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/xHCWak0.jpg",60´s - KTL Oldieradio
 http://streamplus36.leonex.de:24844/stream/1/
+#EXTINF:-1 tvg-name="La Cuenca Radio" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/R0DQaME.jpg",La Cuenca Radio
+http://usa3.lhdserver.es:8082/stream
