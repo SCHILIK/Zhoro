@@ -97,13 +97,15 @@ https://t2.tvmak.com/tv/ISTOGUchannel.m3u8
 http://tvistogu.better-than.tv:8090/ISTOGU/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7" tvg-id="" tvg-logo="https://i.imgur.com/eO5WpXo.png" group-title="ALBANIA",Kanali 7
 http://95.107.132.105/out/u/581_1.m3u8
-#EXTINF:-1 tvg-name="KLAN" tvg-id="" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",KLAN
+#EXTINF:-1 tvg-name="Klan" tvg-id="" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan
 http://us.bestvideostreaming.is/8704/playlist.m3u8
+#EXTINF:-1 tvg-name="Klan HD" tvg-id="" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan HD
+http://93.157.62.180/TVKlanHD/index.m3u8
 #EXTINF:-1 tvg-name="Klan Kosova" tvg-id="" tvg-logo="https://i.imgur.com/umtl5FQ.png" group-title="ALBANIA",Klan Kosova
 http://93.157.62.180/KlanKosova/index.m3u8
-#EXTINF:-1 tvg-name="KLAN Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/nl7zjjD.png" group-title="ALBANIA",KLAN Macedonia
+#EXTINF:-1 tvg-name="Klan Maçedonia" tvg-id="" tvg-logo="https://i.imgur.com/nl7zjjD.png" group-title="ALBANIA",Klan Maçedonia
 http://us.bestvideostreaming.is/8789/index.m3u8
-#EXTINF:-1 tvg-name="KLAN Plus" tvg-id="" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",KLAN Plus
+#EXTINF:-1 tvg-name="Klan Plus" tvg-id="" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1 tvg-name="Koha TV" tvg-id="" tvg-logo="https://i.imgur.com/HQRdLbl.jpg" group-title="ALBANIA",Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
