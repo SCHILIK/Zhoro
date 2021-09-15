@@ -213,6 +213,8 @@ https://tv.syri.net/syrilive/webtv/playlist.m3u8
 https://t2.tvmak.com/tv/SYRIVISION.m3u8
 #EXTINF:-1 tvg-name="T HD" tvg-id="" tvg-logo="https://i.imgur.com/ok8spDi.png" group-title="ALBANIA",T HD
 http://us.bestvideostreaming.is/8746/playlist.m3u8
+#EXTINF:-1 tvg-name="Teuta TV" tvg-id="" tvg-logo="https://i.imgur.com/aqfZ0x5.png" group-title="ALBANIA",Teuta TV
+http://143.244.204.5/tvteuta/index.m3u8
 #EXTINF:-1 tvg-name="TOP Channel" tvg-id="" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel
 http://us.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1 tvg-name="TOP Channel HD" tvg-id="" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel HD
