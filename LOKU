@@ -178,7 +178,7 @@ http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Shqip" tvg-id="" tvg-logo="https://i.imgur.com/EjXxjaP.png" group-title="ALBANIA",RTSH Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Sport" tvg-id="" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
-http://79.106.48.2:4578/live/sport_mob_ppp1/playlist.m3u8
+http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-name="RTV Arberia" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia
 https://yayin.haber100.com/P361579059/rtvarberia/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Arberia Mix" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia Mix
