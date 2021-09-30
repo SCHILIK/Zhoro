@@ -203,8 +203,16 @@ https://t2.tvmak.com/tv/SPINTV.m3u8
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1 tvg-name="Supersonic TV" tvg-id="" tvg-logo="https://i.imgur.com/qHMCkmw.png" group-title="ALBANIA",Supersonic TV
 http://us.bestvideostreaming.is/8821/index.m3u8
-#EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/YRavKMF.png" group-title="ALBANIA",Supersport 1 HD
+#EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/6Epsrsi.png" group-title="ALBANIA",Supersport 1 HD
 http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-name="Supersport 2 HD" tvg-id="" tvg-logo="https://i.imgur.com/Gfz3fvB.png" group-title="ALBANIA",Supersport 2 HD
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-name="Supersport 3 HD" tvg-id="" tvg-logo="https://i.imgur.com/FQwx7FJ.png" group-title="ALBANIA",Supersport 3 HD
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-name="Supersport 4 HD" tvg-id="" tvg-logo="https://i.imgur.com/u5BR5Ja.png" group-title="ALBANIA",Supersport 4 HD
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-name="Supersport 5 HD" tvg-id="" tvg-logo="https://i.imgur.com/DvveibV.png" group-title="ALBANIA",Supersport 5 HD
+http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1 tvg-name="Syri Blue" tvg-id="" tvg-logo="https://i.imgur.com/CFxALyy.png" group-title="ALBANIA",Syri Blue
 http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
 #EXTINF:-1 tvg-name="Syri TV" tvg-id="" tvg-logo="https://i.imgur.com/cjgfqxP.jpg" group-title="ALBANIA",Syri TV
