@@ -34,7 +34,7 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ALPO" tvg-id="" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="ALBANIA",ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 tvg-name="Alsat M" tvg-id="" tvg-logo="https://i.imgur.com/cqIm793.png" group-title="ALBANIA",Alsat M
-https://t2.tvmak.com/tv/ALSATM.m3u8
+http://us.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-1 tvg-name="Amol TV" tvg-id="" tvg-logo="https://i.imgur.com/EycNXpL.png" group-title="ALBANIA",Amol TV
 http://us.bestvideostreaming.is/7722/index.m3u8
 #EXTINF:-1 tvg-name="Apollon" tvg-id="" tvg-logo="https://i.imgur.com/RTZKRUV.jpg" group-title="ALBANIA",Apollon
@@ -97,6 +97,8 @@ https://t2.tvmak.com/tv/ISTOGUchannel.m3u8
 http://tvistogu.better-than.tv:8090/ISTOGU/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7" tvg-id="" tvg-logo="https://i.imgur.com/eO5WpXo.png" group-title="ALBANIA",Kanali 7
 http://95.107.132.105/out/u/581_1.m3u8
+#EXTINF:-1 tvg-name="Kanali 10" tvg-id="" tvg-logo="https://i.imgur.com/cN0HHIK.jpeg" group-title="ALBANIA",Kanali 10
+http://us.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1 tvg-name="Klan" tvg-id="KLAN.al" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan
 http://us.bestvideostreaming.is/8704/playlist.m3u8
 #EXTINF:-1 tvg-name="Klan HD" tvg-id="KLAN.al" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan HD
@@ -108,7 +110,7 @@ http://us.bestvideostreaming.is/8789/index.m3u8
 #EXTINF:-1 tvg-name="Klan Plus" tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1 tvg-name="Koha TV" tvg-id="" tvg-logo="https://i.imgur.com/HQRdLbl.jpg" group-title="ALBANIA",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
+http://us.bestvideostreaming.is/8710/index.m3u8
 #EXTINF:-1 tvg-name="Koha Vision" tvg-id="" tvg-logo="https://i.imgur.com/ybWxA87.png" group-title="ALBANIA",Koha Vision
 http://us.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1 tvg-name="Korça+" tvg-id="" tvg-logo="https://i.imgur.com/TNkme0A.jpg" group-title="ALBANIA",Korça+
@@ -275,6 +277,8 @@ https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
 https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
 #EXTINF:-1 tvg-name="Vizion Plus HD" tvg-id="VizionPlus.al" tvg-logo="https://i.imgur.com/Mh9wROB.png" group-title="ALBANIA",Vizion Plus HD
 http://95.107.132.106/out/u/646_5.m3u8
+#EXTINF:-1 tvg-name="Vizion+" tvg-id="VizionPlus.al" tvg-logo="https://i.imgur.com/Q2MZPab.png" group-title="ALBANIA",Vizion+
+http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zico TV" tvg-id="" tvg-logo="https://i.imgur.com/HDADUtX.png" group-title="ALBANIA",Zico TV
 https://t2.tvmak.com/tv/zicotv.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
