@@ -296,6 +296,17 @@ https://t2.tvmak.com/tv/zicotv.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 
+#EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/VSz9sQP.png" group-title="SPORTS",★★★★ SPORTS ★★★★
+https://
+#EXTINF:-1 tvg-name="All Sports TV (BR)" tvg-id="" tvg-logo="https://i.imgur.com/ePDRRqh.png" group-title="SPORTS",All Sports TV (BR)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/index.m3u8
+#EXTINF:-1 tvg-name="Sport1 (DE)" tvg-id="" tvg-logo="https://i.imgur.com/V3Wmgof.png" group-title="SPORTS",Sport1 (DE)
+https://streaming-s1free.sport1.de/stjGvfT8YJN_iJCfUEIBcw==,1633120445/ls-45420-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/18tFvmS.png" group-title="SPORTS",Stadium (US)
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_0/b17a64ad6b714ddb95416d24bf55c9ff/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="★★★★ EX-YUG ★★★★" tvg-logo="https://i.imgur.com/VSz9sQP.png" group-title="EX-YUG",★★★★ EX-YUG ★★★★
 https://
 #EXTINF:-1 tvg-name="Aljazeera Balkans (BiH)" tvg-id="" tvg-logo="https://i.imgur.com/hsiO62I.png" group-title="EX-YUG",Aljazeera Balkans (BiH)
