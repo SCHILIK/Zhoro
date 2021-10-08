@@ -1073,6 +1073,13 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv Music (IT)" tvg-id="" tvg-logo="https://i.imgur.com/vC9NJ6D.png" group-title="MUSIC",Zerouno Tv Music (IT)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNxMDzV.png" group-title="M Radio",★★★★ M Radio FRANCE ★★★★
+https://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUCg96c.png" group-title="M Radio",M Radio - 100 titres cultes
+https://mradio-100-titres-cultes.ice.infomaniak.ch/mradio-100-titres-cultes.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kkYDtbw.png" group-title="M Radio",M Radio - Années 90
+https://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eY7UcMq.png" group-title="MIX Radio",★★★★ MIX Radio ★★★★
 https://
 #EXTINF:-1 group-title="MIX Radio",TOP GOLD
