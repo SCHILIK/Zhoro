@@ -300,10 +300,12 @@ http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 https://
 #EXTINF:-1 tvg-name="All Sports TV (BR)" tvg-id="" tvg-logo="https://i.imgur.com/ePDRRqh.png" group-title="SPORTS",All Sports TV (BR)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA (US)" tvg-id="" tvg-logo="https://i.imgur.com/vDp4prN.png" group-title="SPORTS",beIN SPORTS XTRA (US)
+https://bein-xtra-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport1 (DE)" tvg-id="" tvg-logo="https://i.imgur.com/V3Wmgof.png" group-title="SPORTS",Sport1 (DE)
 https://streaming-s1free.sport1.de/stjGvfT8YJN_iJCfUEIBcw==,1633120445/ls-45420-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/18tFvmS.png" group-title="SPORTS",Stadium (US)
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_0/b17a64ad6b714ddb95416d24bf55c9ff/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
@@ -898,6 +900,8 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-name="VIVA Russia (RU)" tvg-logo="https://i.imgur.com/m51HbCG.jpg" group-title="MUSIC",VIVA Russia (RU)
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-name="Vivaldi (Roku)" tvg-logo="https://i.imgur.com/m51HbCG.jpg" group-title="MUSIC",Vivaldi (Roku)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-rokuus/playlist.m3u8
 #EXTINF:-1 tvg-name="Voice Musik (CM)" tvg-logo="https://i.imgur.com/dczjxWX.jpg" group-title="MUSIC",Voice Musik (CM)
 http://connectiktv.ddns.net:5000/voicetv/voicetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Wham TV (BR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/vxg8fKd.jpg",Wham TV (BR)
