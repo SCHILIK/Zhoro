@@ -975,20 +975,20 @@ https://vdo1.streamgato.us:3833/live/lasuperdiscotecatvlive.m3u8
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-live360-hsslive-25f-MB/playlist.m3u8
 #EXTINF:-1 tvg-name="Logos Channel (FR)" tvg-id="" tvg-logo="https://i.imgur.com/HLboDZU.jpg" group-title="MUSIC",Logos Channel (FR)
 http://connectiktv.ddns.me:8080/logoschannel/logoschannel/index.m3u8
-#EXTINF:-1 tvg-name="Loop 80's (US)" tvg-id="" tvg-logo="https://i.imgur.com/SKn4c0g.png" group-title="MUSIC",Loop 80's (US)
-https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="LMTV (FR) (DM)" tvg-id="" tvg-logo="https://i.imgur.com/bKaNppo.png" group-title="MUSIC",LMTV (FR) (DM)
 plugin://plugin.video.dailymotion_com/?url=/x702fmv&mode=playLiveVideo
+#EXTINF:-1 tvg-name="Loop 80's (US)" tvg-id="" tvg-logo="https://i.imgur.com/SKn4c0g.png" group-title="MUSIC",Loop 80's (US)
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop 90's (US)" tvg-id="" tvg-logo="https://i.imgur.com/co9pX3i.png" group-title="MUSIC",Loop 90's (US)
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop Country (US)" tvg-id="" tvg-logo="https://i.imgur.com/QCfO13m.png" group-title="MUSIC",Loop Country (US) 
-https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop_Hip_Hop (US)" tvg-id="827f7a" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="MUSIC",Loop Hip Hop (US) 
-https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
+https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop_Hottest (US)" tvg-id="abf712" tvg-logo="https://i.imgur.com/KAMY5JE.png" group-title="MUSIC",Loop Hottest (US) 
-https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
+https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop_Party (US)" tvg-id="58d230" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="MUSIC",Loop Party (US) 
-https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Love FM TV (IT)" tvg-logo="https://i.imgur.com/mnN4S5J.jpg" group-title="MUSIC",Love FM TV (IT)
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Melody Channel (CO)" tvg-id="" tvg-logo="https://i.imgur.com/aN0UFKV.jpg" group-title="MUSIC",Melody Channel (CO)
