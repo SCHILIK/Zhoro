@@ -121,8 +121,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:-1 tvg-name="Premium Travel" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium Travel
 https://premiummedia.al/stream/premium-travel/live.m3u8
-#EXTINF:-1 tvg-name="Red TV" tvg-id="" tvg-logo="https://i.imgur.com/a0GtgvV.png" group-title="ALBANIA",Red TV
-https://t2.tvmak.com/tv/RTVRED.m3u8
 #EXTINF:-1 tvg-name="Report TV" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/Ac4Hfui.jpg" group-title="ALBANIA",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RTK 1" tvg-id="" tvg-logo="https://i.imgur.com/HyyO4Qw.png" group-title="ALBANIA",RTK 1
@@ -177,8 +175,6 @@ http://us.bestvideostreaming.is/8852/index.m3u8
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-name="SCAN TV" tvg-id="" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:-1 tvg-name="Shota TV" tvg-id="" tvg-logo="https://i.imgur.com/MOsl3mR.png" group-title="ALBANIA",Shota TV
-https://t2.tvmak.com/tv/SHOTATV.m3u8
 #EXTINF:-1 tvg-name="Sky Aksion" tvg-id="" tvg-logo="https://i.imgur.com/KZ6hUQO.jpg" group-title="ALBANIA",Sky Aksion
 http://us.bestvideostreaming.is/8880/index.m3u8
 #EXTINF:-1 tvg-name="Sky Drame" tvg-id="" tvg-logo="https://i.imgur.com/zsqrwVB.jpg" group-title="ALBANIA",Sky Drame
