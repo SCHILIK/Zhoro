@@ -198,8 +198,6 @@ http://us.bestvideostreaming.is/8881/index.m3u8
 #EXTINF:-1 tvg-name="Sky Max" tvg-id="" tvg-logo="https://i.imgur.com/IM7wkrK.jpg" group-title="ALBANIA",Sky Max
 http://us.bestvideostreaming.is/8882/index.m3u8
 #EXTINF:-1 tvg-name="Start TV" tvg-id="" tvg-logo="https://i.imgur.com/IAxcIpF.png" group-title="ALBANIA",Start TV
-http://us.bestvideostreaming.is/8882/index.m3u8
-#EXTINF:-1 tvg-name="Supersonic TV" tvg-id="" tvg-logo="https://i.imgur.com/qHMCkmw.png" group-title="ALBANIA",Supersonic TV
 http://us.bestvideostreaming.is/8821/index.m3u8
 #EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/6Epsrsi.png" group-title="ALBANIA",Supersport 1 HD
 http://93.157.62.180/Supersport1/index.m3u8
@@ -221,6 +219,8 @@ http://us.bestvideostreaming.is/8784/index.m3u8
 http://us.bestvideostreaming.is/8746/playlist.m3u8
 #EXTINF:-1 tvg-name="Teuta TV" tvg-id="" tvg-logo="https://i.imgur.com/aqfZ0x5.png" group-title="ALBANIA",Teuta TV
 http://143.244.204.5/tvteuta/index.m3u8
+#EXTINF:-1 tvg-name="Tip TV" tvg-id="" tvg-logo="https://i.imgur.com/bF2QWAk.png" group-title="ALBANIA",Tip TV
+http://us.bestvideostreaming.is/8776/index.m3u8
 #EXTINF:-1 tvg-name="TOP Channel" tvg-id="TopChannel.al" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel
 http://us.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1 tvg-name="TOP Channel HD" tvg-id="TopChannel.al" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel HD
@@ -229,8 +229,30 @@ http://93.157.62.180/TopChannel/index.m3u8
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-name="TopEstrada TV" tvg-id="" tvg-logo="https://i.imgur.com/8Q1uoF7.png" group-title="ALBANIA",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-name="Tring 3 Plus" tvg-id="Tring3Plus.al" tvg-logo="https://i.imgur.com/Cv8mG3R.png" group-title="ALBANIA",Tring 3 Plus
+http://us.bestvideostreaming.is/8773/index.m3u8
 #EXTINF:-1 tvg-name="Tring Action" tvg-id="TringAction.al" tvg-logo="https://i.imgur.com/sutPP11.png" group-title="ALBANIA",Tring Action
 http://us.bestvideostreaming.is/8769/index.m3u8
+#EXTINF:-1 tvg-name="Tring Comedy" tvg-id="" tvg-logo="https://i.imgur.com/FxaF5j0.png" group-title="ALBANIA",Tring Comedy
+http://us.bestvideostreaming.is/8767/index.m3u8
+#EXTINF:-1 tvg-name="Tring Fantasy" tvg-id="" tvg-logo="https://i.imgur.com/gCFHoYM.png" group-title="ALBANIA",Tring Fantasy
+http://us.bestvideostreaming.is/8766/index.m3u8
+#EXTINF:-1 tvg-name="Tring History" tvg-id="" tvg-logo="https://i.imgur.com/QuAJjeC.png" group-title="ALBANIA",Tring History
+http://us.bestvideostreaming.is/8765/index.m3u8
+#EXTINF:-1 tvg-name="Tring Jolly" tvg-id="TringJolly.al" tvg-logo="https://i.imgur.com/406rQWE.png" group-title="ALBANIA",Tring Jolly
+http://us.bestvideostreaming.is/8774/index.m3u8
+#EXTINF:-1 tvg-name="Tring Kids" tvg-id="TringKids.al" tvg-logo="https://i.imgur.com/Fx1rKuQ.png" group-title="ALBANIA",Tring Kids
+http://us.bestvideostreaming.is/8777/index.m3u8
+#EXTINF:-1 tvg-name="Tring Life" tvg-id="" tvg-logo="https://i.imgur.com/zvEHSNN.png" group-title="ALBANIA",Tring Life
+http://us.bestvideostreaming.is/8768/index.m3u8
+#EXTINF:-1 tvg-name="Tring Living" tvg-id="" tvg-logo="https://i.imgur.com/PhXAYL4.png" group-title="ALBANIA",Tring Living
+http://us.bestvideostreaming.is/8771/index.m3u8
+#EXTINF:-1 tvg-name="Tring Muse" tvg-id="TringMuse.al" tvg-logo="https://i.imgur.com/1P3bSSr.png" group-title="ALBANIA",Tring Muse
+http://us.bestvideostreaming.is/8778/index.m3u8
+#EXTINF:-1 tvg-name="Tring Planet" tvg-id="" tvg-logo="https://i.imgur.com/zmNhOiQ.png" group-title="ALBANIA",Tring Planet
+http://us.bestvideostreaming.is/8764/index.m3u8
+#EXTINF:-1 tvg-name="Tring Smile" tvg-id="TringSmile.al" tvg-logo="https://i.imgur.com/XCmdL8s.png" group-title="ALBANIA",Tring Smile
+http://us.bestvideostreaming.is/8802/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 1 HD" tvg-id="TringSport1.al" tvg-logo="https://i.imgur.com/XTAo9NC.png" group-title="ALBANIA",Tring Sport 1 HD
 http://us.bestvideostreaming.is/8796/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 2 HD" tvg-id="TringSport2.al" tvg-logo="https://i.imgur.com/JFWbgQH.png" group-title="ALBANIA",Tring Sport 2 HD
@@ -239,6 +261,12 @@ http://us.bestvideostreaming.is/8797/index.m3u8
 http://us.bestvideostreaming.is/8785/index.m3u8
 #EXTINF:-1 tvg-name="Tring Shqip" tvg-id="TringShqip.al" tvg-logo="https://i.imgur.com/wHAOEFp.png" group-title="ALBANIA",Tring Shqip
 http://us.bestvideostreaming.is/8762/index.m3u8
+#EXTINF:-1 tvg-name="Tring Tring" tvg-id="TringTring.al" tvg-logo="https://i.imgur.com/5j9cF0E.png" group-title="ALBANIA",Tring Tring
+http://us.bestvideostreaming.is/8775/index.m3u8
+#EXTINF:-1 tvg-name="Tring Super" tvg-id="TringSuper.al" tvg-logo="https://i.imgur.com/Gz1YyLw.png" group-title="ALBANIA",Tring Super
+http://us.bestvideostreaming.is/8770/index.m3u8
+#EXTINF:-1 tvg-name="Tring World" tvg-id="" tvg-logo="https://i.imgur.com/XpqOuoF.png" group-title="ALBANIA",Tring World
+http://us.bestvideostreaming.is/8763/index.m3u8
 #EXTINF:-1 tvg-name="Turbo Channel" tvg-id="" tvg-logo="https://i.imgur.com/kj0MZNY.png" group-title="ALBANIA",Turbo Channel
 http://us.bestvideostreaming.is/8839/index.m3u8
 #EXTINF:-1 tvg-name="TV 7" tvg-id="" tvg-logo="https://i.imgur.com/88NYxNV.png" group-title="ALBANIA",TV 7
