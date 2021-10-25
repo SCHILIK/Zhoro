@@ -57,14 +57,14 @@ http://us.bestvideostreaming.is/8719/index.m3u8
 http://us.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1 tvg-name="Fax News" tvg-id="" tvg-logo="https://i.imgur.com/14czF3V.jpg" group-title="ALBANIA",Fax News
 http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-name="Film 1 HD" tvg-id="FilmNjeHD.al" tvg-logo="https://i.imgur.com/HPEHk4H.jpg" group-title="ALBANIA",Film Nje HD
+http://us.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1 tvg-name="Film 2 HD" tvg-id="FilmDyHD.al" tvg-logo="https://i.imgur.com/Bs4PWOn.png" group-title="ALBANIA",Film Dy HD
+http://us.bestvideostreaming.is/8731/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Aksion HD" tvg-id="FilmAksion.al" tvg-logo="https://i.imgur.com/PxrW9D1.png" group-title="ALBANIA",Film Aksion HD
 http://us.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-1 tvg-name="Film Dy HD" tvg-id="FilmDyHD.al" tvg-logo="https://i.imgur.com/Bs4PWOn.png" group-title="ALBANIA",Film Dy HD
-http://us.bestvideostreaming.is/8731/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Hits HD" tvg-id="FilmHits.al" tvg-logo="https://i.imgur.com/PxrW9D1.png" group-title="ALBANIA",Film Hits HD
 http://us.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1 tvg-name="Film Nje HD" tvg-id="FilmNjeHD.al" tvg-logo="https://i.imgur.com/HPEHk4H.jpg" group-title="ALBANIA",Film Nje HD
-http://us.bestvideostreaming.is/8730/index.m3u8
 #EXTINF:-1 tvg-name="Film Stinet HD" tvg-id="Stinet.al" tvg-logo="https://i.imgur.com/l0KYut2.png" group-title="ALBANIA",Film Stinet HD
 http://us.bestvideostreaming.is/8751/index.m3u8
 #EXTINF:-1 tvg-name="Film Thriller HD" tvg-id="FilmThriller.al" tvg-logo="https://i.imgur.com/JMxHKqo.png" group-title="ALBANIA",Film Thriller HD
