@@ -54,8 +54,6 @@ http://us.bestvideostreaming.is/8788/playlist.m3u8
 #EXTINF:-1 tvg-name="Elrodi TV" tvg-id="" tvg-logo="https://i.imgur.com/27DBNRX.jpg" group-title="ALBANIA",Elrodi TV
 http://us.bestvideostreaming.is/8718/index.m3u8
 #EXTINF:-1 tvg-name="EuroAL" tvg-id="" tvg-logo="https://i.imgur.com/uwnG05v.png" group-title="ALBANIA",EuroAL
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-#EXTINF:-1 tvg-name="EuroAL" tvg-id="" tvg-logo="https://i.imgur.com/uwnG05v.png" group-title="ALBANIA",EuroAL
 http://us.bestvideostreaming.is/8719/index.m3u8
 #EXTINF:-1 tvg-name="Eurofilm HD" tvg-id="" tvg-logo="https://i.imgur.com/EYxwrun.png" group-title="ALBANIA",Eurofilm HD
 http://us.bestvideostreaming.is/8758/index.m3u8
