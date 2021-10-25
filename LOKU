@@ -3,14 +3,8 @@
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="21 Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/5793gRM.png" group-title="ALBANIA",21 Macedonia
 http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1 tvg-name="21 Mix" tvg-id="" tvg-logo="https://i.imgur.com/6AVnREY.png" group-title="ALBANIA",21 Mix
-https://t2.tvmak.com/tv/RTV21MIX.m3u8
-#EXTINF:-1 tvg-name="21 Plus" tvg-id="" tvg-logo="https://i.imgur.com/MGhTraO.png" group-title="ALBANIA",21 Plus
-https://t2.tvmak.com/tv/RTV21PLUS.m3u8
 #EXTINF:-1 tvg-name="21 Popullore" tvg-id="" tvg-logo="https://i.imgur.com/yRhawJE.png" group-title="ALBANIA",21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
-#EXTINF:-1 tvg-name="AA NewYork TV" tvg-id="" tvg-logo="https://i.imgur.com/Ytcb3OU.png" group-title="ALBANIA",AA NewYork TV
-https://t2.tvmak.com/tv/AANEWYORK.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-name="AdriaNet" tvg-id="" tvg-logo="https://i.imgur.com/s56At7J.png" group-title="ALBANIA",AdriaNet
@@ -21,10 +15,6 @@ http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 https://t2.tvmak.com/tv/ALBSWISS.m3u8
 #EXTINF:-1 tvg-name="AlbDreams TV" tvg-id="" tvg-logo="https://i.imgur.com/3hGevWa.png" group-title="ALBANIA",AlbDreams TV
 http://live.albavision.net:1123/live/albdreams.m3u8
-#EXTINF:-1 tvg-name="AlbFilm 1" tvg-id="" tvg-logo="https://i.imgur.com/rrMKTAX.png" group-title="ALBANIA",AlbFilm 1
-https://t1.tvmak.com/tv/ALBFILMTV1.m3u8
-#EXTINF:-1 tvg-name="AlbFilm 2" tvg-id="" tvg-logo="https://i.imgur.com/rrMKTAX.png" group-title="ALBANIA",AlbFilm 2
-https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 #EXTINF:-1 tvg-name="AlbKanale Music TV" tvg-id="" tvg-logo="https://i.imgur.com/CsPeSRT.png" group-title="ALBANIA",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-name="AlbTV USA" tvg-id="" tvg-logo="https://i.imgur.com/iWjchEw.png" group-title="ALBANIA",AlbTV USA
@@ -85,16 +75,10 @@ http://us.bestvideostreaming.is/8751/index.m3u8
 http://us.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1 tvg-name="First" tvg-id="" tvg-logo="https://i.imgur.com/xi6gq5p.png" group-title="ALBANIA",First
 http://us.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1 tvg-name="Flutura TV" tvg-id="" tvg-logo="https://i.imgur.com/KmCCfyq.png" group-title="ALBANIA",Flutura TV
-https://t2.tvmak.com/tv/fluturatv.m3u8
 #EXTINF:-1 tvg-name="Folk+" tvg-id="" tvg-logo="https://i.imgur.com/g7U84M2.jpg" group-title="ALBANIA",Folk+
 http://us.bestvideostreaming.is/8759/index.m3u8
 #EXTINF:-1 tvg-name="Frame TV" tvg-id="" tvg-logo="https://i.imgur.com/qKndrmB.jpg" group-title="ALBANIA",Frame TV
 http://195.154.252.221:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-name="Hi Music" tvg-id="" tvg-logo="https://i.imgur.com/XUp1Hmu.jpg" group-title="ALBANIA",Hi Music
-https://t2.tvmak.com/tv/himusic.m3u8
-#EXTINF:-1 tvg-name="Istogu Channel" tvg-id="" tvg-logo="https://i.imgur.com/V16R8Cx.jpg" group-title="ALBANIA",Istogu Channel
-https://t2.tvmak.com/tv/ISTOGUchannel.m3u8
 #EXTINF:-1 tvg-name="Istogu TV" tvg-id="" tvg-logo="https://i.imgur.com/5EC2n1r.jpg" group-title="ALBANIA",Istogu TV
 http://tvistogu.better-than.tv:8090/ISTOGU/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanali 7" tvg-id="" tvg-logo="https://i.imgur.com/eO5WpXo.png" group-title="ALBANIA",Kanali 7
@@ -121,8 +105,6 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1 tvg-name="MFM" tvg-id="" tvg-logo="https://i.imgur.com/Pn39MC9.png" group-title="ALBANIA",MFM
 http://us.bestvideostreaming.is/7711/index.m3u8
-#EXTINF:-1 tvg-name="MRT2" tvg-id="" tvg-logo="https://i.imgur.com/vOhFPtI.png" group-title="ALBANIA",MRT2
-https://t2.tvmak.com/tv/MRT2.m3u8
 #EXTINF:-1 tvg-name="MTV Kosova" tvg-id="" tvg-logo="https://i.imgur.com/4ByXSeS.png" group-title="ALBANIA",MTV Kosova
 http://us.bestvideostreaming.is/8853/playlist.m3u8
 #EXTINF:-1 tvg-name="Neser TV" tvg-id="" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
@@ -135,8 +117,6 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://93.157.62.180/OraNews/index.m3u8
 #EXTINF:-1 tvg-name="Peace TV" tvg-id="" tvg-logo="https://i.imgur.com/lP4HZL0.png" group-title="ALBANIA",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-name="Plus TV" tvg-id="" tvg-logo="https://i.imgur.com/rEZM1Gz.png" group-title="ALBANIA",Plus TV
-https://t2.tvmak.com/tv/plustelevision.m3u8
 #EXTINF:-1 tvg-name="Premium" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium
 https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:-1 tvg-name="Premium Travel" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium Travel
@@ -230,7 +210,7 @@ http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
 #EXTINF:-1 tvg-name="Syri TV" tvg-id="" tvg-logo="https://i.imgur.com/cjgfqxP.jpg" group-title="ALBANIA",Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Syri Vision" tvg-id="" tvg-logo="https://i.imgur.com/JMaKWOz.png" group-title="ALBANIA",Syri Vision
-https://t2.tvmak.com/tv/SYRIVISION.m3u8
+http://us.bestvideostreaming.is/8784/index.m3u8
 #EXTINF:-1 tvg-name="T HD" tvg-id="" tvg-logo="https://i.imgur.com/ok8spDi.png" group-title="ALBANIA",T HD
 http://us.bestvideostreaming.is/8746/playlist.m3u8
 #EXTINF:-1 tvg-name="Teuta TV" tvg-id="" tvg-logo="https://i.imgur.com/aqfZ0x5.png" group-title="ALBANIA",Teuta TV
