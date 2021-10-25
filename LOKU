@@ -37,6 +37,10 @@ http://us.bestvideostreaming.is/8709/playlist.m3u8
 http://us.bestvideostreaming.is/8737/playlist.m3u8
 #EXTINF:-1 tvg-name="BBF Music TV" tvg-id="" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
 http://us.bestvideostreaming.is/8795/index.m3u8
+#EXTINF:-1 tvg-name="BB VIP 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB VIP 1
+http://us.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1 tvg-name="BB VIP 2" tvg-id="" tvg-logo="https://i.imgur.com/v1gdqE9.png" group-title="ALBANIA",BB VIP 2
+http://us.bestvideostreaming.is/8804/index.m3u8
 #EXTINF:-1 tvg-name="Contact Vision TV" tvg-id="" tvg-logo="https://i.imgur.com/NrbRO5E.png" group-title="ALBANIA",Contact Vision TV
 http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cufo TV" tvg-id="Cufo.al" tvg-logo="https://i.imgur.com/xXlrzEo.png" group-title="ALBANIA",Cufo TV
@@ -229,6 +233,10 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 http://us.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 1 HD" tvg-id="TringSport1.al" tvg-logo="https://i.imgur.com/XTAo9NC.png" group-title="ALBANIA",Tring Sport 1 HD
 http://us.bestvideostreaming.is/8796/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 2 HD" tvg-id="TringSport2.al" tvg-logo="https://i.imgur.com/JFWbgQH.png" group-title="ALBANIA",Tring Sport 2 HD
+http://us.bestvideostreaming.is/8797/index.m3u8
+#EXTINF:-1 tvg-name="Tring Sport News HD" tvg-id="TringSport1.al" tvg-logo="https://i.imgur.com/yAG1sS5.png" group-title="ALBANIA",Tring Sport News HD
+http://us.bestvideostreaming.is/8785/index.m3u8
 #EXTINF:-1 tvg-name="Tring Shqip" tvg-id="TringShqip.al" tvg-logo="https://i.imgur.com/wHAOEFp.png" group-title="ALBANIA",Tring Shqip
 http://us.bestvideostreaming.is/8762/index.m3u8
 #EXTINF:-1 tvg-name="Turbo Channel" tvg-id="" tvg-logo="https://i.imgur.com/kj0MZNY.png" group-title="ALBANIA",Turbo Channel
