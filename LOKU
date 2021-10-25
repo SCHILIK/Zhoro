@@ -63,8 +63,18 @@ http://us.bestvideostreaming.is/8730/index.m3u8
 http://us.bestvideostreaming.is/8731/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Aksion HD" tvg-id="FilmAksion.al" tvg-logo="https://i.imgur.com/PxrW9D1.png" group-title="ALBANIA",Film Aksion HD
 http://us.bestvideostreaming.is/8742/index.m3u8
+#EXTINF:-1 tvg-name="Film Autor HD" tvg-id="FilmAksion.al" tvg-logo="https://i.imgur.com/ZwCAFM4.png" group-title="ALBANIA",Film Autor HD
+http://us.bestvideostreaming.is/8753/index.m3u8
+#EXTINF:-1 tvg-name="Film Family HD" tvg-id="FilmFamily.al" tvg-logo="https://i.imgur.com/Z7QOVsE.png" group-title="ALBANIA",Film Family HD
+http://us.bestvideostreaming.is/8754/index.m3u8
+#EXTINF:-1 tvg-name="Film Gold HD" tvg-id="FilmGold.al" tvg-logo="https://i.imgur.com/ZFc83kk.png" group-title="ALBANIA",Film Gold HD
+http://us.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1 tvg-name="Film Komedi HD" tvg-id="FilmKomedi.al" tvg-logo="https://i.imgur.com/hKSafNw.png" group-title="ALBANIA",Film Komedi HD
+http://us.bestvideostreaming.is/8752/index.m3u8
 #EXTINF:-1 tvg-name="Film Hits HD" tvg-id="FilmHits.al" tvg-logo="https://i.imgur.com/PxrW9D1.png" group-title="ALBANIA",Film Hits HD
 http://us.bestvideostreaming.is/8755/index.m3u8
+#EXTINF:-1 tvg-name="Film Max HD" tvg-id="FilmHits.al" tvg-logo="https://i.imgur.com/SYJC0Dp.png" group-title="ALBANIA",Film Max HD
+http://us.bestvideostreaming.is/8731/index.m3u8
 #EXTINF:-1 tvg-name="Film Stinet HD" tvg-id="Stinet.al" tvg-logo="https://i.imgur.com/l0KYut2.png" group-title="ALBANIA",Film Stinet HD
 http://us.bestvideostreaming.is/8751/index.m3u8
 #EXTINF:-1 tvg-name="Film Thriller HD" tvg-id="FilmThriller.al" tvg-logo="https://i.imgur.com/JMxHKqo.png" group-title="ALBANIA",Film Thriller HD
@@ -91,6 +101,8 @@ http://93.157.62.180/KlanKosova/index.m3u8
 http://us.bestvideostreaming.is/8789/index.m3u8
 #EXTINF:-1 tvg-name="Klan Plus" tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:-1 tvg-name="Klan Plus" tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
+http://us.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:-1 tvg-name="Koha TV" tvg-id="" tvg-logo="https://i.imgur.com/HQRdLbl.jpg" group-title="ALBANIA",Koha TV
 http://us.bestvideostreaming.is/8710/index.m3u8
 #EXTINF:-1 tvg-name="Koha Vision" tvg-id="" tvg-logo="https://i.imgur.com/ybWxA87.png" group-title="ALBANIA",Koha Vision
@@ -167,6 +179,8 @@ http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 http://us.bestvideostreaming.is/8817/index.m3u8
 #EXTINF:-1 tvg-name="RTV Fontana" tvg-id="" tvg-logo="https://i.imgur.com/Qxyddk5.png" group-title="ALBANIA",RTV Fontana
 http://us.bestvideostreaming.is/8852/index.m3u8
+#EXTINF:-1 tvg-name="RTV ILIRIA" tvg-id="" tvg-logo="https://i.imgur.com/PWX9DIs.jpg" group-title="ALBANIA",RTV ILIRIA
+http://us.bestvideostreaming.is/8725/index.m3u8
 #EXTINF:-1 tvg-name="RTV Ilirida" tvg-id="" tvg-logo="https://i.imgur.com/YCSyNmj.png" group-title="ALBANIA",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-name="SCAN TV" tvg-id="" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
