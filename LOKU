@@ -124,7 +124,7 @@ http://us.bestvideostreaming.is/7711/index.m3u8
 #EXTINF:-1 tvg-name="MRT2" tvg-id="" tvg-logo="https://i.imgur.com/vOhFPtI.png" group-title="ALBANIA",MRT2
 https://t2.tvmak.com/tv/MRT2.m3u8
 #EXTINF:-1 tvg-name="MTV Kosova" tvg-id="" tvg-logo="https://i.imgur.com/4ByXSeS.png" group-title="ALBANIA",MTV Kosova
-https://t2.tvmak.com/tv/mtvkosova.m3u8
+http://us.bestvideostreaming.is/8853/playlist.m3u8
 #EXTINF:-1 tvg-name="Neser TV" tvg-id="" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="NEWS 24 Albania" tvg-id="News24.al" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
