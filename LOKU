@@ -3,6 +3,10 @@
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="21 Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/5793gRM.png" group-title="ALBANIA",21 Macedonia
 http://us.bestvideostreaming.is/8748/playlist.m3u8
+#EXTINF:-1 tvg-name="21 Mix" tvg-id="" tvg-logo="https://i.imgur.com/6AVnREY.png" group-title="ALBANIA",21 Mix
+http://us.bestvideostreaming.is/8756/index.m3u8
+#EXTINF:-1 tvg-name="21 Plus" tvg-id="" tvg-logo="https://i.imgur.com/MGhTraO.png" group-title="ALBANIA",21 Plus
+http://us.bestvideostreaming.is/8750/index.m3u8
 #EXTINF:-1 tvg-name="21 Popullore" tvg-id="" tvg-logo="https://i.imgur.com/yRhawJE.png" group-title="ALBANIA",21 Popullore
 http://us.bestvideostreaming.is/8749/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
@@ -59,6 +63,12 @@ http://us.bestvideostreaming.is/8718/index.m3u8
 http://us.bestvideostreaming.is/8719/index.m3u8
 #EXTINF:-1 tvg-name="Eurofilm HD" tvg-id="" tvg-logo="https://i.imgur.com/EYxwrun.png" group-title="ALBANIA",Eurofilm HD
 http://us.bestvideostreaming.is/8758/index.m3u8
+#EXTINF:-1 tvg-name="Explorer Histori" tvg-id="" tvg-logo="https://i.imgur.com/FyUwKxj.png" group-title="ALBANIA",Explorer Histori
+http://us.bestvideostreaming.is/8729/index.m3u8
+#EXTINF:-1 tvg-name="Explorer Natyra" tvg-id="" tvg-logo="https://i.imgur.com/pVfbbmU.png" group-title="ALBANIA",Explorer Natyra
+http://us.bestvideostreaming.is/8739/index.m3u8
+#EXTINF:-1 tvg-name="Explorer Shkencë" tvg-id="" tvg-logo="https://i.imgur.com/ObQV0QQ.png" group-title="ALBANIA",Explorer Shkencë
+http://us.bestvideostreaming.is/8726/index.m3u8
 #EXTINF:-1 tvg-name="Fax News" tvg-id="" tvg-logo="https://i.imgur.com/14czF3V.jpg" group-title="ALBANIA",Fax News
 http://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1 tvg-name="Film 1 HD" tvg-id="FilmNjeHD.al" tvg-logo="https://i.imgur.com/HPEHk4H.jpg" group-title="ALBANIA",Film Nje HD
@@ -117,6 +127,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1 tvg-name="MFM" tvg-id="" tvg-logo="https://i.imgur.com/Pn39MC9.png" group-title="ALBANIA",MFM
 http://us.bestvideostreaming.is/7711/index.m3u8
+#EXTINF:-1 tvg-name="MRT2" tvg-id="" tvg-logo="https://i.imgur.com/vOhFPtI.png" group-title="ALBANIA",MRT2
+http://us.bestvideostreaming.is/8728/index.m3u8
 #EXTINF:-1 tvg-name="MTV Kosova" tvg-id="" tvg-logo="https://i.imgur.com/4ByXSeS.png" group-title="ALBANIA",MTV Kosova
 http://us.bestvideostreaming.is/8853/playlist.m3u8
 #EXTINF:-1 tvg-name="Neser TV" tvg-id="" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
@@ -189,6 +201,8 @@ http://us.bestvideostreaming.is/8725/index.m3u8
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-name="SCAN TV" tvg-id="" tvg-logo="https://i.imgur.com/Y2hdXVt.png" group-title="ALBANIA",SCAN TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 tvg-name="Sky 7" tvg-id="" tvg-logo="https://i.imgur.com/nCJ2uVn.jpg" group-title="ALBANIA",Sky 7
+http://us.bestvideostreaming.is/8889/index.m3u8
 #EXTINF:-1 tvg-name="Sky Aksion" tvg-id="" tvg-logo="https://i.imgur.com/KZ6hUQO.jpg" group-title="ALBANIA",Sky Aksion
 http://us.bestvideostreaming.is/8880/index.m3u8
 #EXTINF:-1 tvg-name="Sky Drame" tvg-id="" tvg-logo="https://i.imgur.com/zsqrwVB.jpg" group-title="ALBANIA",Sky Drame
@@ -197,6 +211,8 @@ http://us.bestvideostreaming.is/8883/index.m3u8
 http://us.bestvideostreaming.is/8881/index.m3u8
 #EXTINF:-1 tvg-name="Sky Max" tvg-id="" tvg-logo="https://i.imgur.com/IM7wkrK.jpg" group-title="ALBANIA",Sky Max
 http://us.bestvideostreaming.is/8882/index.m3u8
+#EXTINF:-1 tvg-name="Sky Novela" tvg-id="" tvg-logo="https://i.imgur.com/6VjjmG8.jpg" group-title="ALBANIA",Sky Novela
+http://us.bestvideostreaming.is/8884/index.m3u8
 #EXTINF:-1 tvg-name="Start TV" tvg-id="" tvg-logo="https://i.imgur.com/IAxcIpF.png" group-title="ALBANIA",Start TV
 http://us.bestvideostreaming.is/8821/index.m3u8
 #EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/6Epsrsi.png" group-title="ALBANIA",Supersport 1 HD
