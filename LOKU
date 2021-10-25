@@ -179,6 +179,8 @@ http://us.bestvideostreaming.is/8883/index.m3u8
 http://us.bestvideostreaming.is/8881/index.m3u8
 #EXTINF:-1 tvg-name="Sky Max" tvg-id="" tvg-logo="https://i.imgur.com/IM7wkrK.jpg" group-title="ALBANIA",Sky Max
 http://us.bestvideostreaming.is/8882/index.m3u8
+#EXTINF:-1 tvg-name="Start TV" tvg-id="" tvg-logo="https://i.imgur.com/IAxcIpF.png" group-title="ALBANIA",Start TV
+http://us.bestvideostreaming.is/8882/index.m3u8
 #EXTINF:-1 tvg-name="Supersonic TV" tvg-id="" tvg-logo="https://i.imgur.com/qHMCkmw.png" group-title="ALBANIA",Supersonic TV
 http://us.bestvideostreaming.is/8821/index.m3u8
 #EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/6Epsrsi.png" group-title="ALBANIA",Supersport 1 HD
@@ -215,6 +217,8 @@ http://us.bestvideostreaming.is/8769/index.m3u8
 http://us.bestvideostreaming.is/8796/index.m3u8
 #EXTINF:-1 tvg-name="Tring Shqip" tvg-id="TringShqip.al" tvg-logo="https://i.imgur.com/wHAOEFp.png" group-title="ALBANIA",Tring Shqip
 http://us.bestvideostreaming.is/8762/index.m3u8
+#EXTINF:-1 tvg-name="Turbo Channel" tvg-id="" tvg-logo="https://i.imgur.com/kj0MZNY.png" group-title="ALBANIA",Turbo Channel
+http://us.bestvideostreaming.is/8839/index.m3u8
 #EXTINF:-1 tvg-name="TV 7" tvg-id="" tvg-logo="https://i.imgur.com/88NYxNV.png" group-title="ALBANIA",TV 7
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Dielli" tvg-id="" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
