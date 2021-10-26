@@ -79,6 +79,8 @@ http://us.bestvideostreaming.is/8731/playlist.m3u8
 http://us.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1 tvg-name="Film Autor HD" tvg-id="FilmAksion.al" tvg-logo="https://i.imgur.com/ZwCAFM4.png" group-title="ALBANIA",Film Autor HD
 http://us.bestvideostreaming.is/8753/index.m3u8
+#EXTINF:-1 tvg-name="Film Drame HD" tvg-id="FilmDrame.al" tvg-logo="https://i.imgur.com/eWwqZoy.png" group-title="ALBANIA",Film Drame HD
+http://93.157.62.180/FilmDrame/index.m3u8
 #EXTINF:-1 tvg-name="Film Family HD" tvg-id="FilmFamily.al" tvg-logo="https://i.imgur.com/Z7QOVsE.png" group-title="ALBANIA",Film Family HD
 http://us.bestvideostreaming.is/8754/index.m3u8
 #EXTINF:-1 tvg-name="Film Gold HD" tvg-id="FilmGold.al" tvg-logo="https://i.imgur.com/ZFc83kk.png" group-title="ALBANIA",Film Gold HD
@@ -95,12 +97,16 @@ http://us.bestvideostreaming.is/8751/index.m3u8
 http://us.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1 tvg-name="First" tvg-id="" tvg-logo="https://i.imgur.com/xi6gq5p.png" group-title="ALBANIA",First
 http://us.bestvideostreaming.is/8717/index.m3u8
+#EXTINF:-1 tvg-name="Fox Movies Srbija" tvg-id="" tvg-logo="https://i.imgur.com/7wH5nue.png" group-title="ALBANIA",Fox Movies Srbija
+http://93.157.62.180/FoxMovies/index.m3u8
 #EXTINF:-1 tvg-name="Folk+" tvg-id="" tvg-logo="https://i.imgur.com/g7U84M2.jpg" group-title="ALBANIA",Folk+
 http://us.bestvideostreaming.is/8759/index.m3u8
 #EXTINF:-1 tvg-name="Frame TV" tvg-id="" tvg-logo="https://i.imgur.com/qKndrmB.jpg" group-title="ALBANIA",Frame TV
 http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-name="Istogu TV" tvg-id="" tvg-logo="https://i.imgur.com/5EC2n1r.jpg" group-title="ALBANIA",Istogu TV
 http://tvistogu.better-than.tv:8090/ISTOGU/playlist.m3u8
+#EXTINF:-1 tvg-name="Junior TV" tvg-id="" tvg-logo="https://i.imgur.com/6VnI98C.png" group-title="ALBANIA",Junior TV
+http://93.157.62.180/JuniorTV/index.m3u8
 #EXTINF:-1 tvg-name="Kanali 7" tvg-id="" tvg-logo="https://i.imgur.com/eO5WpXo.png" group-title="ALBANIA",Kanali 7
 http://95.107.132.105/out/u/581_1.m3u8
 #EXTINF:-1 tvg-name="Kanali 10" tvg-id="" tvg-logo="https://i.imgur.com/cN0HHIK.jpeg" group-title="ALBANIA",Kanali 10
@@ -125,12 +131,16 @@ http://us.bestvideostreaming.is/8705/index.m3u8
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 tvg-name="MCN" tvg-id="" tvg-logo="https://i.imgur.com/QY38LbJ.png" group-title="ALBANIA",MCN
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
+#EXTINF:-1 tvg-name="Melody TV" tvg-id="" tvg-logo="https://i.imgur.com/dQ8XTn2.png" group-title="ALBANIA",Melody TV
+http://93.157.62.180/MelodyTV/index.m3u8
 #EXTINF:-1 tvg-name="MFM" tvg-id="" tvg-logo="https://i.imgur.com/Pn39MC9.png" group-title="ALBANIA",MFM
 http://us.bestvideostreaming.is/7711/index.m3u8
 #EXTINF:-1 tvg-name="MRT2" tvg-id="" tvg-logo="https://i.imgur.com/vOhFPtI.png" group-title="ALBANIA",MRT2
 http://us.bestvideostreaming.is/8728/index.m3u8
 #EXTINF:-1 tvg-name="MTV Kosova" tvg-id="" tvg-logo="https://i.imgur.com/4ByXSeS.png" group-title="ALBANIA",MTV Kosova
 http://us.bestvideostreaming.is/8853/playlist.m3u8
+#EXTINF:-1 tvg-name="My Music" tvg-id="" tvg-logo="https://i.imgur.com/qMcahS1.png" group-title="ALBANIA",My Music
+http://93.157.62.180/MyMusic/index.m3u8
 #EXTINF:-1 tvg-name="Neser TV" tvg-id="" tvg-logo="https://i.imgur.com/mpkrwBx.png" group-title="ALBANIA",Neser TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="NEWS 24 Albania" tvg-id="News24.al" tvg-logo="https://i.imgur.com/ctEpu0b.png" group-title="ALBANIA",NEWS 24 Albania
@@ -215,6 +225,8 @@ http://us.bestvideostreaming.is/8882/index.m3u8
 http://us.bestvideostreaming.is/8884/index.m3u8
 #EXTINF:-1 tvg-name="Start TV" tvg-id="" tvg-logo="https://i.imgur.com/IAxcIpF.png" group-title="ALBANIA",Start TV
 http://us.bestvideostreaming.is/8821/index.m3u8
+#EXTINF:-1 tvg-name="STV Folk" tvg-id="" tvg-logo="https://i.imgur.com/tRxzw0w.png" group-title="ALBANIA",STV Folk
+http://93.157.62.180/STVFolk/index.m3u8
 #EXTINF:-1 tvg-name="Supersport 1 HD" tvg-id="" tvg-logo="https://i.imgur.com/6Epsrsi.png" group-title="ALBANIA",Supersport 1 HD
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-name="Supersport 2 HD" tvg-id="" tvg-logo="https://i.imgur.com/Gfz3fvB.png" group-title="ALBANIA",Supersport 2 HD
@@ -306,7 +318,16 @@ http://95.107.132.106/out/u/646_5.m3u8
 #EXTINF:-1 tvg-name="Vizion+" tvg-id="VizionPlus.al" tvg-logo="https://i.imgur.com/Q2MZPab.png" group-title="ALBANIA",Vizion+
 http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+http://93.157.62.180/ZjarrTV/index.m3u8
+
+#EXTINF:-1 tvg-name="★★★★ ITALIA ★★★★" tvg-logo="https://i.imgur.com/xrGFBt3.jpg" group-title="ITALIA",★★★★ ITALIA ★★★★
+https://
+#EXTINF:-1 tvg-name="Canale 5" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Canale 5
+http://93.157.62.180/Canale5/index.m3u8
+#EXTINF:-1 tvg-name="Italia 1" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Italia 1
+http://93.157.62.180/Italia1/index.m3u8
+#EXTINF:-1 tvg-name="Rete 4" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Rete 4
+http://93.157.62.180/Rete4/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
