@@ -324,6 +324,12 @@ https://
 http://93.157.62.180/Canale5/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Italia 1
 http://93.157.62.180/Italia1/index.m3u8
+#EXTINF:-1 tvg-name="RAI 1" tvg-id="" tvg-logo="https://i.imgur.com/KT8kXPn.jpg" group-title="ITALIA",RAI 1
+http://93.157.62.180/Rai1/index.m3u8
+#EXTINF:-1 tvg-name="RAI 2" tvg-id="" tvg-logo="https://i.imgur.com/vM6eTCI.jpeg" group-title="ITALIA",RAI 2
+http://93.157.62.180/Rai2/index.m3u8
+#EXTINF:-1 tvg-name="RAI 3" tvg-id="" tvg-logo="https://i.imgur.com/2zKCOcX.jpeg" group-title="ITALIA",RAI 3
+http://93.157.62.180/Rai3/index.m3u8
 #EXTINF:-1 tvg-name="Rete 4" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Rete 4
 http://93.157.62.180/Rete4/index.m3u8
 
