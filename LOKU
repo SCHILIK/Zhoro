@@ -561,6 +561,8 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/play
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cusano TV (IT)" tvg-logo="https://i.imgur.com/3XdJEie.png" group-title="MUSIC",Cusano TV (IT)
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Dance 24x7" tvg-logo="https://i.imgur.com/QGUhSsa.jpg" group-title="MUSIC",Dance 24x7
+https://cdnvod.panda-os.com/livehls/5e945d266986fb1f2c30e082/master.m3u8
 #EXTINF:-1 tvg-name="DanceStar TV (UK)" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MUSIC",DanceStar TV (UK)
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC",DanceTrippin (US)
@@ -715,6 +717,8 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-name="Music Top (AR)" tvg-logo="https://i.imgur.com/h8wq2Xo.png" group-title="MUSIC",Music Top (AR)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Video" tvg-logo="https://i.imgur.com/9NkCSlf.jpg" group-title="MUSIC",Music Video
+https://cdnvod.panda-os.com/livehls/5e93c2786986fb50896c7242/master.m3u8
 #EXTINF:-1 tvg-name="Muzzik AMVA 2020 (RS)" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 (RS)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzzik Cafe&Club (RS)" tvg-id="" tvg-logo="https://i.imgur.com/xTHhScG.jpg" group-title="MUSIC",Muzzik Cafe&Club (RS)
