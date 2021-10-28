@@ -335,6 +335,16 @@ http://93.157.62.180/Rete4/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
+#EXTINF:-1 tvg-name="Fox Sports" group-title="SPORTS",Fox Sports
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
+#EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
+#EXTINF:-1 tvg-name="Bein Sports XTRA" group-title="SPORTS",Bein Sports XTRA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,beIN.m3u8
+#EXTINF:-1 tvg-name="Stadium" group-title="SPORTS",Stadium
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
 #EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
 https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
