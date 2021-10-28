@@ -1107,6 +1107,42 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv Music (IT)" tvg-id="" tvg-logo="https://i.imgur.com/vC9NJ6D.png" group-title="MUSIC",Zerouno Tv Music (IT)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Sluhayby.by (RU)" tvg-id="Sluhayby.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by (RU)
+https://sluhay.by/live/Ch045pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyAillion.by (RU)" tvg-id="SluhaybyAillion.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Aillion (RU)
+https://sluhay.by/live/Ch149pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyAmoungYourGod.by (RU)" tvg-id="SluhaybyAmoungYourGod.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Among Your God (RU)
+https://sluhay.by/live/Ch086pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyАприори.by (RU)" tvg-id="SluhaybyАприори.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Априори (RU)
+https://sluhay.by/live/Ch363pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyChrist.by (RU)" tvg-id="SluhaybyChrist.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Christ (RU)
+https://sluhay.by/live/Ch064pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyEDM.by (RU)" tvg-id="SluhaybyEDM.by" tvg-logo="https://sluhay.by/assets/logo_edm.png" group-title="MUSIC",Sluhay.by EDM (RU)
+https://sluhay.by/live/Ch091pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyLenadi.by (RU)" tvg-id="SluhaybyLenadi.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Lenadi (RU)
+https://sluhay.by/live/Ch052pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyLive.by (RU)" tvg-id="SluhaybyLive.by" tvg-logo="https://sluhay.by/assets/logo_live.png" group-title="MUSIC",Sluhay.by Live (RU)
+https://sluhay.by/live/Ch173pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyMarkutsBand.by (RU)" tvg-id="SluhaybyMarkutsBand.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Markuts Band (RU)
+https://sluhay.by/live/Ch360pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyMova.by (RU)" tvg-id="SluhaybyMova.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Mova (RU)
+https://sluhay.by/live/Ch034pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyMoyoTebe.by (RU)" tvg-id="SluhaybyMoyoTebe.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Moyo Tebe (RU)
+https://sluhay.by/live/Ch250pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyPop.by (RU)" tvg-id="SluhaybyPop.by" tvg-logo="https://sluhay.by/assets/logo_pop.png" group-title="MUSIC",Sluhay.by Pop (RU)
+https://sluhay.by/live/Ch066pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyRap.by (RU)" tvg-id="SluhaybyRap.by" tvg-logo="https://sluhay.by/assets/logo_rap.png" group-title="MUSIC",Sluhay.by Rap (RU)
+https://sluhay.by/live/Ch107pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyRock.by (RU)" tvg-id="SluhaybyRock.by" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="MUSIC",Sluhay.by Rock (RU)
+https://sluhay.by/live/Ch114pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyTheGlitchhh.by (RU)" tvg-id="SluhaybyTheGlitchhh.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by The Glitchhh (RU)
+https://sluhay.by/live/Ch362pub/index.m3u8
+#EXTINF:-1 tvg-name="Sluhay.by www.doma.fun A (RU)" tvg-id="" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by www.doma.fun A (RU)
+https://sluhay.by/live/Ch236pub/index.m3u8
+#EXTINF:-1 tvg-name="Sluhay.by www.doma.fun B (RU)" tvg-id="SluhaybyMoyoTebe.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by www.doma.fun B (RU)
+https://sluhay.by/live/Ch316pub/index.m3u8
+#EXTINF:-1 tvg-name="SluhaybyXtip.by (RU)" tvg-id="SluhaybyXtip.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Xtip (RU)
+https://sluhay.by/live/Ch056pub/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNxMDzV.png" group-title="M Radio",★★★★ M Radio FRANCE ★★★★
 https://
