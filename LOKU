@@ -593,28 +593,34 @@ http://cdn-maxplanck.wasd.tv/live/1105230/index.m3u8
 http://51.15.154.138/providus/live2805_hq/index.m3u8
 #EXTINF:-1 tvg-name="MIS Televizija (RS)" tvg-id="" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="EX-YUG",MIS Televizija (RS)
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik AMVA 2020 RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik AMVA 2020 RS
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Cafe&Club RS" tvg-id="" tvg-logo="https://i.imgur.com/xTHhScG.jpg" group-title="EX-YUG",Muzzik Cafe&Club RS
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik GenZ RS" tvg-id="" tvg-logo="https://i.imgur.com/11a4sNo.jpg" group-title="EX-YUG",Muzzik GenZ RS
-https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik HipHop RS" tvg-id="" tvg-logo="https://i.imgur.com/rGlZgos.jpg" group-title="EX-YUG",Muzzik HipHop RS
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Jeka RS" tvg-id="" tvg-logo="https://i.imgur.com/OCa65OX.jpg" group-title="EX-YUG",Muzzik Jeka RS
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Mediteraneo RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik Mediteraneo RS
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik OKK RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik OKK RS
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Replay RS" tvg-id="" tvg-logo="https://i.imgur.com/vIRKPk5.jpg" group-title="EX-YUG",Muzzik Replay RS
-https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzzik Rock&Roll RS" tvg-id="" tvg-logo="https://i.imgur.com/xf3SQtB.jpg" group-title="EX-YUG",Muzzik Rock&Roll RS
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TV RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik TV RS
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik OKK RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik OKK RS
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik GenZ RS" tvg-id="" tvg-logo="https://i.imgur.com/11a4sNo.jpg" group-title="EX-YUG",Muzzik GenZ RS
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Cafe&Club RS" tvg-id="" tvg-logo="https://i.imgur.com/xTHhScG.jpg" group-title="EX-YUG",Muzzik Cafe&Club RS
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Replay RS" tvg-id="" tvg-logo="https://i.imgur.com/vIRKPk5.jpg" group-title="EX-YUG",Muzzik Replay RS
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Jeka RS" tvg-id="" tvg-logo="https://i.imgur.com/OCa65OX.jpg" group-title="EX-YUG",Muzzik Jeka RS
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik HipHop RS" tvg-id="" tvg-logo="https://i.imgur.com/rGlZgos.jpg" group-title="EX-YUG",Muzzik HipHop RS
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-name="Muzzik Worldwide RS" tvg-id="" tvg-logo="https://i.imgur.com/l4twxqK.jpg" group-title="EX-YUG",Muzzik Worldwide RS
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Mediteraneo RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik Mediteraneo RS
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TV RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik TV RS
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik ZZ 4000 RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik ZZ 4000 RS
+https://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Sense RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik Sense RS
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Glazzba RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik Glazzba RS
+https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik AMVA 2020 RS" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="EX-YUG",Muzzik AMVA 2020 RS
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-name="N1 (HR)" tvg-id="" tvg-logo="https://i.imgur.com/Q91Vs6s.jpg" group-title="EX-YUG",N1 (HR)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-name="Naša TV (MK)" tvg-id="" tvg-logo="https://i.imgur.com/EsxYsAd.jpg" group-title="EX-YUG",Naša TV (MK)
