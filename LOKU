@@ -335,15 +335,13 @@ http://93.157.62.180/Rete4/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
-#EXTINF:-1 tvg-name="Fox Sports" group-title="SPORTS",Fox Sports
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/g9bZGrq.png" group-title="SPORTS",Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
 #EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
-#EXTINF:-1 tvg-name="Bein Sports XTRA" group-title="SPORTS",Bein Sports XTRA
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,beIN.m3u8
-#EXTINF:-1 tvg-name="Stadium" group-title="SPORTS",Stadium
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
 #EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
 https://stadium.roku.wurl.com/manifest/playlist.m3u8
@@ -436,8 +434,6 @@ https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
 https://dai.google.com/linear/hls/event/EtSqIE0FTbGZ4q_TcAMR1g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGOperation Repo" tvg-name="Operation Repo" tvg-logo="https://a.jsrdn.com/hls/22932/operation-repo-1/logo_20210203_192421_68.png" group-title="Distro TV",Operation Repo
 https://dai.google.com/linear/hls/event/xGNfbotAS-udiLwMCteGiA/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGZoomer TV" tvg-name="Zoomer TV (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/logo_20210330_190607_70.png" group-title="Distro TV",Zoomer TV (US-Geo)
-https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocumentary+" tvg-name="Documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="Distro TV",Documentary+
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Distro TV",Docurama
