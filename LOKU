@@ -368,11 +368,11 @@ https://
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGBest of British TV" tvg-name="Best Of British TV" tvg-logo="https://a.jsrdn.com/hls/22913/best-of-british/logo_20210119_204821_70.png" group-title="Distro TV",Best Of British TV
 https://dai.google.com/linear/hls/event/ikbjod17R3y9y9W4QO8cSw/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGBuzzr" tvg-name="Buzzr" tvg-logo="https://a.jsrdn.com/hls/22852/buzzr/logo_20210608_211810.png" group-title="Entertainment",Buzzr
+#EXTINF:-1 tvg-id="dtv_EPGBuzzr" tvg-name="Buzzr" tvg-logo="https://a.jsrdn.com/hls/22852/buzzr/logo_20210608_211810.png" group-title="Distro TV",Buzzr
 https://dai.google.com/linear/hls/event/zHy7ojUBQqOoi5b1Aj-qUQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGChristmas Classics" tvg-name="Christmas Classics" tvg-logo="https://a.jsrdn.com/hls/22882/christmas-classics/logo_20201215_013924_68.png" group-title="Distro TV",Christmas Classics
 https://api-ott-ottpri-sl.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=937&partner=distro
-#EXTINF:-1 tvg-id="dtv_EPGCircle" tvg-name="Circle" tvg-logo="https://a.jsrdn.com/hls/22961/circle-tv/logo_20210617_181258_68.png" group-title="Entertainment",Circle
+#EXTINF:-1 tvg-id="dtv_EPGCircle" tvg-name="Circle" tvg-logo="https://a.jsrdn.com/hls/22961/circle-tv/logo_20210617_181258_68.png" group-title="Distro TV",Circle
 https://dai.google.com/linear/hls/event/7yXZRrG-TkWklMTpEx4sNw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGCJC Television Network" tvg-name="CJC" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="Distro TV",CJC
 https://dai.google.com/linear/hls/event/M1pQ5gNkQqmWZOwAuNDtEA/master.m3u8
