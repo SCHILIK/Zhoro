@@ -339,6 +339,18 @@ https://
 https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TVS Classic Sports (US)" tvg-id="" tvg-logo="https://i.imgur.com/DN5TVHj.jpg" group-title="SPORTS",TVS Classic Sports (US)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-name="TVS Boxing Network (US)" tvg-id="" tvg-logo="https://i.imgur.com/1sNnKlT.jpg" group-title="SPORTS",TVS Boxing Network (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-name="TVS Sports Bureau (US)" tvg-id="" tvg-logo="https://i.imgur.com/QaeMYzS.jpg" group-title="SPORTS",TVS Sports Bureau (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-name="TVS Sports Network (US)" tvg-id="" tvg-logo="https://i.imgur.com/5A289Wb.jpg" group-title="SPORTS",TVS Sports Network (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-name="TVS Women's Sports Network (US)" tvg-id="" tvg-logo="https://i.imgur.com/rzT2Io0.jpg" group-title="SPORTS",TVS Women's Sports Network (US)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-name="World Poker Tour (US)" tvg-id="" tvg-logo="https://i.imgur.com/VDgqW1q.png" group-title="SPORTS",World Poker Tour (US)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-HeroGo/120.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ EX-YUG ★★★★" tvg-logo="https://i.imgur.com/VSz9sQP.png" group-title="EX-YUG",★★★★ EX-YUG ★★★★
 https://
@@ -513,6 +525,8 @@ https://st.biztv.uz/hls/m_mid/index.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-name="Balkanika (BG)" tvg-logo="https://i.imgur.com/UswMmZh.jpg" group-title="MUSIC",Balkanika (BG)
 https://iptvcat.com/my_list/s/57c20fc776e0c4f174e38e11d96ffed1.m3u8
+#EXTINF:-1 tvg-name="Box Playlist" tvg-logo="https://i.imgur.com/p1cvSXo.png" group-title="MUSIC",Box Playlist
+https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-BoxPlaylist/playlist.m3u8
 #EXTINF:-1 tvg-name="Busuioc TV (MD)" tvg-logo="https://i.imgur.com/vS5l5a3.png" group-title="MUSIC",Busuioc TV (MD)
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:-1 tvg-name="Cadena Elite (ES)" tvg-logo="https://i.imgur.com/eGvnKf2.png" group-title="MUSIC",Cadena Elite (ES)
@@ -587,28 +601,6 @@ https://eurodance.catcast.tv/content/36987/index.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-name="EuroLatina TV (ES)" tvg-id="" tvg-logo="https://i.imgur.com/DYbZsa3.jpg" group-title="MUSIC",EuroLatina TV (ES)
 https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8
-#EXTINF:-1 tvg-name="Muzzik AMVA 2020 (RS)" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik AMVA 2020 (RS)
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Cafe&Club (RS)" tvg-id="" tvg-logo="https://i.imgur.com/xTHhScG.jpg" group-title="MUSIC",Muzzik Cafe&Club (RS)
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik GenZ (RS)" tvg-id="" tvg-logo="https://i.imgur.com/11a4sNo.jpg" group-title="MUSIC",Muzzik GenZ (RS)
-https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik HipHop (RS)" tvg-id="" tvg-logo="https://i.imgur.com/rGlZgos.jpg" group-title="MUSIC",Muzzik HipHop (RS)
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Jeka (RS)" tvg-id="" tvg-logo="https://i.imgur.com/OCa65OX.jpg" group-title="MUSIC",Muzzik Jeka (RS)
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Mediteraneo (RS)" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Mediteraneo (RS)
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik OKK (RS)" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik OKK (RS)
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Replay (RS)" tvg-id="" tvg-logo="https://i.imgur.com/vIRKPk5.jpg" group-title="MUSIC",Muzzik Replay (RS)
-https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Rock&Roll (RS)" tvg-id="" tvg-logo="https://i.imgur.com/xf3SQtB.jpg" group-title="MUSIC",Muzzik Rock&Roll (RS)
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TV (RS)" tvg-id="" tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik TV (RS)
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Worldwide (RS)" tvg-id="" tvg-logo="https://i.imgur.com/l4twxqK.jpg" group-title="MUSIC",Muzzik Worldwide (RS)
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-name="Fen TV (BG)" tvg-logo="https://i.imgur.com/GD6wuU1.png" group-title="MUSIC",Fen TV (BG)
 https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
 #EXTINF:-1 tvg-name="FOLX Music (SI)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Music (SI)
@@ -755,6 +747,8 @@ https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4
 https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-name="NG RADIO (GR)" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC",NG RADIO (GR)
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-name="Nigezie Music" tvg-logo="https://i.imgur.com/gtuPIJN.png" group-title="MUSIC",Nigezie Music
+https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-NigezieMusicSCTE/playlist.m3u8
 #EXTINF:-1 tvg-name="Nojoum TV (IR)" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="MUSIC",Nojoum TV (IR)
 http://51.210.199.41/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NR1 (TR)" tvg-id="" tvg-logo="https://i.imgur.com/u3Chhy5.png" group-title="MUSIC",NR1 (TR)
@@ -789,6 +783,8 @@ http://51.210.199.10/hls/stream.m3u8
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Planeta (BG)" tvg-logo="https://i.imgur.com/rF9aW0G.jpg" group-title="MUSIC",Planeta (BG)
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1 tvg-name="Play Ibiza" tvg-logo="https://i.imgur.com/HhHDJyS.png" group-title="MUSIC",Play Ibiza
+https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-PlayIbiza/playlist.m3u8
 #EXTINF:-1 tvg-name="Play TV (CM)" tvg-logo="https://i.imgur.com/BjUKELc.png" group-title="MUSIC",Play TV (CM)
 http://connectiktv.ddns.me:8080/play/index.m3u8
 #EXTINF:-1 tvg-name="Portal Fox Mix (CL)" tvg-logo="https://i.imgur.com/430V288.jpg" group-title="MUSIC",Portal Fox Mix (CL)
