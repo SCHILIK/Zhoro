@@ -641,9 +641,9 @@ http://rtvnp.rs/hls/rtvnp.m3u8
 http://wslb.dobratv.net:8877/uzivo/usk/index.m3u8
 #EXTINF:-1 tvg-name="Sandzak TV (RS)" tvg-id="" tvg-logo="https://i.imgur.com/AtJqDVD.png" group-title="EX-YUG",Sandzak TV (RS)
 https://vod1.laki.eu/sandzak/video.m3u8
-#EXTINF:-1 tvg-name="Sky Folk MK" tvg-id="" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="EX-YUG",Sky Folk MK
-http://www.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="Star Folk MK" tvg-id="" tvg-logo="https://i.imgur.com/9hVp9F4.png" group-title="EX-YUG",Star Folk MK
+#EXTINF:-1 tvg-name="Sky Folk (MK)" tvg-id="" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="EX-YUG",Sky Folk (MK)
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-name="Star Folk (MK)" tvg-id="" tvg-logo="https://i.imgur.com/9hVp9F4.png" group-title="EX-YUG",Star Folk (MK)
 https://live.muzickatv.mk/live/StarMusic.m3u8
 #EXTINF:-1 tvg-name="STV (HR)" tvg-id="" tvg-logo="https://i.imgur.com/f20XLLt.png" group-title="EX-YUG",STV (HR)
 http://89.201.163.244:8080/hls/hdmi.m3u8
@@ -1059,7 +1059,7 @@ https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sexy Kpop TV (BR)" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="MUSIC",Sexy Kpop TV (BR)
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Folk (MK)" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="MUSIC",Sky Folk (MK)
-http://www.skyfolk.mk/live.m3u8
+https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-name="Sonus FM TV (US)" tvg-logo="https://i.imgur.com/GcCzcpE.png" group-title="MUSIC",Sonus FM TV (US)
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
 #EXTINF:-1 tvg-name="Spirit TV (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/jR24flK.png",Spirit TV (US)
