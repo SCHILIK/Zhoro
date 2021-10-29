@@ -1221,6 +1221,8 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-name="La Super Discoteca tv (DO)" tvg-id="" tvg-logo="https://i.imgur.com/32BtjWz.jpg" group-title="MUSIC",La Super Discoteca tv (DO)
 https://vdo1.streamgato.us:3833/live/lasuperdiscotecatvlive.m3u8
+#EXTINF:-1 tvg-name="Latin Channel TV (ES)" tvg-id="" tvg-logo="https://i.imgur.com/Ub5zNPt.jpg" group-title="MUSIC",Latin Channel TV (ES)
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-name="Live 360 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/CfhXZe3.png" group-title="MUSIC",Live 360 (UK)
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-live360-hsslive-25f-MB/playlist.m3u8
 #EXTINF:-1 tvg-name="Logos Channel (FR)" tvg-id="" tvg-logo="https://i.imgur.com/HLboDZU.jpg" group-title="MUSIC",Logos Channel (FR)
@@ -1261,7 +1263,7 @@ https://muzzone-stream.daitsuna.net/muzzone/muzzone/index.m3u8
 #EXTINF:-1 tvg-name="My Music Africa (CM)" tvg-id="" tvg-logo="https://i.imgur.com/Gjnpnnu.png" group-title="MUSIC",My Music Africa (CM)
 http://173.249.3.13:8080/mymusic/index.m3u8
 #EXTINF:-1 tvg-name="Nashville Country TV (US)" tvg-id="" tvg-logo="https://i.imgur.com/jg7BPXG.jpg" group-title="MUSIC",Nashville Country TV (US)
-https://103122.global.ssl.fastly.net/edge/live_4e8e1640bfb211ea909ea10718cdb17d/index.m3u8
+https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
 #EXTINF:-1 tvg-name="Nisville TV (RS)" tvg-id="" tvg-logo="https://i.imgur.com/uEBWGVj.png" group-title="MUSIC",Nisville TV (RS)
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
 #EXTINF:-1 tvg-name="Now 70's (AU)" tvg-id="" tvg-logo="https://i.imgur.com/yz0J7UZ.png" group-title="MUSIC",Now 70's (AU)
@@ -1303,7 +1305,7 @@ https://salto-streams.nl/hls/sotv1_high.m3u8
 #EXTINF:-1 tvg-name="Salto MaLive (NL)" tvg-id="Salto Brasa Music" tvg-logo="https://i.imgur.com/cSSLwPU.png" group-title="MUSIC",Salto MaLive (NL)
 https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:-1 tvg-name="SpectraTV Valencia (ES)" tvg-id="" tvg-logo="https://i.imgur.com/t9O4uBp.png" group-title="MUSIC",SpectraTV Valencia (ES)
-https://streamtv.mediasector.es/hls/spektratv/index.m3u8
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-name="T2 TV (IR)" tvg-id="" tvg-logo="https://i.imgur.com/HRLVcdL.png" group-title="MUSIC",T2 TV (IR)
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:-1 tvg-name="Tele Oriental (DO)" tvg-id="" tvg-logo="https://i.imgur.com/FYg0Ykk.jpg" group-title="MUSIC",Tele Oriental (DO)
