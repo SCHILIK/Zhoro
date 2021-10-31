@@ -335,16 +335,28 @@ http://93.157.62.180/Rete4/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
+#EXTINF:-1 tvg-name="ALL Sports (BR)" tvg-logo="https://i.imgur.com/8ndl6x6.jpg" group-title="SPORTS",ALL Sports (BR)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 tvg-name="ESR 24/7 (US)" tvg-logo="https://i.imgur.com/iL8A84m.png" group-title="SPORTS",ESR 24/7 (US)
+https://eyeonesports.com/1080/ESR-001SCTE35.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
 http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 (ES)" tvg-logo="https://i.imgur.com/jkbtoQF.png" group-title="SPORTS",Eurosport 2 (ES)
 http://154.62.74.12:1935/live/smil:eurosport2hdnntv/.m3u8
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/g9bZGrq.png" group-title="SPORTS",Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
-#EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 tvg-name="Match! (RU)" tvg-logo="https://i.imgur.com/Oz4FzZy.jpg" group-title="SPORTS",Match! (RU)
+https://piratilla.com/92935/hls/match_tv.m3u8
+#EXTINF:-1 tvg-name="Match! Ctpaha (RU)" tvg-logo="https://i.imgur.com/W3KxEFw.png" group-title="SPORTS",Match! Ctpaha (RU)
+https://piratilla.com/92935/hls/match_strana.m3u8
 #EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
+#EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 tvg-name="Sport1 (DE)" tvg-logo="https://i.imgur.com/O2SVRMr.png" group-title="SPORTS",Sport1 (DE)
+http://s846397078.mialojamiento.es/g8wr/mp.php/https://streaming-s1free.sport1.de/Cab1bo-3rkaBOH3YvByd1Q==,1635697043/ls-45420-1/index.m3u8
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
 #EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
