@@ -842,6 +842,8 @@ https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?m
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-name="EuroLatina TV (ES)" tvg-id="" tvg-logo="https://i.imgur.com/DYbZsa3.jpg" group-title="MUSIC",EuroLatina TV (ES)
 https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8
+#EXTINF:-1 tvg-name="Fabulosa FM (ES)" tvg-logo="https://i.imgur.com/T7mBUXu.jpg" group-title="MUSIC",Fabulosa FM (ES)
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
 #EXTINF:-1 tvg-name="Fen TV (BG)" tvg-logo="https://i.imgur.com/GD6wuU1.png" group-title="MUSIC",Fen TV (BG)
 https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
 #EXTINF:-1 tvg-name="FOLX Music (SI)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Music (SI)
@@ -1038,6 +1040,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1 tvg-name="Onda Digital (PE)" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="MUSIC",Onda Digital (PE)
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
+#EXTINF:-1 tvg-name="Onda Rusa RTV (ES)" tvg-logo="https://i.imgur.com/CrGWPIW.jpg" group-title="MUSIC",Onda Rusa RTV (ES)
+https://eu1.servers10.com:8081/8098/index.m3u8
 #EXTINF:-1 tvg-name="ONE1 Slovenija (SI)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIC",ONE1 Slovenija (SI)
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 #EXTINF:-1 tvg-name="Otto FM TV (IT)" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIC",Otto FM TV (IT)
