@@ -335,6 +335,10 @@ http://93.157.62.180/Rete4/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
+#EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
+http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 (ES)" tvg-logo="https://i.imgur.com/jkbtoQF.png" group-title="SPORTS",Eurosport 2 (ES)
+http://154.62.74.12:1935/live/smil:eurosport2hdnntv/.m3u8
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/g9bZGrq.png" group-title="SPORTS",Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
@@ -756,7 +760,7 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/index.m3u8
 #EXTINF:-1 tvg-name="Carolina TV (BR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/eaHPbqd.png",Carolina TV (BR)
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="CH Music TV (CH)" tvg-logo="https://i.imgur.com/hpYlj9g.png" group-title="MUSIC",CH Music TV (CH)
+#EXTINF:-1 tvg-name="CH Music TV (CH)" tvg-logo="https://i.imgur.com/LCsVFiM.jpg" group-title="MUSIC",CH Music TV (CH)
 https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w465940144_b854686.m3u8
 #EXTINF:-1 tvg-name="Chau TV (LV)" tvg-logo="https://i.imgur.com/c4q2PQj.png" group-title="MUSIC",Chau TV (LV)
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
@@ -770,12 +774,12 @@ https://ingest-wza.bustream.com/coopetv/rates73.smil/.m3u8
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-name="CMC-USA (US)" tvg-id="" tvg-logo="https://i.imgur.com/CnkbcUo.jpg" group-title="MUSIC",CMC-USA (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 tvg-name="CMC (US)" tvg-logo="https://i.imgur.com/uYIthhc.jpg" group-title="MUSIC",CMC (US)
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="CMC 2 (US)" tvg-id="CMC 2" tvg-logo="https://i.imgur.com/aDReLcK.png" group-title="MUSIC",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="CMT (US)" tvg-id="CMC 2" tvg-logo="https://i.imgur.com/ISLrM24.jpg" group-title="MUSIC",CMT (US)
 https://siloh-ns1.plutotv.net/lilo/production/CMT/master.m3u8
-#EXTINF:-1 tvg-name="California Music Channel (US)" tvg-logo="https://i.imgur.com/uYIthhc.jpg" group-title="MUSIC",California Music Channel (US)
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MUSIC",Conecta TV HD (BR)
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cusano TV (IT)" tvg-logo="https://i.imgur.com/3XdJEie.png" group-title="MUSIC",Cusano TV (IT)
