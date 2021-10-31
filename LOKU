@@ -339,8 +339,6 @@ https://
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-#EXTINF:-1 tvg-name="ESR 24/7 (US)" tvg-logo="https://i.imgur.com/iL8A84m.png" group-title="SPORTS",ESR 24/7 (US)
-https://eyeonesports.com/1080/ESR-001SCTE35.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
 http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 (ES)" tvg-logo="https://i.imgur.com/jkbtoQF.png" group-title="SPORTS",Eurosport 2 (ES)
@@ -942,7 +940,7 @@ http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/1.m3u8
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/6.m3u8
 #EXTINF:-1 tvg-name="MIX 24/7 - Conciertos Live (BR)" tvg-logo="https://i.imgur.com/ERQ5kGB.png" group-title="MUSIC",MIX 24/7 - Conciertos Live (BR)
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8
-#EXTINF:-1 tvg-name="MIX 24/7 - Just Rock (BR)" tvg-logo="https://i.imgur.com/NyiS42c.png" group-title="MUSIC",MIX 24/7 - Just Rock (BR)
+#EXTINF:-1 tvg-name="MIX 24/7 - Pure Rock (BR)" tvg-logo="https://i.imgur.com/NyiS42c.png" group-title="MUSIC",MIX 24/7 - Pure Rock (BR)
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/25.m3u8
 #EXTINF:-1 tvg-name="MIX 24/7 - Global Hits (BR)" tvg-logo="https://i.imgur.com/8I9P718.png" group-title="MUSIC",MIX 24/7 - Global Hits (BR)
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
@@ -1062,8 +1060,6 @@ https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Power TV (TR)" tvg-logo="https://i.imgur.com/291uOcR.png" group-title="MUSIC",Power TV (TR)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-name="Pure Rock (US)" tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIC",Pure Rock (US)
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-1 tvg-name="Radio 21 TV (DE)" tvg-logo="https://i.imgur.com/1fpKgyM.png" group-title="MUSIC",Radio 21 TV (DE)
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-name="Radio 51 Lombardia (IT)"tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIC",Radio 51 Lombardia (IT)
@@ -1076,8 +1072,8 @@ https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-name="Radio Javan (IR)" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="MUSIC",Radio Javan (IR)
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Jukebox TV (IT)" tvg-logo="https://i.imgur.com/LrDLROg.png" group-title="MUSIC",Radio Jukebox TV (IT)
-https:/https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTINF:-1 tvg-name="Jukebox TV (IT)" tvg-logo="https://i.imgur.com/ckjwByp.png" group-title="MUSIC",Jukebox TV (IT)
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio m20 Lazio (IT)" tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIC",Radio m20 Lazio (IT)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="Radio Number One TV (IT)" tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIC",Radio Number One TV (IT)
@@ -1126,8 +1122,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
 #EXTINF:-1 tvg-name="Street Music 4U (US)" tvg-logo="https://i.imgur.com/rb6w7yY.png" group-title="MUSIC",Street Music 4U (US)
 https://broadcast.mytvtogo.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1 tvg-name="SwissRock TV (CH)" tvg-logo="https://i.imgur.com/1UXEsvz.png" group-title="MUSIC",SwissRock TV (CH)
-https://edge2.tikilive.com:8443/html5_tikilive/36206/amlst:mainstream/chunklist_w154198165_b828702.m3u8
+#EXTINF:-1 tvg-name="SwissRock TV (CH)" tvg-logo="https://i.imgur.com/bkQa6uL.jpg" group-title="MUSIC",SwissRock TV (CH)
+https://edge2.tikilive.com/livehttporigin_tikilive/36206/amlst:mainstream/chunklist_b563098.m3u8?p=local&op_id=19&userId=0&channelId=36206&stime=1635704565&etime=1635790965&token=0fe8c1f881dac5032785b
 #EXTINF:-1 tvg-name="Tatlises TV (TR)" tvg-logo="https://i.imgur.com/mJF6g60.png" group-title="MUSIC",Tatlises TV (TR)
 https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Techno Warehouse (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Techno Warehouse (US)
