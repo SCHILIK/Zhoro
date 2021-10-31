@@ -190,7 +190,7 @@ http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Shqip" tvg-id="RTSHShqip.al" tvg-logo="https://i.imgur.com/EjXxjaP.png" group-title="ALBANIA",RTSH Shqip
 http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Sport" tvg-id="" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
-http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+https://tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Arberia" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia
 https://yayin.haber100.com/P361579059/rtvarberia/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Arberia Mix" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia Mix
@@ -345,6 +345,8 @@ http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 http://154.62.74.12:1935/live/smil:eurosport2hdnntv/.m3u8
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/g9bZGrq.png" group-title="SPORTS",Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
+#EXTINF:-1 tvg-name="M-1 Global TV (RU)" tvg-logo="https://i.imgur.com/r5SEZle.png" group-title="SPORTS",M-1 Global TV (RU)
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-name="Match! (RU)" tvg-logo="https://i.imgur.com/Oz4FzZy.jpg" group-title="SPORTS",Match! (RU)
 https://piratilla.com/92935/hls/match_tv.m3u8
 #EXTINF:-1 tvg-name="Match! Ctpaha (RU)" tvg-logo="https://i.imgur.com/W3KxEFw.png" group-title="SPORTS",Match! Ctpaha (RU)
@@ -967,9 +969,9 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-name="MUSIC+ (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC+ (HU)
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-name="MC-Country Hits (US)" tvg-logo="https://i.imgur.com/AUZ7QPx.jpg" group-title="MUSIC",MC-Country Hits (US)
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1115/O0U9MTYzNTY5Mjc3NztBPTE7Sz0wO1A9MDExMTA7Uz1jYWIzODg4YTg2MmE5ZGZjNmQ5YmY5NWY1NzExYzU1MjZlMDBiODBj/chunklist.m3u8
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1115/O0U9MTYzNTcyNTY3MDtBPTE7Sz0wO1A9MDExMTA7Uz00NTFiN2I5NDFkYWQ1MWZiYzZkOWNjOTY0NWY0MWIxOWJhZjBlODk4/chunklist.m3u8
 #EXTINF:-1 tvg-name="MC-Today's Country (US)" tvg-logo="https://i.imgur.com/AUZ7QPx.jpg" group-title="MUSIC",MC-Today's Country (US)
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTYzNTY5MjUyODtBPTE7Sz0wO1A9MDExMTA7Uz1iNWMwNTkyMjZhNDc0YmJkZDYyMmUwYjJmNWUzZGU2ODYzZTdlYzM0/chunklist.m3u8
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTYzNTcyNTQ0MDtBPTE7Sz0wO1A9MDExMTA7Uz1hN2U1YTMxYzFkM2YwODg1YWVjNTdlNWZjN2U4NTM4NTgyMWY1NDA3/chunklist.m3u8
 #EXTINF:-1 tvg-name="Music Top (AR)" tvg-logo="https://i.imgur.com/h8wq2Xo.png" group-title="MUSIC",Music Top (AR)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Music Video" tvg-logo="https://i.imgur.com/9NkCSlf.jpg" group-title="MUSIC",Music Video
@@ -1026,7 +1028,11 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="MUSIC",Obosso TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
-#EXTINF:-1 tvg-name="Ocko TV (CZ)" group-title="MUSIC" tvg-logo="https://i.imgur.com/jKPRYdM.png",Ocko TV (CZ)
+#EXTINF:-1 tvg-name="Ocko Expres (CZ)" tvg-logo="https://i.imgur.com/ZbTIIz5.jpg" group-title="MUSIC",Ocko Expres (CZ)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze.m3u8
+#EXTINF:-1 tvg-name="Ocko Star (CZ)" tvg-logo="https://i.imgur.com/pfPCf8V.jpg" group-title="MUSIC",Ocko Star (CZ)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze.m3u8
+#EXTINF:-1 tvg-name="Ocko TV (CZ)" tvg-logo="https://i.imgur.com/jKPRYdM.png" group-title="MUSIC",Ocko TV (CZ)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ON TV (PT)" tvg-logo="https://i.imgur.com/2heM5qk.png" group-title="MUSIC",ON TV (PT)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
@@ -1088,8 +1094,6 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Reload Play (GR)" tvg-logo="https://i.imgur.com/WRKNbrK.png" group-title="MUSIC",Reload Play (GR)
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Dance 90's (RU)" tvg-logo="https://i.imgur.com/f0n3veh.jpeg" group-title="MUSIC",Retro Dance 90's (RU)
-https://retro-dance.online/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Retro Musik (CZ)" tvg-logo="https://i.imgur.com/GHJYqYg.png" group-title="MUSIC",Retro Musik (CZ)
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Plus HD (BR)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="MUSIC",Retro Plus HD (BR)
@@ -1160,6 +1164,8 @@ http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:-1 tvg-name="V2Beat TV (UK)" tvg-logo="https://i.imgur.com/PXhzoPd.jpg" group-title="MUSIC",V2Beat TV (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="Venus Media (PY)" tvg-logo="https://i.imgur.com/nHJFIrD.png" group-title="MUSIC",Venus Media (PY)
+https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w587335466.m3u8
 #EXTINF:-1 tvg-name="VEVO 00's (US)" tvg-id="" tvg-logo="https://i.imgur.com/csX35oP.png" group-title="MUSIC",VEVO 00's (US)
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
 #EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="MUSIC",VEVO 2K (US)
