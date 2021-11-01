@@ -337,6 +337,8 @@ http://93.157.62.180/Rete4/index.m3u8
 https://
 #EXTINF:-1 tvg-name="ALL Sports (BR)" tvg-logo="https://i.imgur.com/8ndl6x6.jpg" group-title="SPORTS",ALL Sports (BR)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-name="Astrakhan Sport (RU)" tvg-logo="https://i.imgur.com/V3BieVx.jpg" group-title="SPORTS",Astrakhan Sport (RU)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
@@ -351,8 +353,20 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 tvg-name="Sport TV (UZ)" tvg-logo="https://i.imgur.com/Kh3CuZv.jpg" group-title="SPORTS",Sport TV (UZ)
+https://st6.allplay.uz/iptv/97/index.m3u8?t=luuEzrBEgQBsLbrsatYVLA&e=1635874173&u=2865118&s=8865df72-3e6b-4b02-abce-125b93dae16d&i=5.101.156.249
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 1 (BR)
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 2 (BR)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 3 (BR)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 4 (BR)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 5 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 5 (BR)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
 https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
@@ -369,6 +383,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour (US)" tvg-id="" tvg-logo="https://i.imgur.com/VDgqW1q.png" group-title="SPORTS",World Poker Tour (US)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-HeroGo/120.m3u8
+#EXTINF:-1 tvg-name="Футбол 1 (UA)" tvg-id="" tvg-logo="https://i.imgur.com/QB7X0In.jpg" group-title="SPORTS",Футбол 1 (UA)
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ Distro TV ★★★★" tvg-logo="https://i.imgur.com/S90HAR3.png" group-title="Distro TV",★★★★ Distro TV ★★★★
 https://
@@ -1032,7 +1048,9 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:-1 tvg-name="Onda Rusa RTV (ES)" tvg-logo="https://i.imgur.com/CrGWPIW.jpg" group-title="MUSIC",Onda Rusa RTV (ES)
 https://eu1.servers10.com:8081/8098/index.m3u8
-#EXTINF:-1 tvg-name="ONE1 Slovenija (SI)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIC",ONE1 Slovenija (SI)
+#EXTINF:-1 tvg-name="ONE1 (SI)" tvg-logo="https://i.imgur.com/AnBpqMO.png" group-title="MUSIC",ONE1 (SI)
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+#EXTINF:-1 tvg-name="ONE1 Adria (SI)" tvg-logo="https://i.imgur.com/Y2ILNiR.png" group-title="MUSIC",ONE1 Adria (SI)
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 #EXTINF:-1 tvg-name="Otto FM TV (IT)" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIC",Otto FM TV (IT)
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
@@ -1149,7 +1167,7 @@ https://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1 tvg-name="TVM 3 (CH)" tvg-logo="https://i.imgur.com/ns5Ex9s.png" group-title="MUSIC",TVM 3 (CH)
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TZiK (FR)" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="MUSIC",TZiK (FR)
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+https://5a1178b42cc03.streamlock.net/tzik/tzik/playlist.m3u8
 #EXTINF:-1 tvg-name="UpperA Balkan TV (AT)" tvg-logo="https://i.imgur.com/bMtY57i.jpg" group-title="MUSIC",UpperA Balkan TV (AT)
 http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="U-TV (RO)" tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="MUSIC",U-TV (RO)
