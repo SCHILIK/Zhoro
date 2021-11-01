@@ -341,6 +341,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 tvg-name="CANAL+ SPORT 3 HD" group-title="SPORTS",CANAL+ SPORT 3 HD
+http://89.160.178.236:8080/play/a042/index.m3u8
+#EXTINF:-1 tvg-name="CANAL+ SPORT 4 HD" group-title="SPORTS",CANAL+ SPORT 4 HD
+http://89.160.178.236:8080/play/a044/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
 http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 (ES)" tvg-logo="https://i.imgur.com/jkbtoQF.png" group-title="SPORTS",Eurosport 2 (ES)
@@ -697,6 +701,192 @@ https://vod1.laki.eu/live/hram/index.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV S1 RS" tvg-id="" tvg-logo="https://i.imgur.com/ISE1kjs.jpg" group-title="EX-YUG",TV S1 RS
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Hits 1
+http://94.228.228.218:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Kurir TV
+http://94.228.228.218:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Eurosport 1
+http://94.228.228.218:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Music 2
+http://94.228.228.218:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Eurosport 1
+http://94.228.228.218:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 6
+http://94.228.228.218:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 3 Premium
+http://94.228.228.218:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Hits 2
+http://94.228.228.218:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HAPPY
+http://94.228.228.218:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Reality
+http://94.228.228.218:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena Fight
+http://94.228.228.218:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox
+http://94.228.228.218:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink BH
+http://94.228.228.218:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 4
+http://94.228.228.218:8000/play/a029/index.m3u8
+#EXTINF:-1#EXTINF:-1 group-title="EX-YUG",Pink Hits 1
+http://94.228.228.218:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Kurir TV
+http://94.228.228.218:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Eurosport 1
+http://94.228.228.218:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Music 2
+http://94.228.228.218:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Eurosport 1
+http://94.228.228.218:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 6
+http://94.228.228.218:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 3 Premium
+http://94.228.228.218:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Hits 2
+http://94.228.228.218:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HAPPY
+http://94.228.228.218:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Reality
+http://94.228.228.218:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena Fight
+http://94.228.228.218:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox
+http://94.228.228.218:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink BH
+http://94.228.228.218:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 4
+http://94.228.228.218:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD NBA
+http://94.228.228.218:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Nicktoons
+http://94.228.228.218:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Music
+http://94.228.228.218:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Film
+http://94.228.228.218:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 2
+http://94.228.228.218:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD FightBOX
+http://94.228.228.218:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox Crime
+http://94.228.228.218:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox Life
+http://94.228.228.218:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 2 Premium
+http://94.228.228.218:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Family
+http://94.228.228.218:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD HGTV
+http://94.228.228.218:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Nicktoons
+http://94.228.228.218:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 5
+http://94.228.228.218:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Pink
+http://94.228.228.218:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Western
+http://94.228.228.218:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 3
+http://94.228.228.218:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Zabava
+http://94.228.228.218:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 1
+http://94.228.228.218:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 7
+http://94.228.228.218:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Bravo Music
+http://94.228.228.218:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Folk
+http://94.228.228.218:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Toxic TV
+http://94.228.228.218:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Folk 2
+http://94.228.228.218:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Belle Amie
+http://94.228.228.218:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 1 Premium
+http://94.228.228.218:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink M
+http://94.228.228.218:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD RTS 1
+http://94.228.228.218:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD RTS 2
+http://94.228.228.218:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Prva TV
+http://94.228.228.218:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD B92
+http://94.228.228.218:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Extra
+http://94.228.228.218:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Food Network
+http://94.228.228.218:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink
+http://94.228.228.218:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Nicktoons
+http://94.228.228.218:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Music
+http://94.228.228.218:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Film
+http://94.228.228.218:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 2
+http://94.228.228.218:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD FightBOX
+http://94.228.228.218:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox Crime
+http://94.228.228.218:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Fox Life
+http://94.228.228.218:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 2 Premium
+http://94.228.228.218:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Family
+http://94.228.228.218:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD HGTV
+http://94.228.228.218:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Nicktoons
+http://94.228.228.218:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 5
+http://94.228.228.218:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Pink
+http://94.228.228.218:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Western
+http://94.228.228.218:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 3
+http://94.228.228.218:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Zabava
+http://94.228.228.218:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 1
+http://94.228.228.218:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 7
+http://94.228.228.218:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Bravo Music
+http://94.228.228.218:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Folk
+http://94.228.228.218:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Toxic TV
+http://94.228.228.218:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Folk 2
+http://94.228.228.218:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Belle Amie
+http://94.228.228.218:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Arena 1 Premium
+http://94.228.228.218:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink M
+http://94.228.228.218:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD RTS 1
+http://94.228.228.218:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD RTS 2
+http://94.228.228.218:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Prva TV
+http://94.228.228.218:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD B92
+http://94.228.228.218:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink Extra
+http://94.228.228.218:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",HD Food Network
+http://94.228.228.218:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="EX-YUG",Pink
+http://94.228.228.218:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ MUSIC JUKEBOX ★★★★" group-title="MUSIC" tvg-logo="https://i.imgur.com/vF7TUVD.png",★★★★ MUSIC JUKEBOX ★★★★
 https://live.topgold.al/topgold
