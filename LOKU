@@ -347,16 +347,10 @@ http://154.62.74.12:1935/live/smil:eurosport2hdnntv/.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
 #EXTINF:-1 tvg-name="M-1 Global TV (RU)" tvg-logo="https://i.imgur.com/r5SEZle.png" group-title="SPORTS",M-1 Global TV (RU)
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-name="Match! (RU)" tvg-logo="https://i.imgur.com/Oz4FzZy.jpg" group-title="SPORTS",Match! (RU)
-https://piratilla.com/92935/hls/match_tv.m3u8
-#EXTINF:-1 tvg-name="Match! Ctpaha (RU)" tvg-logo="https://i.imgur.com/W3KxEFw.png" group-title="SPORTS",Match! Ctpaha (RU)
-https://piratilla.com/92935/hls/match_strana.m3u8
 #EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
-#EXTINF:-1 tvg-name="Sport1 (DE)" tvg-logo="https://i.imgur.com/O2SVRMr.png" group-title="SPORTS",Sport1 (DE)
-http://s846397078.mialojamiento.es/g8wr/mp.php/https://streaming-s1free.sport1.de/Cab1bo-3rkaBOH3YvByd1Q==,1635697043/ls-45420-1/index.m3u8
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
 #EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
@@ -726,6 +720,8 @@ https://albportal.net/albkanalemusic.m3u8
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-name="Algorhythm i love Tech House (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC",Algorhythm i love Tech House (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/615.m3u8
+#EXTINF:-1 tvg-name="Avang TV (IR)" tvg-id="" tvg-logo="https://i.imgur.com/CkNisAW.png" group-title="MUSIC",Avang TV (IR)
+http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w913855439.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/9kLTfsY.png",BaebleMusic (US)
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-baeblemusic/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="Bajo Cero TV (BR)" group-title="MUSIC" tvg-logo="https://i.imgur.com/aRPmfji.jpg",Bajo Cero TV (BR)
@@ -754,8 +750,10 @@ https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
 https://st.biztv.uz/hls/m_mid/index.m3u8
 #EXTINF:-1 tvg-name="Box Hits (UK)" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="MUSIC",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-name="Balkanika (BG)" tvg-logo="https://i.imgur.com/UswMmZh.jpg" group-title="MUSIC",Balkanika (BG)
-https://iptvcat.com/my_list/s/57c20fc776e0c4f174e38e11d96ffed1.m3u8
+#EXTINF:-1 tvg-name="Bonao TV (DO)" tvg-id="" tvg-logo="https://i.imgur.com/CA9bH7C.png" group-title="MUSIC",Bonao TV (DO)
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-name="Bonce TV (CAR)" tvg-id="" tvg-logo="https://i.imgur.com/5rqq28Q.png" group-title="MUSIC",Bonce TV (CAR)
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-name="Box Playlist" tvg-logo="https://i.imgur.com/p1cvSXo.png" group-title="MUSIC",Box Playlist
 https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-BoxPlaylist/playlist.m3u8
 #EXTINF:-1 tvg-name="Busuioc TV (MD)" tvg-logo="https://i.imgur.com/vS5l5a3.png" group-title="MUSIC",Busuioc TV (MD)
@@ -784,12 +782,10 @@ https://vod.streams.ovh:3528/stream/play.m3u8
 https://ingest-wza.bustream.com/coopetv/rates73.smil/.m3u8
 #EXTINF:-1 tvg-name="City TV (BG)" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="MUSIC",City TV (BG)
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:-1 tvg-name="CMC-USA (US)" tvg-id="" tvg-logo="https://i.imgur.com/CnkbcUo.jpg" group-title="MUSIC",CMC-USA (US)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:-1 tvg-name="CMC (US)" tvg-logo="https://i.imgur.com/uYIthhc.jpg" group-title="MUSIC",CMC (US)
+#EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" tvg-logo="https://i.imgur.com/aDReLcK.png" group-title="MUSIC",CMC 2 (US)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CMC-USA (US)" tvg-logo="https://i.imgur.com/uYIthhc.jpg" group-title="MUSIC",CMC (US)
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcaliforniamusicchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="CMC 2 (US)" tvg-id="CMC 2" tvg-logo="https://i.imgur.com/aDReLcK.png" group-title="MUSIC",CMC 2 (US)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="CMT (US)" tvg-id="CMC 2" tvg-logo="https://i.imgur.com/ISLrM24.jpg" group-title="MUSIC",CMT (US)
 https://siloh-ns1.plutotv.net/lilo/production/CMT/master.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD (BR)" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="MUSIC",Conecta TV HD (BR)
@@ -800,7 +796,7 @@ https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
 https://cdnvod.panda-os.com/livehls/5e945d266986fb1f2c30e082/master.m3u8
 #EXTINF:-1 tvg-name="Dance Hits 90'S" tvg-logo="https://i.imgur.com/VggTb8z.png" group-title="MUSIC",Dance Hits 90'S
 https://v2.catcast.tv/content/39500/index.m3u8
-#EXTINF:-1 tvg-name="DanceStar TV (UK)" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MUSIC",DanceStar TV (UK)
+#EXTINF:-1 tvg-name="DanceStar TV (US)" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="MUSIC",DanceStar TV (US)
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceTrippin (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC",DanceTrippin (US)
 https://10999-2.b.cdn13.com/live/master.m3u8
@@ -812,6 +808,8 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="Deluxemusic (DE)" group-title="MUSIC" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",Deluxemusic (DE)
 http://theking365tv.cf/live/m4NHYZEcVr/2151184320/3312.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD (DE)" tvg-id="DEAH3904006A" tvg-logo="https://i.imgur.com/X9feFap.png" group-title="MUSIC",Deluxe Lounge HD (DE)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen (DE)" tvg-logo="https://i.imgur.com/fw5O4PK.png" group-title="MUSIC",Deutsches Musik Fernsehen (DE)
 http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-name="Dibi TV (RO)" tvg-logo="https://i.imgur.com/gnu7LIn.png" group-title="MUSIC",Dibi TV (RO)
@@ -868,8 +866,6 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-name="Hip Hop Bangers (US)" tvg-logo="https://i.imgur.com/EMcSZeW.jpg" group-title="MUSIC",Hip Hop Bangers (US)
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
-#EXTINF:-1 tvg-name="HQM Spanish" tvg-id="" tvg-logo="https://i.imgur.com/OeOKSqP.png" group-title="MUSIC",HQM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/index-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="Hot Rock TV (US)" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC",Hot Rock TV (US)
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-name="House Floor (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",House Floor (US)
@@ -880,6 +876,8 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-name="IndiMusic (US)" tvg-logo="https://i.imgur.com/vnGRSto.jpg" group-title="MUSIC",IndiMusic (US)
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eNrhWgtOiwWeSaK-zPpk3ilY03m7riadAETZaYwDl3zx/7y7y6so9dw8w.m3u8
+#EXTINF:-1 tvg-name="Jukebox TV (IT)" tvg-logo="https://i.imgur.com/ckjwByp.png" group-title="MUSIC",Jukebox TV (IT)
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-name="Karibena HD (PE)" group-title="MUSIC" tvg-logo="https://i.imgur.com/a8yMvcV.png",Karibena HD (PE)
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-name="Kayhan TV (AF)" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="MUSIC",Kayhan TV (AF)
@@ -970,10 +968,6 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-name="MUSIC+ (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC+ (HU)
 http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 tvg-name="MC-Country Hits (US)" tvg-logo="https://i.imgur.com/AUZ7QPx.jpg" group-title="MUSIC",MC-Country Hits (US)
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1115/O0U9MTYzNTcyNTY3MDtBPTE7Sz0wO1A9MDExMTA7Uz00NTFiN2I5NDFkYWQ1MWZiYzZkOWNjOTY0NWY0MWIxOWJhZjBlODk4/chunklist.m3u8
-#EXTINF:-1 tvg-name="MC-Today's Country (US)" tvg-logo="https://i.imgur.com/AUZ7QPx.jpg" group-title="MUSIC",MC-Today's Country (US)
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTYzNTcyNTQ0MDtBPTE7Sz0wO1A9MDExMTA7Uz1hN2U1YTMxYzFkM2YwODg1YWVjNTdlNWZjN2U4NTM4NTgyMWY1NDA3/chunklist.m3u8
 #EXTINF:-1 tvg-name="Music Top (AR)" tvg-logo="https://i.imgur.com/h8wq2Xo.png" group-title="MUSIC",Music Top (AR)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Music Video" tvg-logo="https://i.imgur.com/9NkCSlf.jpg" group-title="MUSIC",Music Video
@@ -1012,6 +1006,8 @@ https://vdo.alphaserver.gr:3305/stream/play.m3u8
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 #EXTINF:-1 tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="MUSIC",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-name="Nashville Country TV (US)" tvg-id="" tvg-logo="https://i.imgur.com/jg7BPXG.jpg" group-title="MUSIC",Nashville Country TV (US)
+https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
 #EXTINF:-1 tvg-name="Neural Focused (US)" tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIC",Neural Focused (US)
 https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-name="NG RADIO (GR)" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC",NG RADIO (GR)
@@ -1020,14 +1016,8 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 https://d21ftltzb623rq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-NigezieMusicSCTE/playlist.m3u8
 #EXTINF:-1 tvg-name="Nojoum TV (IR)" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="MUSIC",Nojoum TV (IR)
 http://51.210.199.41/hls/stream.m3u8
-#EXTINF:-1 tvg-name="NR1 (TR)" tvg-id="" tvg-logo="https://i.imgur.com/u3Chhy5.png" group-title="MUSIC",NR1 (TR)
-https://mn-nl.mncdn.com/blutv_nr1tv/nr1tv_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 Turk (TR)" tvg-id="" tvg-logo="https://i.imgur.com/Wx93JBZ.png" group-title="MUSIC",NR1 Turk (TR)
-https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NRG TV (GR)" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG TV (GR)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="MUSIC",NRJ Hits (FR)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1 tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="MUSIC",Obosso TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-name="Ocko Expres (CZ)" tvg-logo="https://i.imgur.com/ZbTIIz5.jpg" group-title="MUSIC",Ocko Expres (CZ)
@@ -1082,8 +1072,6 @@ https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-name="Radio Javan (IR)" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="MUSIC",Radio Javan (IR)
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Jukebox TV (IT)" tvg-logo="https://i.imgur.com/ckjwByp.png" group-title="MUSIC",Jukebox TV (IT)
-https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio m20 Lazio (IT)" tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIC",Radio m20 Lazio (IT)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="Radio Number One TV (IT)" tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIC",Radio Number One TV (IT)
@@ -1245,20 +1233,14 @@ https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 #EXTINF:-1 tvg-name="THE Voice (BG)" tvg-logo="https://i.imgur.com/S38VlNV.png" group-title="MUSIC",THE Voice (BG)
 https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
 
-#EXTINF:-1 tvg-name="Avang TV (IR)" tvg-id="" tvg-logo="https://i.imgur.com/CkNisAW.png" group-title="MUSIC",Avang TV (IR)
-http://appavang.flashmediacast.com:1935/Appavang/livestream/chunklist_w913855439.m3u8
-#EXTINF:-1 tvg-name="Bonao TV (DO)" tvg-id="" tvg-logo="https://i.imgur.com/CA9bH7C.png" group-title="MUSIC",Bonao TV (DO)
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-#EXTINF:-1 tvg-name="Bonce TV (CAR)" tvg-id="" tvg-logo="https://i.imgur.com/5rqq28Q.png" group-title="MUSIC",Bonce TV (CAR)
-https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Corazón Llanero (VE)" tvg-id="" tvg-logo="https://i.imgur.com/75dTj9u.png" group-title="MUSIC",Corazón Llanero (VE)
 https://vcp.myplaytv.com/coll/coll/.m3u8
 #EXTINF:-1 tvg-name="D5 Music (FR) (DM)" tvg-id="" tvg-logo="https://i.imgur.com/rjMpWHO.png" group-title="MUSIC",D5 Music (FR) (DM)
 plugin://plugin.video.dailymotion_com/?url=/x7ytu8k&mode=playLiveVideo
 #EXTINF:-1 tvg-name="Dance Television (US)" tvg-id="" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC",Dance Television (US)
 https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-name="Deluxe Lounge HD (DE)" tvg-id="DEAH3904006A" tvg-logo="https://i.imgur.com/X9feFap.png" group-title="MUSIC",Deluxe Lounge HD (DE)
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="Eibiza Tv Maxximixx (FR)" tvg-id="" tvg-logo="https://i.imgur.com/TdHvFJu.jpg" group-title="MUSIC",Eibiza Tv Maxximixx (FR)
 https://tv.everestcast.com:3170/stream/play.m3u8
 #EXTINF:-1 tvg-name="Emergence TV (FR)" tvg-id="" tvg-logo="https://i.imgur.com/wAD7GCR.jpg" group-title="MUSIC",Emergence TV (FR)
@@ -1320,8 +1302,6 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://muzzone-stream.daitsuna.net/muzzone/muzzone/index.m3u8
 #EXTINF:-1 tvg-name="My Music Africa (CM)" tvg-id="" tvg-logo="https://i.imgur.com/Gjnpnnu.png" group-title="MUSIC",My Music Africa (CM)
 http://173.249.3.13:8080/mymusic/index.m3u8
-#EXTINF:-1 tvg-name="Nashville Country TV (US)" tvg-id="" tvg-logo="https://i.imgur.com/jg7BPXG.jpg" group-title="MUSIC",Nashville Country TV (US)
-https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
 #EXTINF:-1 tvg-name="Nisville TV (RS)" tvg-id="" tvg-logo="https://i.imgur.com/uEBWGVj.png" group-title="MUSIC",Nisville TV (RS)
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
 #EXTINF:-1 tvg-name="Now 70's (AU)" tvg-id="" tvg-logo="https://i.imgur.com/yz0J7UZ.png" group-title="MUSIC",Now 70's (AU)
