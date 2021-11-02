@@ -364,6 +364,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 tvg-name="ROH FHD (US)" tvg-logo="https://i.imgur.com/T04MWcd.png" group-title="SPORTS",ROH FHD (US)
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport TV (UZ)" tvg-logo="https://i.imgur.com/Kh3CuZv.jpg" group-title="SPORTS",Sport TV (UZ)
 https://st6.allplay.uz/iptv/97/index.m3u8?t=luuEzrBEgQBsLbrsatYVLA&e=1635874173&u=2865118&s=8865df72-3e6b-4b02-abce-125b93dae16d&i=5.101.156.249
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
