@@ -40,6 +40,7 @@ http://us.bestvideostreaming.is/8709/playlist.m3u8
 #EXTINF:-1 tvg-name="BangBang" tvg-id="BangBang.al" tvg-logo="https://i.imgur.com/QbTMXqB.png" group-title="ALBANIA",BangBang
 http://us.bestvideostreaming.is/8737/playlist.m3u8
 #EXTINF:-1 tvg-name="BBF Music TV" tvg-id="" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
+http://93.157.62.180/BBFMusic/index.m3u8
 http://us.bestvideostreaming.is/8795/index.m3u8
 #EXTINF:-1 tvg-name="BB VIP 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB VIP 1
 http://us.bestvideostreaming.is/8803/index.m3u8
