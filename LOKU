@@ -43,8 +43,12 @@ http://us.bestvideostreaming.is/8737/playlist.m3u8
 http://us.bestvideostreaming.is/8795/index.m3u8
 #EXTINF:-1 tvg-name="BB VIP 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB VIP 1
 http://us.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1 tvg-name="BB vip 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB VIP 1
+http://93.157.62.180/BigBrother1/index.m3u8
 #EXTINF:-1 tvg-name="BB VIP 2" tvg-id="" tvg-logo="https://i.imgur.com/v1gdqE9.png" group-title="ALBANIA",BB VIP 2
 http://us.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1 tvg-name="BB vip 2" tvg-id="" tvg-logo="https://i.imgur.com/v1gdqE9.png" group-title="ALBANIA",BB VIP 2
+http://93.157.62.180/BigBrother2/index.m3u8
 #EXTINF:-1 tvg-name="Contact Vision TV" tvg-id="" tvg-logo="https://i.imgur.com/NrbRO5E.png" group-title="ALBANIA",Contact Vision TV
 http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cufo TV" tvg-id="Cufo.al" tvg-logo="https://i.imgur.com/xXlrzEo.png" group-title="ALBANIA",Cufo TV
@@ -282,6 +286,7 @@ http://us.bestvideostreaming.is/8762/index.m3u8
 #EXTINF:-1 tvg-name="Tring Smile" tvg-id="TringSmile.al" tvg-logo="https://i.imgur.com/XCmdL8s.png" group-title="ALBANIA",Tring Smile
 http://us.bestvideostreaming.is/8802/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 1 HD" tvg-id="TringSport1.al" tvg-logo="https://i.imgur.com/XTAo9NC.png" group-title="ALBANIA",Tring Sport 1 HD
+http://93.157.62.180/TringSport1HD/index.m3u8
 http://us.bestvideostreaming.is/8796/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 2 HD" tvg-id="TringSport2.al" tvg-logo="https://i.imgur.com/JFWbgQH.png" group-title="ALBANIA",Tring Sport 2 HD
 http://us.bestvideostreaming.is/8797/index.m3u8
@@ -355,6 +360,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
+#EXTINF:-1 tvg-name="MY SPORTS FHD (CH)" group-title="SPORTS",MY SPORTS FHD (CH)
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
 #EXTINF:-1 tvg-name="Sport TV (UZ)" tvg-logo="https://i.imgur.com/Kh3CuZv.jpg" group-title="SPORTS",Sport TV (UZ)
