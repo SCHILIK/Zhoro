@@ -1354,6 +1354,95 @@ http://5.101.7.181:2086/play/a1vf
 #EXTINF:-1 group-title="SPORTS",[Спорт] nSport+ HD [PL]
 http://5.101.7.181:2086/play/a213
 
+#EXTINF:-1 tvg-name="★★★★ Спорт ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="Спорт",★★★★ Спорт ★★★★
+https://
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png" tvg-id="441670585_2052",Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://nord.by/images/tv/esp1.png",Eurosport 1
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-id="441670585_2052",Eurosport 1 HD
+http://37.99.5.234/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://nord.by/images/tv/esp2.png",Eurosport 2
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3141.png",Eurosport 2
+http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2747.png",Eurosport Gold FHD
+http://185.228.135.48:8080/tv_eurosport_gold_hd/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png",Setanta Sports Ukraine HD
+http://iptv.prosto.tv:7000/ch106/video.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+https://95-213-224-173.livesports24.online/rusetantae..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1
+https://77-247-178-24.livesports24.online/rusetantaeu..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5509.png",Setanta Sports 1 HD
+https://95-213-224-186.livesports24.online/rusetantae..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1 HD
+https://46-166-139-70.livesports24.online/rusetantaeu..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png",Setanta Sports 2 HD
+https://95-213-224-186.livesports24.online/setantaplu..
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://im0-tub-ru.yandex.net/i?id=ac86f0b90fc673e1a4ab2a8074..",Setanta Sports 2 HD
+https://77-247-178-24.livesports24.online/setantaplus..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2363.png",Setanta Sports 2 HD
+https://95-213-224-182.livesports24.online/setantaplu..
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",VIP Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2326.png" group-title="Спорт",M-1 Global TV
+http://37.99.5.234/btv/SWM/M1/M1.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2782.png",Футбол
+https://77-247-178-24.livesports24.online/footballrus..
+#EXTINF:-1 group-title="Спорт",Футбол 1
+https://95-213-224-176.livesports24.online/uafootball..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2189.png",Футбол 1
+https://46-166-142-27.livesports24.online/uafootballu..
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD
+https://77-247-178-24.livesports24.online/uafootballu..
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD
+https://185-107-80-245.livesports24.online/uafootball..
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD
+https://185-198-56-58.livesports24.online/uafootballu..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5514.png",Футбол 2
+https://95-213-224-185.livesports24.online/fooootball..
+#EXTINF:0 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 UA
+https://95-213-172-222.livesports24.online/fooootball..
+#EXTINF:1 group-title="Спорт",Футбол 2
+https://95-213-224-180.livesports24.online/fooootball..
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2115.png",Футбол 2
+https://185-107-80-245.livesports24.online/fooootball..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5514.png",Футбол 2
+https://95-213-224-186.livesports24.online/fooootball..
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD
+https://46-166-139-70.livesports24.online/fooootball2..
+#EXTINF:-1 group-title="Спорт",Футбол 2 HD
+https://95-213-224-176.livesports24.online/fooootball..
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD [UA] [HQ]
+https://77-247-178-24.livesports24.online/fooootball2..
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD [UA] [HQ]
+https://46-166-139-70.livesports24.online/fooootball2..
+#EXTINF:-1 group-title="Спорт",Футбол 2 HD [UA] [HQ]
+https://185-107-80-245.livesports24.online/fooootball..
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD
+https://185-198-56-58.livesports24.online/fooootball2..
+#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/ea51c14bc55baa5321f83a91d6db11.." group-title="Спорт",Футбол 3
+https://77-247-178-24.livesports24.online/football3ua..
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://ic.wampi.ru/2021/04/14/ea51c14bc55baa5321f83a91d6db11.." group-title="Спорт",Футбол 3
+https://95-213-224-185.livesports24.online/football3u..
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2933.png",Sport 1 Baltic
+http://iptv.prosto.tv:7000/ch114/video.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт 1
+http://iptv.prosto.tv:7000/ch113/video.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Sport 1 HD
+http://iptv.prosto.tv:7000/ch107/video.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 1 HD
+http://iptv.prosto.tv:7000/ch107/video.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/3318.png",SPORT 2
+http://iptv.prosto.tv:7000/ch115/video.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Спорт 2
+http://iptv.prosto.tv:7000/ch115/video.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Спорт 2 Baltic
+http://iptv.prosto.tv:7000/ch116/video.m3u8
+
 #EXTINF:-1 tvg-name="★★★★ Distro TV ★★★★" tvg-logo="https://i.imgur.com/S90HAR3.png" group-title="Distro TV",★★★★ Distro TV ★★★★
 https://
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="Distro TV",Ace
