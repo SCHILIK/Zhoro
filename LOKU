@@ -484,7 +484,7 @@ http://persik.tv/stream/3602/287583/10249.m3u8
 http://iptv.prosto.tv:7000/ch108/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2326.png" group-title="Спорт",M-1 Global TV
 http://37.99.5.234/btv/SWM/M1/M1.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2782.png",Футбол
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2782.png" group-title="Спорт",Футбол
 https://77-247-178-24.livesports24.online/footballrus.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1
 https://95-213-224-176.livesports24.online/uafootballua1.m3u8
