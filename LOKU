@@ -468,12 +468,6 @@ https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png",Setanta Sports 2 HD
-https://95-213-224-186.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/5510.png" group-title="Спорт",Setanta Sports 2 HD
-https://77-247-178-24.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2363.png" group-title="Спорт",Setanta Sports 2 HD
-https://95-213-224-182.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCGJln5.jpg" group-title="Спорт",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCGJln5.jpg" group-title="Спорт",VIP Viasat Sport HD
