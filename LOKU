@@ -470,8 +470,6 @@ http://iptv.prosto.tv:7000/ch106/video.m3u8
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1
 https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1 HD
-https://46-166-139-70.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png",Setanta Sports 2 HD
 https://95-213-224-186.livesports24.online/setantaplu..
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/5510.png" group-title="Спорт",Setanta Sports 2 HD
