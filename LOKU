@@ -359,6 +359,8 @@ https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 http://89.160.178.236:8080/play/a042/index.m3u8
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4 HD" group-title="SPORTS",CANAL+ SPORT 4 HD
 http://89.160.178.236:8080/play/a044/index.m3u8
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="https://i.imgur.com/iuotNH5.jpg" group-title="SPORTS",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 (ES)" tvg-logo="https://i.imgur.com/pxDSeKG.png" group-title="SPORTS",Eurosport 1 (ES)
 http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 #EXTINF:-1 tvg-name="Eurosport 2 (ES)" tvg-logo="https://i.imgur.com/jkbtoQF.png" group-title="SPORTS",Eurosport 2 (ES)
@@ -379,6 +381,8 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 https://st6.allplay.uz/iptv/97/index.m3u8?t=luuEzrBEgQBsLbrsatYVLA&e=1635874173&u=2865118&s=8865df72-3e6b-4b02-abce-125b93dae16d&i=5.101.156.249
 #EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+#EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 1 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 1 (BR)
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 2 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 2 (BR)
@@ -389,8 +393,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 5 (BR)" tvg-id="" tvg-logo="https://i.imgur.com/McMOQAf.png" group-title="SPORTS",TNT Sports 5 (BR)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-name="Stadium (US)" tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="SPORTS",Stadium (US)
-https://stadium.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars (AU)" tvg-id="" tvg-logo="https://i.imgur.com/zCVq9ET.jpeg" group-title="SPORTS",Trace Sport Stars (AU)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Classic Sports (US)" tvg-id="" tvg-logo="https://i.imgur.com/DN5TVHj.jpg" group-title="SPORTS",TVS Classic Sports (US)
@@ -409,956 +411,9 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS",[Спорт] TVA Sports HD [FR]
-http://5.101.7.181:2086/play/a1u7
-#EXTINF:-1 group-title="SPORTS",[Спорт] 11 HD [PT]
-http://5.101.7.181:2086/play/a1u8
-#EXTINF:-1 group-title="SPORTS",[Спорт] A SPOR HD [TR]
-http://5.101.7.181:2086/play/a1ua
-#EXTINF:-1 group-title="SPORTS",[Спорт] A SPOR [TR]
-http://5.101.7.181:2086/play/a1u9
-#EXTINF:-1 group-title="SPORTS",[Спорт] Abu Dhabi Sports 1 [AR]
-http://5.101.7.181:2086/play/a1ub
-#EXTINF:-1 group-title="SPORTS",[Спорт] Abu Dhabi Sports 2 [AR]
-http://5.101.7.181:2086/play/a1uc
-#EXTINF:-1 group-title="SPORTS",[Спорт] Abu Dhabi Sports 3 [AR]
-http://5.101.7.181:2086/play/a1ud
-#EXTINF:-1 group-title="SPORTS",[Спорт] Abu Dhabi Sports 4 [AR]
-http://5.101.7.181:2086/play/a1ue
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 1 HD [HR]
-http://5.101.7.181:2086/play/a1ug
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 1 [HR]
-http://5.101.7.181:2086/play/a1uf
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 2 HD [HR]
-http://5.101.7.181:2086/play/a1ui
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 2 [HR]
-http://5.101.7.181:2086/play/a1uh
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 3 HD [HR]
-http://5.101.7.181:2086/play/a1uk
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 3 [HR]
-http://5.101.7.181:2086/play/a1uj
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 4 HD [HR]
-http://5.101.7.181:2086/play/a1um
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 4 [HR]
-http://5.101.7.181:2086/play/a1ul
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 5 HD [HR]
-http://5.101.7.181:2086/play/a1uo
-#EXTINF:-1 group-title="SPORTS",[Спорт] Arena Sport 5 [HR]
-http://5.101.7.181:2086/play/a1un
-#EXTINF:-1 group-title="SPORTS",[Спорт] Art Sport 2 [AL]
-http://5.101.7.181:2086/play/a1up
-#EXTINF:-1 group-title="SPORTS",[Спорт] Astro Arena HD
-http://5.101.7.181:2086/play/a1uq
-#EXTINF:-1 group-title="SPORTS",[Спорт] Astro SuperSport 1 Malaysia
-http://5.101.7.181:2086/play/a1ur
-#EXTINF:-1 group-title="SPORTS",[Спорт] Astro SuperSport 2 Malaysia
-http://5.101.7.181:2086/play/a1us
-#EXTINF:-1 group-title="SPORTS",[Спорт] Astro SuperSport 3 Malaysia
-http://5.101.7.181:2086/play/a1ut
-#EXTINF:-1 group-title="SPORTS",[Спорт] Astro SuperSport 4 Malaysia
-http://5.101.7.181:2086/play/a1uu
-#EXTINF:-1 group-title="SPORTS",[Спорт] AutoMotorSport Channel HD [DE]
-http://5.101.7.181:2086/play/a1uv
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 1 HD [UK]
-http://5.101.7.181:2086/play/a1vl
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 1 [UK]
-http://5.101.7.181:2086/play/a1vk
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 2 HD [UK]
-http://5.101.7.181:2086/play/a1vn
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 2 [UK]
-http://5.101.7.181:2086/play/a1vm
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 3 HD [UK]
-http://5.101.7.181:2086/play/a1vp
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport 3 [UK]
-http://5.101.7.181:2086/play/a1vo
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport ESPN HD [UK]
-http://5.101.7.181:2086/play/a1vr
-#EXTINF:-1 group-title="SPORTS",[Спорт] BT Sport ESPN [UK]
-http://5.101.7.181:2086/play/a1vq
-#EXTINF:-1 group-title="SPORTS",[Спорт] Barca TV [ES]
-http://5.101.7.181:2086/play/a1uw
-#EXTINF:-1 group-title="SPORTS",[Спорт] Benfica TV HD [PT]
-http://5.101.7.181:2086/play/a1vi
-#EXTINF:-1 group-title="SPORTS",[Спорт] Box Nation [UK]
-http://5.101.7.181:2086/play/a1vj
-#EXTINF:-1 group-title="SPORTS",[Спорт] C More Fotboll HD [SE]
-http://5.101.7.181:2086/play/a1vs
-#EXTINF:-1 group-title="SPORTS",[Спорт] C More Golf [SE]
-http://5.101.7.181:2086/play/a1vt
-#EXTINF:-1 group-title="SPORTS",[Спорт] C More Hockey [SE]
-http://5.101.7.181:2086/play/a1vu
-#EXTINF:-1 group-title="SPORTS",[Спорт] C More Sport 1 HD [FI]
-http://5.101.7.181:2086/play/a1vv
-#EXTINF:-1 group-title="SPORTS",[Спорт] C More Sport 2 HD [FI]
-http://5.101.7.181:2086/play/a1vw
-#EXTINF:-1 group-title="SPORTS",[Спорт] CBC Sport [AZ]
-http://5.101.7.181:2086/play/a1w3
-#EXTINF:-1 group-title="SPORTS",[Спорт] CBS Sports Network HD [US]
-http://5.101.7.181:2086/play/a1w5
-#EXTINF:-1 group-title="SPORTS",[Спорт] CBS Sports Network [US]
-http://5.101.7.181:2086/play/a1w4
-#EXTINF:-1 group-title="SPORTS",[Спорт] CT Sport HD [CZ]
-http://5.101.7.181:2086/play/a1w6
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport 1 HD [PL]
-http://5.101.7.181:2086/play/a1vx
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport 2 HD [PL]
-http://5.101.7.181:2086/play/a1vy
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport 3 HD [PL]
-http://5.101.7.181:2086/play/a1vz
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport 4 HD [PL]
-http://5.101.7.181:2086/play/a1w0
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport HD [FR]
-http://5.101.7.181:2086/play/a1w2
-#EXTINF:-1 group-title="SPORTS",[Спорт] Canal+ Sport [FR]
-http://5.101.7.181:2086/play/a1w1
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 1 HD [DE]
-http://5.101.7.181:2086/play/a1w7
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 1 HD [ES]
-http://5.101.7.181:2086/play/a1w8
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 2 HD [DE]
-http://5.101.7.181:2086/play/a1w9
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 2 HD [ES]
-http://5.101.7.181:2086/play/a1wa
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 3 HD [ES]
-http://5.101.7.181:2086/play/a1wb
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN 4 HD [ES]
-http://5.101.7.181:2086/play/a1wc
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN F1 HD [ES]
-http://5.101.7.181:2086/play/a1we
-#EXTINF:-1 group-title="SPORTS",[Спорт] DAZN F1 [ES]
-http://5.101.7.181:2086/play/a1wd
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 1 HD [RO]
-http://5.101.7.181:2086/play/a1wl
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 1 [HU]
-http://5.101.7.181:2086/play/a1wj
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 1 [RO]
-http://5.101.7.181:2086/play/a1wk
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 2 HD [RO]
-http://5.101.7.181:2086/play/a1wo
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 2 [HU]
-http://5.101.7.181:2086/play/a1wm
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 2 [RO]
-http://5.101.7.181:2086/play/a1wn
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 3 HD [RO]
-http://5.101.7.181:2086/play/a1wr
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 3 [HU]
-http://5.101.7.181:2086/play/a1wp
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 3 [RO]
-http://5.101.7.181:2086/play/a1wq
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 4 HD [RO]
-http://5.101.7.181:2086/play/a1wt
-#EXTINF:-1 group-title="SPORTS",[Спорт] DIGI SPORT 4 [RO]
-http://5.101.7.181:2086/play/a1ws
-#EXTINF:-1 group-title="SPORTS",[Спорт] Diema Sport 1 [BG]
-http://5.101.7.181:2086/play/a1wf
-#EXTINF:-1 group-title="SPORTS",[Спорт] Diema Sport 2 [BG]
-http://5.101.7.181:2086/play/a1wg
-#EXTINF:-1 group-title="SPORTS",[Спорт] Diema Sport 3 HD [BG]
-http://5.101.7.181:2086/play/a1wi
-#EXTINF:-1 group-title="SPORTS",[Спорт] Diema Sport 3 [BG]
-http://5.101.7.181:2086/play/a1wh
-#EXTINF:-1 group-title="SPORTS",[Спорт] Dubai Racing [AR]
-http://5.101.7.181:2086/play/a1wu
-#EXTINF:-1 group-title="SPORTS",[Спорт] Dubai Sports 1 [AR]
-http://5.101.7.181:2086/play/a1wv
-#EXTINF:-1 group-title="SPORTS",[Спорт] Dubai Sports 2 [AR]
-http://5.101.7.181:2086/play/a1ww
-#EXTINF:-1 group-title="SPORTS",[Спорт] Dubai Sports 3 [AR]
-http://5.101.7.181:2086/play/a1wx
-#EXTINF:-1 group-title="SPORTS",[Спорт] Dynamo Kyiv TV HD
-http://5.101.7.181:2086/play/a1wy
-#EXTINF:-1 group-title="SPORTS",[Спорт] EIR SPORT 1 HD [UK]
-http://5.101.7.181:2086/play/a1wz
-#EXTINF:-1 group-title="SPORTS",[Спорт] EIR SPORT 2 HD [UK]
-http://5.101.7.181:2086/play/a1x0
-#EXTINF:-1 group-title="SPORTS",[Спорт] EPT Sports [GR]
-http://5.101.7.181:2086/play/a1xi
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 1 HD [NL]
-http://5.101.7.181:2086/play/a1xm
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 1 [AF]
-http://5.101.7.181:2086/play/a1xk
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 1 [NL]
-http://5.101.7.181:2086/play/a1xl
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 2 HD [NL]
-http://5.101.7.181:2086/play/a1xp
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 2 [AF]
-http://5.101.7.181:2086/play/a1xn
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 2 [NL]
-http://5.101.7.181:2086/play/a1xo
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 3 HD [NL]
-http://5.101.7.181:2086/play/a1xr
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 3 [NL]
-http://5.101.7.181:2086/play/a1xq
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN 4 HD [NL]
-http://5.101.7.181:2086/play/a1xs
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN Deportes [US]
-http://5.101.7.181:2086/play/a1xv
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN Extra [BR]
-http://5.101.7.181:2086/play/a1xw
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN HD [US]
-http://5.101.7.181:2086/play/a1xx
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN News HD [US]
-http://5.101.7.181:2086/play/a1xy
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN SEC Network HD [US]
-http://5.101.7.181:2086/play/a1xz
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN U HD [US]
-http://5.101.7.181:2086/play/a1y1
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN U [US]
-http://5.101.7.181:2086/play/a1y0
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN [BR]
-http://5.101.7.181:2086/play/a1xt
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN [US]
-http://5.101.7.181:2086/play/a1xu
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN2 HD [US]
-http://5.101.7.181:2086/play/a1y3
-#EXTINF:-1 group-title="SPORTS",[Спорт] ESPN2 [US]
-http://5.101.7.181:2086/play/a1y2
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 1 HD [PL]
-http://5.101.7.181:2086/play/a1x2
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 1 HD [PT]
-http://5.101.7.181:2086/play/a1x3
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 1 [PT]
-http://5.101.7.181:2086/play/a1x1
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 2 HD [PL]
-http://5.101.7.181:2086/play/a1x5
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 2 HD [PT]
-http://5.101.7.181:2086/play/a1x6
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 2 [PT]
-http://5.101.7.181:2086/play/a1x4
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 3 HD [PL]
-http://5.101.7.181:2086/play/a1x8
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 3 HD [PT]
-http://5.101.7.181:2086/play/a1x9
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 3 [PT]
-http://5.101.7.181:2086/play/a1x7
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 4 HD [PL]
-http://5.101.7.181:2086/play/a1xb
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 4 HD [PT]
-http://5.101.7.181:2086/play/a1xc
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 4 [PT]
-http://5.101.7.181:2086/play/a1xa
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 5 HD [PT]
-http://5.101.7.181:2086/play/a1xe
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 5 [PT]
-http://5.101.7.181:2086/play/a1xd
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 6 HD [PT]
-http://5.101.7.181:2086/play/a1xg
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports 6 [PT]
-http://5.101.7.181:2086/play/a1xf
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eleven Sports UHD 4K
-http://5.101.7.181:2086/play/a1xh
-#EXTINF:-1 group-title="SPORTS",[Спорт] Equidia HD [FR]
-http://5.101.7.181:2086/play/a1xj
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1
-http://5.101.7.181:2086/play/a1y9
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 HD [NL]
-http://5.101.7.181:2086/play/a1yh
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 HD [PL]
-http://5.101.7.181:2086/play/a1yi
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [BG]
-http://5.101.7.181:2086/play/a1y4
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [CZ]
-http://5.101.7.181:2086/play/a1y5
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [DK]
-http://5.101.7.181:2086/play/a1y6
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [ES]
-http://5.101.7.181:2086/play/a1y7
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [FR]
-http://5.101.7.181:2086/play/a1y8
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [PT]
-http://5.101.7.181:2086/play/a1ya
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [RO]
-http://5.101.7.181:2086/play/a1yb
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 1 [TR]
-http://5.101.7.181:2086/play/a1yc
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 HD (CEE)
-http://5.101.7.181:2086/play/a1yp
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 HD [DE]
-http://5.101.7.181:2086/play/a1yq
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 HD [NL]
-http://5.101.7.181:2086/play/a1yt
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 HD [PL]
-http://5.101.7.181:2086/play/a1yu
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 Xtra HD [DE]
-http://5.101.7.181:2086/play/a1yv
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 [BG]
-http://5.101.7.181:2086/play/a1yj
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 [ES]
-http://5.101.7.181:2086/play/a1yk
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 [FR]
-http://5.101.7.181:2086/play/a1yl
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 [RO]
-http://5.101.7.181:2086/play/a1yn
-#EXTINF:-1 group-title="SPORTS",[Спорт] Eurosport 2 [TR]
-http://5.101.7.181:2086/play/a1yo
-#EXTINF:-1 group-title="SPORTS",[Спорт] Extreme Sports HD [PL]
-http://5.101.7.181:2086/play/a1z3
-#EXTINF:-1 group-title="SPORTS",[Спорт] Extreme Sports [HU]
-http://5.101.7.181:2086/play/a1yz
-#EXTINF:-1 group-title="SPORTS",[Спорт] Extreme Sports [RO]
-http://5.101.7.181:2086/play/a1z0
-#EXTINF:-1 group-title="SPORTS",[Спорт] F+ [BG]
-http://5.101.7.181:2086/play/a1z4
-#EXTINF:-1 group-title="SPORTS",[Спорт] FUEL TV HD [US]
-http://5.101.7.181:2086/play/a1zg
-#EXTINF:-1 group-title="SPORTS",[Спорт] FightBox HD
-http://5.101.7.181:2086/play/a1z7
-#EXTINF:-1 group-title="SPORTS",[Спорт] FightBox HD [UK]
-http://5.101.7.181:2086/play/a1z8
-#EXTINF:-1 group-title="SPORTS",[Спорт] FightBox [PL]
-http://5.101.7.181:2086/play/a1z6
-#EXTINF:-1 group-title="SPORTS",[Спорт] FightKlub [PL]
-http://5.101.7.181:2086/play/a1z9
-#EXTINF:-1 group-title="SPORTS",[Спорт] Flow Sport [UK]
-http://5.101.7.181:2086/play/a1za
-#EXTINF:-1 group-title="SPORTS",[Спорт] Fox Sports 1 HD [US]
-http://5.101.7.181:2086/play/a1zc
-#EXTINF:-1 group-title="SPORTS",[Спорт] Fox Sports 1 [US]
-http://5.101.7.181:2086/play/a1zb
-#EXTINF:-1 group-title="SPORTS",[Спорт] Fox Sports 2 HD [US]
-http://5.101.7.181:2086/play/a1ze
-#EXTINF:-1 group-title="SPORTS",[Спорт] Fox Sports 2 [US]
-http://5.101.7.181:2086/play/a1zd
-#EXTINF:-1 group-title="SPORTS",[Спорт] FreeSports [UK]
-http://5.101.7.181:2086/play/a1zf
-#EXTINF:-1 group-title="SPORTS",[Спорт] GOL [ES]
-http://5.101.7.181:2086/play/a1zh
-#EXTINF:-1 group-title="SPORTS",[Спорт] Golf HD [FR]
-http://5.101.7.181:2086/play/a1zi
-#EXTINF:-1 group-title="SPORTS",[Спорт] Golf+ HD [FR]
-http://5.101.7.181:2086/play/a1zk
-#EXTINF:-1 group-title="SPORTS",[Спорт] Golf+ [FR]
-http://5.101.7.181:2086/play/a1zj
-#EXTINF:-1 group-title="SPORTS",[Спорт] Idman [AZ]
-http://5.101.7.181:2086/play/a1zl
-#EXTINF:-1 group-title="SPORTS",[Спорт] InfoSport+ HD [FR]
-http://5.101.7.181:2086/play/a1zn
-#EXTINF:-1 group-title="SPORTS",[Спорт] InfoSport+ [FR]
-http://5.101.7.181:2086/play/a1zm
-#EXTINF:-1 group-title="SPORTS",[Спорт] LFC TV [UK]
-http://5.101.7.181:2086/play/a1zr
-#EXTINF:-1 group-title="SPORTS",[Спорт] La Liga Bar HD [ES]
-http://5.101.7.181:2086/play/a1zq
-#EXTINF:-1 group-title="SPORTS",[Спорт] LookSport 1 HD [RO]
-http://5.101.7.181:2086/play/a1zt
-#EXTINF:-1 group-title="SPORTS",[Спорт] LookSport 1 [RO]
-http://5.101.7.181:2086/play/a1zs
-#EXTINF:-1 group-title="SPORTS",[Спорт] LookSport 2 HD [RO]
-http://5.101.7.181:2086/play/a1zu
-#EXTINF:-1 group-title="SPORTS",[Спорт] LookSport+ HD [RO]
-http://5.101.7.181:2086/play/a1zw
-#EXTINF:-1 group-title="SPORTS",[Спорт] LookSport+ [RO]
-http://5.101.7.181:2086/play/a1zv
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Deportes HD [ES]
-http://5.101.7.181:2086/play/a200
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Deportes [ES]
-http://5.101.7.181:2086/play/a1zz
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Deportes1 [ES]
-http://5.101.7.181:2086/play/a201
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Golf HD [ES]
-http://5.101.7.181:2086/play/a203
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Golf [ES]
-http://5.101.7.181:2086/play/a202
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.LaLiga HD [ES]
-http://5.101.7.181:2086/play/a205
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.LaLiga [ES]
-http://5.101.7.181:2086/play/a204
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Liga de Campeones HD [ES]
-http://5.101.7.181:2086/play/a207
-#EXTINF:-1 group-title="SPORTS",[Спорт] M.Liga de Campeones [ES]
-http://5.101.7.181:2086/play/a206
-#EXTINF:-1 group-title="SPORTS",[Спорт] M4 Sport HD [HU]
-http://5.101.7.181:2086/play/a208
-#EXTINF:-1 group-title="SPORTS",[Спорт] MLB Network [US]
-http://5.101.7.181:2086/play/a20h
-#EXTINF:-1 group-title="SPORTS",[Спорт] MNC Sport 1
-http://5.101.7.181:2086/play/a20i
-#EXTINF:-1 group-title="SPORTS",[Спорт] MOTORSPORT.TV [UK]
-http://5.101.7.181:2086/play/a20k
-#EXTINF:-1 group-title="SPORTS",[Спорт] MSG [US]
-http://5.101.7.181:2086/play/a20n
-#EXTINF:-1 group-title="SPORTS",[Спорт] MU TV [UK]
-http://5.101.7.181:2086/play/a20o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 1 HD [BG]
-http://5.101.7.181:2086/play/a20a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 1 [BG]
-http://5.101.7.181:2086/play/a209
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 2 HD [BG]
-http://5.101.7.181:2086/play/a20c
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 2 [BG]
-http://5.101.7.181:2086/play/a20b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 3 HD [BG]
-http://5.101.7.181:2086/play/a20e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 3 [BG]
-http://5.101.7.181:2086/play/a20d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 4 HD [BG]
-http://5.101.7.181:2086/play/a20g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Max Sport 4 [BG]
-http://5.101.7.181:2086/play/a20f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Mostvideo.TV HD
-http://5.101.7.181:2086/play/a20j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Motorvision [DE]
-http://5.101.7.181:2086/play/a20l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Motowizja HD [PL]
-http://5.101.7.181:2086/play/a20m
-#EXTINF:-1 group-title="SPORTS",[Спорт] NBA TV HD [US]
-http://5.101.7.181:2086/play/a20q
-#EXTINF:-1 group-title="SPORTS",[Спорт] NBA TV [US]
-http://5.101.7.181:2086/play/a20p
-#EXTINF:-1 group-title="SPORTS",[Спорт] NBC Golf HD [US]
-http://5.101.7.181:2086/play/a20r
-#EXTINF:-1 group-title="SPORTS",[Спорт] NBC Sports Network [US]
-http://5.101.7.181:2086/play/a20s
-#EXTINF:-1 group-title="SPORTS",[Спорт] NESN HD [US]
-http://5.101.7.181:2086/play/a20t
-#EXTINF:-1 group-title="SPORTS",[Спорт] NFL Network HD [US]
-http://5.101.7.181:2086/play/a20v
-#EXTINF:-1 group-title="SPORTS",[Спорт] NFL Network [US]
-http://5.101.7.181:2086/play/a20u
-#EXTINF:-1 group-title="SPORTS",[Спорт] NFL RedZone [US]
-http://5.101.7.181:2086/play/a20w
-#EXTINF:-1 group-title="SPORTS",[Спорт] NHL Network HD [US]
-http://5.101.7.181:2086/play/a20y
-#EXTINF:-1 group-title="SPORTS",[Спорт] NHL Network [US]
-http://5.101.7.181:2086/play/a20x
-#EXTINF:-1 group-title="SPORTS",[Спорт] NOVA Sport 1 HD [CZ]
-http://5.101.7.181:2086/play/a20z
-#EXTINF:-1 group-title="SPORTS",[Спорт] NOVA Sport 2 HD [CZ]
-http://5.101.7.181:2086/play/a210
-#EXTINF:-1 group-title="SPORTS",[Спорт] NOVA Sport HD [BG]
-http://5.101.7.181:2086/play/a212
-#EXTINF:-1 group-title="SPORTS",[Спорт] NOVA Sport [BG]
-http://5.101.7.181:2086/play/a211
-#EXTINF:-1 group-title="SPORTS",[Спорт] ONE HD [IL]
-http://5.101.7.181:2086/play/a214
-#EXTINF:-1 group-title="SPORTS",[Спорт] ONE1 [IL]
-http://5.101.7.181:2086/play/a215
-#EXTINF:-1 group-title="SPORTS",[Спорт] ONE2 HD [IL]
-http://5.101.7.181:2086/play/a216
-#EXTINF:-1 group-title="SPORTS",[Спорт] PRO X Sport HD [RO]
-http://5.101.7.181:2086/play/a21m
-#EXTINF:-1 group-title="SPORTS",[Спорт] PRO X Sport [RO]
-http://5.101.7.181:2086/play/a21l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Golf HD [PL]
-http://5.101.7.181:2086/play/a217
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Extra HD [PL]
-http://5.101.7.181:2086/play/a218
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Fight HD [PL]
-http://5.101.7.181:2086/play/a219
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport HD [PL]
-http://5.101.7.181:2086/play/a21a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport News HD [PL]
-http://5.101.7.181:2086/play/a21b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 1 HD [PL]
-http://5.101.7.181:2086/play/a21c
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 2 HD [PL]
-http://5.101.7.181:2086/play/a21d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 3 HD [PL]
-http://5.101.7.181:2086/play/a21e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 4 HD [PL]
-http://5.101.7.181:2086/play/a21f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 5 HD [PL]
-http://5.101.7.181:2086/play/a21g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Polsat Sport Premium 6 HD [PL]
-http://5.101.7.181:2086/play/a21h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Premier Sports 1 HD [UK]
-http://5.101.7.181:2086/play/a21j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Premier Sports 1 [UK]
-http://5.101.7.181:2086/play/a21i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Premier Sports 2 [UK]
-http://5.101.7.181:2086/play/a21k
-#EXTINF:-1 group-title="SPORTS",[Спорт] REAL MADRID TV HD [ES]
-http://5.101.7.181:2086/play/a21u
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 1 HD [FR]
-http://5.101.7.181:2086/play/a21y
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 1 [FR]
-http://5.101.7.181:2086/play/a21x
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 2 HD [FR]
-http://5.101.7.181:2086/play/a220
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 2 [FR]
-http://5.101.7.181:2086/play/a21z
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 3 [FR]
-http://5.101.7.181:2086/play/a221
-#EXTINF:-1 group-title="SPORTS",[Спорт] RMC Sport 4 [FR]
-http://5.101.7.181:2086/play/a222
-#EXTINF:-1 group-title="SPORTS",[Спорт] RTL UHD 4K [DE]
-http://5.101.7.181:2086/play/a223
-#EXTINF:-1 group-title="SPORTS",[Спорт] RTSH Sport [AL]
-http://5.101.7.181:2086/play/a224
-#EXTINF:-1 group-title="SPORTS",[Спорт] RUSH SPORT [UK]
-http://5.101.7.181:2086/play/a225
-#EXTINF:-1 group-title="SPORTS",[Спорт] RUSH+ [UK]
-http://5.101.7.181:2086/play/a226
-#EXTINF:-1 group-title="SPORTS",[Спорт] Rai Sport+ HD [IT]
-http://5.101.7.181:2086/play/a21t
-#EXTINF:-1 group-title="SPORTS",[Спорт] Rai Sport+ [IT]
-http://5.101.7.181:2086/play/a21s
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ring HD [BG]
-http://5.101.7.181:2086/play/a21w
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ring [BG]
-http://5.101.7.181:2086/play/a21v
-#EXTINF:-1 group-title="SPORTS",[Спорт] SARAN SPORT 1 HD [TR]
-http://5.101.7.181:2086/play/a227
-#EXTINF:-1 group-title="SPORTS",[Спорт] SARAN SPORT 2 HD [TR]
-http://5.101.7.181:2086/play/a228
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPOR SMART HD [TR]
-http://5.101.7.181:2086/play/a243
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPOR SMART [TR]
-http://5.101.7.181:2086/play/a242
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPORT 2 [CZ]
-http://5.101.7.181:2086/play/a246
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPORTSMAX [UK]
-http://5.101.7.181:2086/play/a25e
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPORTSNET 1 HD [CA]
-http://5.101.7.181:2086/play/a25f
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPORTSNET 360 [CA]
-http://5.101.7.181:2086/play/a25g
-#EXTINF:-1 group-title="SPORTS",[Спорт] SPORTSNET WORLD HD [CA]
-http://5.101.7.181:2086/play/a25i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 1 HD New Zealand
-http://5.101.7.181:2086/play/a22n
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 1 HD [DE]
-http://5.101.7.181:2086/play/a22m
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 1 [DE]
-http://5.101.7.181:2086/play/a22l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 2 HD New Zealand
-http://5.101.7.181:2086/play/a22q
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 2 HD [DE]
-http://5.101.7.181:2086/play/a22p
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 2 [DE]
-http://5.101.7.181:2086/play/a22o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 3 HD New Zealand
-http://5.101.7.181:2086/play/a22s
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 3 [DE] (Game Events)
-http://5.101.7.181:2086/play/a22r
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 4 HD New Zealand
-http://5.101.7.181:2086/play/a22t
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 5 HD New Zealand
-http://5.101.7.181:2086/play/a22u
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 6 HD New Zealand
-http://5.101.7.181:2086/play/a22v
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 7 HD New Zealand
-http://5.101.7.181:2086/play/a22w
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 8 HD New Zealand
-http://5.101.7.181:2086/play/a22x
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport 9 HD New Zealand
-http://5.101.7.181:2086/play/a22y
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Austria 1 HD [DE]
-http://5.101.7.181:2086/play/a230
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Austria 1 [DE]
-http://5.101.7.181:2086/play/a22z
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Bundesliga 1 HD [DE]
-http://5.101.7.181:2086/play/a231
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Bundesliga 2 [DE] (Game Events)
-http://5.101.7.181:2086/play/a232
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Bundesliga 3 [DE] (Game Events)
-http://5.101.7.181:2086/play/a233
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Bundesliga 4 [DE] (Game Events)
-http://5.101.7.181:2086/play/a234
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Bundesliga 5 [DE] (Game Events)
-http://5.101.7.181:2086/play/a235
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport News HD [DE]
-http://5.101.7.181:2086/play/a237
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport News [DE]
-http://5.101.7.181:2086/play/a236
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Select HD New Zealand
-http://5.101.7.181:2086/play/a238
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sport Seria A [IT]
-http://5.101.7.181:2086/play/a239
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Action HD [UK]
-http://5.101.7.181:2086/play/a23b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Action [UK]
-http://5.101.7.181:2086/play/a23a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Arena HD [UK]
-http://5.101.7.181:2086/play/a23d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Arena [UK]
-http://5.101.7.181:2086/play/a23c
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Cricket HD [UK]
-http://5.101.7.181:2086/play/a23e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports F1 HD [DE]
-http://5.101.7.181:2086/play/a23g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports F1 HD [UK]
-http://5.101.7.181:2086/play/a23h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports F1 [UK]
-http://5.101.7.181:2086/play/a23f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports FOOTBALL HD [UK]
-http://5.101.7.181:2086/play/a23j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports FOOTBALL [UK]
-http://5.101.7.181:2086/play/a23i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Golf [UK]
-http://5.101.7.181:2086/play/a23k
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports LaLiga [MX]
-http://5.101.7.181:2086/play/a23l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports MAIN EVENT HD [UK]
-http://5.101.7.181:2086/play/a23n
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports MAIN EVENT [UK]
-http://5.101.7.181:2086/play/a23m
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Mix HD [UK]
-http://5.101.7.181:2086/play/a23p
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Mix [UK]
-http://5.101.7.181:2086/play/a23o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports NEWS HD [UK]
-http://5.101.7.181:2086/play/a23q
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports NFL HD [UK]
-http://5.101.7.181:2086/play/a23r
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Premier League HD [UK]
-http://5.101.7.181:2086/play/a23u
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Premier League [UK]
-http://5.101.7.181:2086/play/a23t
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Premier [MX]
-http://5.101.7.181:2086/play/a23s
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Racing HD [UK]
-http://5.101.7.181:2086/play/a23w
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sky Sports Racing [UK]
-http://5.101.7.181:2086/play/a23v
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sony Ten 1 [IN]
-http://5.101.7.181:2086/play/a23x
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sony Ten 2 [IN]
-http://5.101.7.181:2086/play/a23y
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sony Ten 3 [IN]
-http://5.101.7.181:2086/play/a23z
-#EXTINF:-1 group-title="SPORTS",[Спорт] Spiler 1 [HU]
-http://5.101.7.181:2086/play/a240
-#EXTINF:-1 group-title="SPORTS",[Спорт] Spiler 2 [HU]
-http://5.101.7.181:2086/play/a241
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport 1 HD
-http://5.101.7.181:2086/play/a245
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport 1 [CZ]
-http://5.101.7.181:2086/play/a244
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 1 HD [HR]
-http://5.101.7.181:2086/play/a249
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 1 [HR]
-http://5.101.7.181:2086/play/a248
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 2 HD [HR]
-http://5.101.7.181:2086/play/a24b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 2 [HR]
-http://5.101.7.181:2086/play/a24a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 3 HD [HR]
-http://5.101.7.181:2086/play/a24d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 3 [HR]
-http://5.101.7.181:2086/play/a24c
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub 4 HD [HR]
-http://5.101.7.181:2086/play/a24e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub Golf [RS]
-http://5.101.7.181:2086/play/a24f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport Klub HD [PL]
-http://5.101.7.181:2086/play/a24g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 1 HD [PT]
-http://5.101.7.181:2086/play/a24i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 1 [PT]
-http://5.101.7.181:2086/play/a24h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 2 HD [PT]
-http://5.101.7.181:2086/play/a24k
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 2 [PT]
-http://5.101.7.181:2086/play/a24j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 3 HD [PT]
-http://5.101.7.181:2086/play/a24m
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 3 [PT]
-http://5.101.7.181:2086/play/a24l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 4 HD [PT]
-http://5.101.7.181:2086/play/a24o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 4 [PT]
-http://5.101.7.181:2086/play/a24n
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 5 HD [PT]
-http://5.101.7.181:2086/play/a24q
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV 5 [PT]
-http://5.101.7.181:2086/play/a24p
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV NBA [PT]
-http://5.101.7.181:2086/play/a24r
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV+ HD [PT]
-http://5.101.7.181:2086/play/a24t
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport TV+ [PT]
-http://5.101.7.181:2086/play/a24s
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport [UZ]
-http://5.101.7.181:2086/play/a247
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 HD [DE]
-http://5.101.7.181:2086/play/a24x
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 HD [IL]
-http://5.101.7.181:2086/play/a24y
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 HD [LT]
-http://5.101.7.181:2086/play/a24z
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 [DE]
-http://5.101.7.181:2086/play/a24u
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 [HU]
-http://5.101.7.181:2086/play/a24v
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport1 [LT]
-http://5.101.7.181:2086/play/a24w
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport2 HD [IL]
-http://5.101.7.181:2086/play/a251
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport2 [HU]
-http://5.101.7.181:2086/play/a250
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport3 HD [IL]
-http://5.101.7.181:2086/play/a252
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport4 HD [IL]
-http://5.101.7.181:2086/play/a253
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 4K UHD [IL]
-http://5.101.7.181:2086/play/a254
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 Gold [IL]
-http://5.101.7.181:2086/play/a256
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 HD [IL]
-http://5.101.7.181:2086/play/a257
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 Live HD [IL]
-http://5.101.7.181:2086/play/a258
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 Plus [IL]
-http://5.101.7.181:2086/play/a259
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 Stars HD [IL]
-http://5.101.7.181:2086/play/a25a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sport5 [CZ]
-http://5.101.7.181:2086/play/a255
-#EXTINF:-1 group-title="SPORTS",[Спорт] SportDigital HD [DE]
-http://5.101.7.181:2086/play/a25b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sporting [PT]
-http://5.101.7.181:2086/play/a25c
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sports TV [TR]
-http://5.101.7.181:2086/play/a25d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Sportsnet World [US]
-http://5.101.7.181:2086/play/a25h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Star Sports 1 [IN]
-http://5.101.7.181:2086/play/a25j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Star Sports 2 [IN]
-http://5.101.7.181:2086/play/a25k
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport 1 [AL]
-http://5.101.7.181:2086/play/a25l
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport 2 [AL]
-http://5.101.7.181:2086/play/a25m
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport 3 [AL]
-http://5.101.7.181:2086/play/a25n
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport 4 [AL]
-http://5.101.7.181:2086/play/a25o
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Action
-http://5.101.7.181:2086/play/a25p
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Blitz
-http://5.101.7.181:2086/play/a25q
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Football HD South Africa
-http://5.101.7.181:2086/play/a25r
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Golf
-http://5.101.7.181:2086/play/a25s
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport GrandStand
-http://5.101.7.181:2086/play/a25t
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport LaLiga
-http://5.101.7.181:2086/play/a25u
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Maximo 1
-http://5.101.7.181:2086/play/a25v
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Motorsport
-http://5.101.7.181:2086/play/a25w
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport PSL
-http://5.101.7.181:2086/play/a25z
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Play
-http://5.101.7.181:2086/play/a25x
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Premier League HD South Africa
-http://5.101.7.181:2086/play/a25y
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Rugby
-http://5.101.7.181:2086/play/a260
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Tennis HD South Africa
-http://5.101.7.181:2086/play/a261
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Variety 1
-http://5.101.7.181:2086/play/a262
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Variety 2
-http://5.101.7.181:2086/play/a263
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Variety 3
-http://5.101.7.181:2086/play/a264
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperSport Variety 4
-http://5.101.7.181:2086/play/a265
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperTennis HD [IT]
-http://5.101.7.181:2086/play/a267
-#EXTINF:-1 group-title="SPORTS",[Спорт] SuperTennis [IT]
-http://5.101.7.181:2086/play/a266
-#EXTINF:-1 group-title="SPORTS",[Спорт] TELEKOM SPORT 1 HD [RO]
-http://5.101.7.181:2086/play/a269
-#EXTINF:-1 group-title="SPORTS",[Спорт] TELEKOM SPORT 2 HD [RO]
-http://5.101.7.181:2086/play/a26a
-#EXTINF:-1 group-title="SPORTS",[Спорт] TELEKOM SPORT 3 HD [RO]
-http://5.101.7.181:2086/play/a26b
-#EXTINF:-1 group-title="SPORTS",[Спорт] TELEKOM SPORT 4 HD [RO]
-http://5.101.7.181:2086/play/a26c
-#EXTINF:-1 group-title="SPORTS",[Спорт] TNT Sports [ARG]
-http://5.101.7.181:2086/play/a26k
-#EXTINF:-1 group-title="SPORTS",[Спорт] TRACE SPORT STARS HD
-http://5.101.7.181:2086/play/a26n
-#EXTINF:-1 group-title="SPORTS",[Спорт] TRT SPOR 2 [TR]
-http://5.101.7.181:2086/play/a26q
-#EXTINF:-1 group-title="SPORTS",[Спорт] TRT SPOR [TR]
-http://5.101.7.181:2086/play/a26r
-#EXTINF:-1 group-title="SPORTS",[Спорт] TRT3 SPOR [TR]
-http://5.101.7.181:2086/play/a26s
-#EXTINF:-1 group-title="SPORTS",[Спорт] TSN 1 HD [US]
-http://5.101.7.181:2086/play/a26t
-#EXTINF:-1 group-title="SPORTS",[Спорт] TSN 2 HD [US]
-http://5.101.7.181:2086/play/a26u
-#EXTINF:-1 group-title="SPORTS",[Спорт] TSN 3 HD [US]
-http://5.101.7.181:2086/play/a26v
-#EXTINF:-1 group-title="SPORTS",[Спорт] TSN 4 HD [US]
-http://5.101.7.181:2086/play/a26w
-#EXTINF:-1 group-title="SPORTS",[Спорт] TSN 5 HD [US]
-http://5.101.7.181:2086/play/a26x
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV2 Sport [DK]
-http://5.101.7.181:2086/play/a26y
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV2 Sport [NO]
-http://5.101.7.181:2086/play/a26z
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport 2 HD [LT]
-http://5.101.7.181:2086/play/a271
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport 2 HD [LT] [Hight]
-http://5.101.7.181:2086/play/a270
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport HD [LT]
-http://5.101.7.181:2086/play/a275
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport HD [LT] [Hight]
-http://5.101.7.181:2086/play/a274
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport Open HD [LT]
-http://5.101.7.181:2086/play/a276
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport [DK]
-http://5.101.7.181:2086/play/a272
-#EXTINF:-1 group-title="SPORTS",[Спорт] TV3 Sport [LT]
-http://5.101.7.181:2086/play/a273
-#EXTINF:-1 group-title="SPORTS",[Спорт] TVP Sport HD [PL]
-http://5.101.7.181:2086/play/a278
-#EXTINF:-1 group-title="SPORTS",[Спорт] TVP Sport [PL]
-http://5.101.7.181:2086/play/a277
-#EXTINF:-1 group-title="SPORTS",[Спорт] TeleDeporte [ES]
-http://5.101.7.181:2086/play/a268
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tennis Channel HD [US]
-http://5.101.7.181:2086/play/a26e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tennis Channel [US]
-http://5.101.7.181:2086/play/a26d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tivibu Spor 1 HD [TR]
-http://5.101.7.181:2086/play/a26g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tivibu Spor 1 [TR]
-http://5.101.7.181:2086/play/a26f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tivibu Spor 2 HD [TR]
-http://5.101.7.181:2086/play/a26i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tivibu Spor 2 [TR]
-http://5.101.7.181:2086/play/a26h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tivibu Spor 3 HD [TR]
-http://5.101.7.181:2086/play/a26j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Toros HD [ES]
-http://5.101.7.181:2086/play/a26m
-#EXTINF:-1 group-title="SPORTS",[Спорт] Toros [ES]
-http://5.101.7.181:2086/play/a26l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tring Sport 1 HD [AL]
-http://5.101.7.181:2086/play/a26o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Tring Sport News [AL]
-http://5.101.7.181:2086/play/a26p
-#EXTINF:-1 group-title="SPORTS",[Спорт] UFC [US]
-http://5.101.7.181:2086/play/a279
-#EXTINF:-1 group-title="SPORTS",[Спорт] UFC ТВ HD
-http://5.101.7.181:2086/play/a27a
-#EXTINF:-1 group-title="SPORTS",[Спорт] Usee Sports 1
-http://5.101.7.181:2086/play/a27b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Usee Sports 2
-http://5.101.7.181:2086/play/a27c
-#EXTINF:-1 group-title="SPORTS",[Спорт] VOO SPORT WORLD 1 [BE]
-http://5.101.7.181:2086/play/a27u
-#EXTINF:-1 group-title="SPORTS",[Спорт] VOO SPORT WORLD 2 [BE]
-http://5.101.7.181:2086/play/a27v
-#EXTINF:-1 group-title="SPORTS",[Спорт] Vamos HD [ES]
-http://5.101.7.181:2086/play/a27e
-#EXTINF:-1 group-title="SPORTS",[Спорт] Vamos [ES]
-http://5.101.7.181:2086/play/a27d
-#EXTINF:-1 group-title="SPORTS",[Спорт] Varzish Sport HD [TJ]
-http://5.101.7.181:2086/play/a27g
-#EXTINF:-1 group-title="SPORTS",[Спорт] Varzish Sport [TJ]
-http://5.101.7.181:2086/play/a27f
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport
-http://5.101.7.181:2086/play/a27l
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport + HD Norge
-http://5.101.7.181:2086/play/a27h
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport 1 [SE]
-http://5.101.7.181:2086/play/a27i
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport 2 HD Norge
-http://5.101.7.181:2086/play/a27j
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport 3 HD Norge
-http://5.101.7.181:2086/play/a27k
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Extra [SE]
-http://5.101.7.181:2086/play/a27m
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Footboll HD [SE]
-http://5.101.7.181:2086/play/a27n
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Golf
-http://5.101.7.181:2086/play/a27o
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Golf HD [SE]
-http://5.101.7.181:2086/play/a27p
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport HD
-http://5.101.7.181:2086/play/a27q
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Hockey HD [SE]
-http://5.101.7.181:2086/play/a27r
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Motor HD [SE]
-http://5.101.7.181:2086/play/a27s
-#EXTINF:-1 group-title="SPORTS",[Спорт] Viasat Sport Premium HD [SE]
-http://5.101.7.181:2086/play/a27t
-#EXTINF:-1 group-title="SPORTS",[Спорт] WWE Channel HD [US]
-http://5.101.7.181:2086/play/a27x
-#EXTINF:-1 group-title="SPORTS",[Спорт] WWE Channel [US]
-http://5.101.7.181:2086/play/a27w
-#EXTINF:-1 group-title="SPORTS",[Спорт] WWE Russian [SN]
-http://5.101.7.181:2086/play/a27y
-#EXTINF:-1 group-title="SPORTS",[Спорт] YAS Sports [AR]
-http://5.101.7.181:2086/play/a282
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Docu [NL]
-http://5.101.7.181:2086/play/a283
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Golf HD [NL]
-http://5.101.7.181:2086/play/a285
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Golf [NL]
-http://5.101.7.181:2086/play/a284
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Racing HD [NL]
-http://5.101.7.181:2086/play/a287
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Racing [NL]
-http://5.101.7.181:2086/play/a286
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Select HD [NL]
-http://5.101.7.181:2086/play/a288
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Tennis HD [NL]
-http://5.101.7.181:2086/play/a289
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Voetbal HD [NL]
-http://5.101.7.181:2086/play/a28b
-#EXTINF:-1 group-title="SPORTS",[Спорт] Ziggo Sport Voetbal [NL]
-http://5.101.7.181:2086/play/a28a
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 1 HD [AR]
-http://5.101.7.181:2086/play/a1ux
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 1 HD [FR]
-http://5.101.7.181:2086/play/a1uy
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 1 HD [TR]
-http://5.101.7.181:2086/play/a1uz
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 1 MAX HD [TR]
-http://5.101.7.181:2086/play/a1v0
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 2 HD [AR]
-http://5.101.7.181:2086/play/a1v1
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 2 HD [FR]
-http://5.101.7.181:2086/play/a1v2
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 2 HD [TR]
-http://5.101.7.181:2086/play/a1v3
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 2 MAX HD [TR]
-http://5.101.7.181:2086/play/a1v4
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 3 HD [AR]
-http://5.101.7.181:2086/play/a1v5
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 3 HD [FR]
-http://5.101.7.181:2086/play/a1v6
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 3 HD [TR]
-http://5.101.7.181:2086/play/a1v7
-#EXTINF:-1 group-title="-",[Спорт] beIN Sports 4 HD [AR]
-http://5.101.7.181:2086/play/a1v8
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 4 HD [TR]
-http://5.101.7.181:2086/play/a1v9
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 5 HD [AR]
-http://5.101.7.181:2086/play/a1va
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 6 HD [AR]
-http://5.101.7.181:2086/play/a1vb
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports 7 HD [AR]
-http://5.101.7.181:2086/play/a1vc
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports English 1 HD [UK]
-http://5.101.7.181:2086/play/a1vd
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports English 2 HD [UK]
-http://5.101.7.181:2086/play/a1ve
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports HD [ES]
-http://5.101.7.181:2086/play/a1vh
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports Haber HD [TR]
-http://5.101.7.181:2086/play/a1vg
-#EXTINF:-1 group-title="SPORTS",[Спорт] beIN Sports Haber [TR]
-http://5.101.7.181:2086/play/a1vf
-#EXTINF:-1 group-title="SPORTS",[Спорт] nSport+ HD [PL]
-http://5.101.7.181:2086/play/a213
-
 #EXTINF:-1 tvg-name="★★★★ Спорт ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="Спорт",★★★★ Спорт ★★★★
 https://
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png" tvg-id="441670585_2052",Eurosport 1
-http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://nord.by/images/tv/esp1.png",Eurosport 1
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png",Eurosport 1
 http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-id="441670585_2052",Eurosport 1 HD
 http://37.99.5.234/btv/SWM/Eurosport/Eurosport.m3u8
@@ -1368,80 +423,78 @@ http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2747.png",Eurosport Gold FHD
 http://185.228.135.48:8080/tv_eurosport_gold_hd/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png",Setanta Sports Ukraine HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.imgur.com/eOfjZjI.jpg",Fun Sport
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2370.png",Setanta Sports Ukraine HD
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
-https://95-213-224-173.livesports24.online/rusetantae..
+https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1
-https://77-247-178-24.livesports24.online/rusetantaeu..
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5509.png",Setanta Sports 1 HD
-https://95-213-224-186.livesports24.online/rusetantae..
+https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1 HD
-https://46-166-139-70.livesports24.online/rusetantaeu..
+https://46-166-139-70.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png",Setanta Sports 2 HD
 https://95-213-224-186.livesports24.online/setantaplu..
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://im0-tub-ru.yandex.net/i?id=ac86f0b90fc673e1a4ab2a8074..",Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/5510.png" group-title="Спорт",Setanta Sports 2 HD
 https://77-247-178-24.livesports24.online/setantaplus..
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2363.png",Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2363.png"group-title="Спорт",Setanta Sports 2 HD
 https://95-213-224-182.livesports24.online/setantaplu..
-#EXTINF:-1 group-title="Спорт",Viasat Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCGJln5.jpg" group-title="Спорт",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",VIP Viasat Sport HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCGJln5.jpg" group-title="Спорт",VIP Viasat Sport HD
 http://iptv.prosto.tv:7000/ch108/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2326.png" group-title="Спорт",M-1 Global TV
 http://37.99.5.234/btv/SWM/M1/M1.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2782.png",Футбол
-https://77-247-178-24.livesports24.online/footballrus..
+https://77-247-178-24.livesports24.online/footballrus.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1
-https://95-213-224-176.livesports24.online/uafootball..
+https://95-213-224-176.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2189.png",Футбол 1
-https://46-166-142-27.livesports24.online/uafootballu..
+https://46-166-142-27.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1 HD
-https://77-247-178-24.livesports24.online/uafootballu..
+https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1 HD
-https://185-107-80-245.livesports24.online/uafootball..
+https://185-107-80-245.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 1 HD
-https://185-198-56-58.livesports24.online/uafootballu..
+https://185-198-56-58.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5514.png",Футбол 2
-https://95-213-224-185.livesports24.online/fooootball..
-#EXTINF:0 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 UA
-https://95-213-172-222.livesports24.online/fooootball..
-#EXTINF:1 group-title="Спорт",Футбол 2
-https://95-213-224-180.livesports24.online/fooootball..
+https://95-213-224-185.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 UA
+https://95-213-172-222.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 2
+https://95-213-224-180.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2115.png",Футбол 2
-https://185-107-80-245.livesports24.online/fooootball..
+https://185-107-80-245.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5514.png",Футбол 2
-https://95-213-224-186.livesports24.online/fooootball..
+https://95-213-224-186.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD
-https://46-166-139-70.livesports24.online/fooootball2..
+https://46-166-139-70.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 2 HD
-https://95-213-224-176.livesports24.online/fooootball..
+https://95-213-224-176.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD [UA] [HQ]
-https://77-247-178-24.livesports24.online/fooootball2..
-#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD [UA] [HQ]
-https://46-166-139-70.livesports24.online/fooootball2..
-#EXTINF:-1 group-title="Спорт",Футбол 2 HD [UA] [HQ]
-https://185-107-80-245.livesports24.online/fooootball..
+https://77-247-178-24.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",ФУТБОЛ 2 HD
-https://185-198-56-58.livesports24.online/fooootball2..
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/ea51c14bc55baa5321f83a91d6db11.." group-title="Спорт",Футбол 3
-https://77-247-178-24.livesports24.online/football3ua..
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://ic.wampi.ru/2021/04/14/ea51c14bc55baa5321f83a91d6db11.." group-title="Спорт",Футбол 3
-https://95-213-224-185.livesports24.online/football3u..
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2933.png",Sport 1 Baltic
-http://iptv.prosto.tv:7000/ch114/video.m3u8
+https://185-198-56-58.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjfQK50.png" group-title="Спорт",Футбол 3
+https://77-247-178-24.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjfQK50.png" group-title="Спорт",Футбол 3
+https://95-213-224-185.livesports24.online/football3ua.m3u8
 #EXTINF:-1 group-title="Спорт",Спорт 1
 http://iptv.prosto.tv:7000/ch113/video.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Sport 1 HD
-http://iptv.prosto.tv:7000/ch107/video.m3u8
 #EXTINF:-1 group-title="Спорт",Sport 1 HD
 http://iptv.prosto.tv:7000/ch107/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/3318.png",SPORT 2
 http://iptv.prosto.tv:7000/ch115/video.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Спорт 2
-http://iptv.prosto.tv:7000/ch115/video.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт",Спорт 2 Baltic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tsJ8Taa.png" group-title="Спорт",Sport 1 Baltic
+http://iptv.prosto.tv:7000/ch114/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86cdqj6.png" group-title="Спорт",Sport 2 Baltic
 http://iptv.prosto.tv:7000/ch116/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0G0WDi3.png" group-title="Спорт",XSport
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0G0WDi3.png" group-title="Спорт",XSport HD
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4619.png" group-title="Спорт",Шахтар HD
+http://iptv.prosto.tv:7000/ch112/video.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ Distro TV ★★★★" tvg-logo="https://i.imgur.com/S90HAR3.png" group-title="Distro TV",★★★★ Distro TV ★★★★
 https://
