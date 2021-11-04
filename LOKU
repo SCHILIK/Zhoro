@@ -367,6 +367,18 @@ http://154.62.74.12:1935/live/smil:eurosport1nntv/.m3u8
 http://154.62.74.12:1935/live/smil:eurosport2hdnntv/.m3u8
 #EXTINF:-1 tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/g9bZGrq.png" group-title="SPORTS",Fox Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports.m3u8
+#EXTINF:-1,match HD
+http://109.239.128.126:8080/match_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,match_arena HD
+http://109.239.128.126:8080/match_arena_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,match_futbol_1 HD
+http://109.239.128.126:8080/match_futbol_1_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,match_futbol_2 HD
+http://109.239.128.126:8080/match_futbol_2_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,match_futbol_3 HD
+http://109.239.128.126:8080/match_futbol_3_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,match_premier HD
+http://109.239.128.126:8080/match_premier_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="M-1 Global TV (RU)" tvg-logo="https://i.imgur.com/r5SEZle.png" group-title="SPORTS",M-1 Global TV (RU)
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-name="MLB" group-title="SPORTS",MLB
