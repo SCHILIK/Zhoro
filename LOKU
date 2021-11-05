@@ -332,6 +332,583 @@ http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
 
+#EXTINF:-1 tvg-name="★★★★ SAMSUNGTV+FR ★★★★" tvg-logo="https://i.imgur.com/SwfoxrK.jpg" group-title="SAMSUNGTV+FR",★★★★ SAMSUNGTV+FR ★★★★
+https://
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml.gz"
+#EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210923T010513.png" group-title="SAMSUNGTV+FR",Comédies - Rakuten TV
+https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="SAMSUNGTV+FR",Euronews en direct
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8?ads.wurl_channel=542&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300065KW" tvg-chno="4005" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRBA3300065KW_20210908T010212.png" group-title="SAMSUNGTV+FR",Euronews
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300032DN" tvg-chno="4007" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/FRBA3300032DN_20201118T003323.png" group-title="SAMSUNGTV+FR",Bloomberg TV+
+https://a13fc3f7cd9845618e1ac8e07285bc4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300024L2" tvg-chno="4009" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/72/FRBA3300024L2_20210512T003417.png" group-title="SAMSUNGTV+FR",Reuters
+https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300053F3" tvg-chno="4051" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRBA3300053F3_20210908T010400.png" group-title="SAMSUNGTV+FR",Motorsport.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-motosporttv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300055J0" tvg-chno="4052" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/43/FRBA3300055J0_20210908T010447.png" group-title="SAMSUNGTV+FR",Surf World TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-surfworldtv-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA1500006WU" tvg-chno="4053" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/28/FRBA1500006WU_20200923T100343.png" group-title="SAMSUNGTV+FR",Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d297a8fd-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA150000368" tvg-chno="4054" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/76/FRBA150000368_20200923T100306.png" group-title="SAMSUNGTV+FR",HorizonSports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/21b04195-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1500004O2" tvg-chno="4055" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/FRBA1500004O2_20200923T100326.png" group-title="SAMSUNGTV+FR",MotorRacing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/93592510-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1500005IU" tvg-chno="4056" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/FRBA1500005IU_20200923T100328.png" group-title="SAMSUNGTV+FR",The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/396ecaf1-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBB3300001TQ" tvg-chno="4057" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/FRBB3300001TQ_20210908T010432.png" group-title="SAMSUNGTV+FR",Sport en France
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-sportenfrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA1000006LP" tvg-chno="4072" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/FRBA1000006LP_20201029T004312.png" group-title="SAMSUNGTV+FR",FUEL TV
+https://153f55b42b7d42008a91af833c1c52ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FuelTV/playlist.m3u8?ads.wurl_channel=588&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300001KU" tvg-chno="4076" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/82/FRBA3300001KU_20210826T001158.png" group-title="SAMSUNGTV+FR",AbsintheTV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/517a9090-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1000010TX" tvg-chno="4078" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBA1000010TX_20211013T011616.png" group-title="SAMSUNGTV+FR",World Poker Tour
+https://b875233566c640d498b0b77ef55a2232.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300058VO" tvg-chno="4102" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/FRBA3300058VO_20210811T022054.png" group-title="SAMSUNGTV+FR",Humanity Documentaires
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBB3500001P6" tvg-chno="4104" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/FRBB3500001P6_20210908T010244.png" group-title="SAMSUNGTV+FR",gTV
+https://d3kpdkz05vnvr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Ubisoft-french-France-prod/ubi_ug.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1000008LK" tvg-chno="4250" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRBA1000008LK_20211013T011436.png" group-title="SAMSUNGTV+FR",BBC Drama
+https://caec5a936f944a8d83ccb21f8266b684.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_BBCDrama/playlist.m3u8?ads.wurl_channel=946&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300031ZC" tvg-chno="4251" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/10/FRBA3300031ZC_20201208T050251.png" group-title="SAMSUNGTV+FR",Stormcast Novelas
+https://78088d9226df47fb95e3320920b08ad7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_StormcastNovelas/playlist.m3u8?ads.wurl_channel=613&ads.wurl_name=StormcastNovelas&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ38000089S" tvg-chno="4252" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/FRAJ38000089S_20210623T011140.png" group-title="SAMSUNGTV+FR",Pluto TV Polar+
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebbeabd18520007b37709/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA3300059J5" tvg-chno="4253" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/77/FRBA3300059J5_20210811T022059.png" group-title="SAMSUNGTV+FR",Krime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-krime-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRAJ4500026AB" tvg-chno="4254" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/FRAJ4500026AB_20210923T011017.png" group-title="SAMSUNGTV+FR",Rakuten Stories
+https://03ec869805be4865a4b036b8f22c8ef9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=450&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA10000029E" tvg-chno="4255" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/FRBA10000029E_20201208T050251.png" group-title="SAMSUNGTV+FR",People Are Awesome
+https://656cbf39ac7d4ee3a0bad01442e59415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ38000050Z" tvg-chno="4256" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/FRAJ38000050Z_20210209T093419.png" group-title="SAMSUNGTV+FR",MTV Catfish
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRAJ3800004CC" tvg-chno="4257" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/FRAJ3800004CC_20210209T093414.png" group-title="SAMSUNGTV+FR",MTV Classics
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA33000234L" tvg-chno="4258" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBA33000234L_20210714T001607.png" group-title="SAMSUNGTV+FR",FailArmy
+https://c23c1bf8c2f346eb83bdba935b5c12b8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA33000622P" tvg-chno="4259" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/FRBA33000622P_20210811T022045.png" group-title="SAMSUNGTV+FR",Télézap par TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-telezaptvplayer-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300022OA" tvg-chno="4260" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/82/FRBA3300022OA_20210714T000943.png" group-title="SAMSUNGTV+FR",Televisa TeleNovelas
+https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300061XH" tvg-chno="4268" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/FRBA3300061XH_20210811T022032.png" group-title="SAMSUNGTV+FR",Explore by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRAJ3800009AY" tvg-chno="4269" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRAJ3800009AY_20210310T011125.png" group-title="SAMSUNGTV+FR",Plus Belle la Vie
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fff211667854f00079a9b5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRAJ3800007V8" tvg-chno="4270" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/FRAJ3800007V8_20210811T021822.png" group-title="SAMSUNGTV+FR",Pluto TV Series
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="SAMSUNGTV+FR",ADN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-adn-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+#EXTINF:-1 tvg-id="FRAJ3800010QO" tvg-chno="4300" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/FRAJ3800010QO_20210609T005044.png" group-title="SAMSUNGTV+FR",Bob L'eponge+
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609a33d06972da0007748ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA15000078J" tvg-chno="4301" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRBA15000078J_20200923T100332.png" group-title="SAMSUNGTV+FR",RiC TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f214926-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA33000306L" tvg-chno="4302" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/FRBA33000306L_20201118T003330.png" group-title="SAMSUNGTV+FR",AMUSE ANIMATION
+https://9468fd09446c49bfb9127f6ffd0f3b29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_AmuseAnimation/playlist.m3u8?ads.wurl_channel=651&ads.wurl_name=AmuseAnimation&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ38000061J" tvg-chno="4303" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/FRAJ38000061J_20210209T093422.png" group-title="SAMSUNGTV+FR",iCarly
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRAJ38000035M" tvg-chno="4304" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRAJ38000035M_20210209T093410.png" group-title="SAMSUNGTV+FR",Pluto TV Kids Séries
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA3300029ZY" tvg-chno="4305" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/61/FRBA3300029ZY_20201208T050252.png" group-title="SAMSUNGTV+FR",SuperToons TV
+https://cbbcdf4b20e0474f92d7d03a48faa5f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_SuperToonsTV/playlist.m3u8?ads.wurl_channel=658&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300028VI" tvg-chno="4306" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/FRBA3300028VI_20210113T004313.png" group-title="SAMSUNGTV+FR",Caillou
+https://2586fb1e60a44262aa11697e876c1f1a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=666&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="SAMSUNGTV+FR",L'Atelier des chefs
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-ateliersdeschef-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-chno="4352" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20210811T022112.png" group-title="SAMSUNGTV+FR",LUXE.TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA1500002QQ" tvg-chno="4357" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/FRBA1500002QQ_20210609T004716.png" group-title="SAMSUNGTV+FR",Monarda Arts
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/49775148-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ4500020YA" tvg-chno="4358" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/10/FRAJ4500020YA_20210623T011145.png" group-title="SAMSUNGTV+FR",Fashion TV
+https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8?ads.wurl_channel=380&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300064WS" tvg-chno="4359" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/FRBA3300064WS_20210811T021924.png" group-title="SAMSUNGTV+FR",Museum TV Free
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-fr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300063FP" tvg-chno="4360" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/FRBA3300063FP_20210811T021947.png" group-title="SAMSUNGTV+FR",My Zen TV Free
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA39000014W" tvg-chno="4450" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBA39000014W_20211013T011806.png" group-title="SAMSUNGTV+FR",Vevo Pop
+https://eu.linear.zype.com/a30f2d9e-7eee-4fc7-896f-24a85829c9c2/fbfb8efa-c5fa-4fec-91f7-03a4224c11dc-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3900002RJ" tvg-chno="4451" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/99/FRBA3900002RJ_20211013T011747.png" group-title="SAMSUNGTV+FR",Vevo Hip-Hop & R&B
+https://eu.linear.zype.com/2897d30e-5ed8-42e5-9823-b22cd53f289f/d8db1183-fbab-41e7-a956-5ee16ffb16b6-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300056OD" tvg-chno="4452" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/FRBA3300056OD_20210714T001605.png" group-title="SAMSUNGTV+FR",OFIVE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofive-ofive-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1500001G6" tvg-chno="4454" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/46/FRBA1500001G6_20210609T004616.png" group-title="SAMSUNGTV+FR",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA2200003RR" tvg-chno="4455" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/59/FRBA2200003RR_20210209T093440.png" group-title="SAMSUNGTV+FR",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA2200002IV" tvg-chno="4456" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/FRBA2200002IV_20210209T093427.png" group-title="SAMSUNGTV+FR",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA2200001SP" tvg-chno="4457" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/FRBA2200001SP_20210209T093438.png" group-title="SAMSUNGTV+FR",Qwest TV Jazz and Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBB1900001FA" tvg-chno="4464" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20210714T000933.png" group-title="SAMSUNGTV+FR",Clubbing TV
+https://d2kxrnvwjgpe0t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-FR-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-chno="4502" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png" group-title="SAMSUNGTV+FR",Pluto TV Ciné
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="FRBA3300054PU" tvg-chno="4503" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/FRBA3300054PU_20210908T010406.png" group-title="SAMSUNGTV+FR",Movies Central by TVPlayer
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentralfr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA2200008H8" tvg-chno="4504" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/FRBA2200008H8_20210414T024625.png" group-title="SAMSUNGTV+FR",UniversCiné
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-universcine-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300021ME" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/FRBA3300021ME_20210714T000816.png" group-title="SAMSUNGTV+FR",Wild Side TV
+https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8?ads.wurl_channel=871&ads.wurl_name=WildSideTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBB340000115" tvg-chno="4506" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/53/FRBB340000115_20210908T010147.png" group-title="SAMSUNGTV+FR",Emotion'L
+https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBB39000020C" tvg-chno="4507" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/FRBB39000020C_20211013T011420.png" group-title="SAMSUNGTV+FR",Ciné Nanar
+https://d2o63bkh2qz410.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA2200004J6" tvg-chno="4508" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/17/FRBA2200004J6_20210113T004315.png" group-title="SAMSUNGTV+FR",Sofy.tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-fr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-chno="4511" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/51/FRBA2200010VN_20210512T003422.png" group-title="SAMSUNGTV+FR",MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA3300027K7" tvg-chno="4547" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/FRBA3300027K7_20210923T010535.png" group-title="SAMSUNGTV+FR",Documentaires - Rakuten TV
+https://9dd705dfd14b4d3cac606b4672142dd9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenDocumentaries/playlist.m3u8?ads.wurl_channel=719&ads.wurl_name=RakutenDocumentaries&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-chno="4548" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210923T010747.png" group-title="SAMSUNGTV+FR",Famille - Rakuten TV
+https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-chno="4549" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/FRAJ4500025AN_20210923T010843.png" group-title="SAMSUNGTV+FR",Films dramatiques - Rakuten TV
+https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8?ads.wurl_channel=449&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210923T010838.png" group-title="SAMSUNGTV+FR",Films d'action - Rakuten TV
+https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Universecine (GEO)" tvg-logo="https://i.imgur.com/JYmzHGq.png" group-title="SAMSUNGTV+FR",Universecine (GEO)
+https://universcine-samsungfre.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ADN (GEO)" tvg-logo="https://i.imgur.com/YJahdkv.jpg" group-title="SAMSUNGTV+FR",ADN (GEO)
+https://adn-samsungfre.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="★★★★ RAKUTEN ★★★★" tvg-logo="https://i.imgur.com/dDoSzOo.jpg" group-title="RAKUTEN",★★★★ RAKUTEN ★★★★
+https://
+#EXTINF:-1 group-title="RAKUTEN",CNN International (EU)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 1 (EU)
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 8 (EU)
+https://rakuten-euronews-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 10 (EU)
+https://rakuten-euronews-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 11 (EU)
+https://rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 12 (EU)
+https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",EuroNews 13 (EU)
+https://rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8	
+#EXTINF:-1 group-title="RAKUTEN",Hollywire (EU)
+https://hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Popsugar
+https://groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8	
+#EXTINF:-1 group-title="RAKUTEN",AfricaNews (EU) 
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Reuters (EU)
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",People are awesome (EU)
+https://jukin-peopleareawesome-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Fashion TV (EU)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Fuel TV (EU)
+https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Travel XP (EU)
+https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",AFV Family (EU)
+https://futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Motor1 TV (EU)
+https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Surf Channel (EU)
+https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",FTF (EU)
+https://ftf-forthefans-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",MavTV (EU)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Tankee (EU)
+https://playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",PlayWorks (EU)
+https://playworksdigital-playworks-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Destination TV (EU)
+https://makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",The Design Network (EU)
+https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Bonappetit
+https://bonappetit-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Ifood.tv (EU)
+https://futuretoday-ifoodtv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",BITE
+https://parademedia-bite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Tastemade (International)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8	
+#EXTINF:-1 group-title="RAKUTEN",Tastemade (ES)
+https://tastemade-es8tm-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Tastemade TDGM
+https://tastemade-tdgmn-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Horse and Country free (UK)
+https://hncfree-rakutenuk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",WeatherSpy (EU)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",FailArmy International (EU)
+https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Vitor The Boatshow (EU)
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Zoo Moo (EU)
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 1 (EU)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 2 (EU)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 3 (EU)
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 5 (EU)
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 6 (EU)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 7 (EU)
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 1 (EU)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 2 (EU)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 3 (EU)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 5 (EU)
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 6 (EU)
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action Movies 7 (EU)
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 1 (EU)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 2 (EU)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 3 (EU)
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 6 (EU)
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies 7 (EU)
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 1 (EU)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 2 (EU)
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 3 (EU)
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 5 (EU)
+https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 6 (EU)
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 7 (EU)
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 8 (EU)
+https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 9 (EU)
+https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 10 (EU)
+https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 11 (EU)
+https://rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight 12 (EU)
+https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 1 (EU)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 2 (EU)
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 3 (EU)
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 4 (EU)
+https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 5 (EU)
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 6 (EU)
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows 7 (EU)
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Free 1 (EU)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Free 2 (EU)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Free 3 (EU)
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Free 6 (EU)
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Free 7 (EU)
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 1 (EU)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 2 (EU)
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 3 (EU)
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 4 (EU)
+https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 5 (EU)
+https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 6 (EU)
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 7 (EU)
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 8 (EU)
+https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 9 (EU)
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 10 (EU)
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 11 (EU)
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 12 (EU)
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 13 (EU)
+https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Family 16 (EU)
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Romance 1 (EU)
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Romance 2 (EU)
+https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Romance 3 (EU)
+https://rakuten-romance-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Romance 6 (EU)
+https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Romance 7 (EU)
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Thriller 1 (EU)
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Thriller 2 (EU)
+https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Thriller 3 (EU)
+https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Thriller 6 (EU)
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Thriller 7 (EU)
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 8 (EU)
+https://rakuten-action-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 9 (EU)
+https://rakuten-action-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 10 (EU)
+https://rakuten-action-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 11 (EU)
+https://rakuten-action-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 12 (EU)
+https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Action 13 (EU)
+https://rakuten-action-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 8 (EU)
+https://rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8	
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 9 (EU) Danish Subs
+https://rakuten-comedy-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 10 (EU) Danish Subs
+https://rakuten-comedy-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 11 (EU) Danish Subs
+https://rakuten-comedy-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 12 (EU)
+https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy 13 (EU)
+https://rakuten-comedy-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 4 (EU) German subs
+https://rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 5 (EU)
+https://rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 6 (EU)
+https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 7 (EU)
+https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 8 (EU)
+https://rakuten-documentaries-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 9 (EU)
+https://rakuten-documentaries-9-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 10 (EU)
+https://rakuten-documentaries-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 11 (EU)
+https://rakuten-documentaries-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 12 (EU)
+https://rakuten-documentaries-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 13 (EU)
+https://rakuten-documentaries-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Documentaries 16 (EU)
+https://rakuten-documentaries-16-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Filmzie (EU) 
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Filmstream (EU)
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Top Film (EU)
+https://rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",The Pet Collective International (EU)
+https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Froo TV (EU)
+https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Bloomberg (EU)
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Bloomberg Quicktake (EU)
+https://bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Dry Bar Comedy (EU)
+https://drybar-drybarcomedy-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Edgesports rest of the world
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Revry News (EU)
+https://revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Revry 2 (EU)
+https://revry-revry-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Revry 3 (EU)
+https://revry-revry-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Lacrosse Sport Network (EU)
+https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Boo Gaming (EU)
+https://arcade-cloud-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",VennTV (EU)
+https://venntv-rakuteneu.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Duck TV (EU)
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Happy Kids -1 (EU)
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Happy Kids -2 (EU)
+https://futuretoday-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",The Lego Channel (EU)
+https://futuretoday-thelegochannel-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Teletubbies 1 (EU)
+https://dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Teletubbies 2 (EU)
+https://dhx-teletubbies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Teletubbies 3 (EU)
+https://dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Baby Shark TV (EU)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Travel XP (EU)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Sofy TV
+https://sofytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Lonestar
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Luxe TV (UK)
+https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Luxe TV (Fr)
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Humanity Documentaries (UK)
+https://alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Humanity Documentaries (Fr)
+https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Humanity Documentaries (It)
+https://alchimie-humanity-documentaries-it-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",MMA TV
+https://alchimie-mmatv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Insight TV (English)
+https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Inwonder (English)
+https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Insight TV (German)
+https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Inwonder (German)
+https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",InTrouble
+https://introuble-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Qwest jazz
+https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Qwest Classic
+https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Qwest Mix
+https://qwestmix-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Young Hollywood
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Moviesphere UK
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rush Street
+https://rushstreet-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Comedy Dynamics
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",ESTV
+https://estv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Mytime (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",InsightTV (Spain)
+https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Runtime (Spain)
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Cine (EU) (Spanish)
+https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Darkmatter (Spanish)
+https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Kino (German)
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Cinema Segretto (EU) (Italy)
+https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Bizzaro Movies (EU) (Italy)
+https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Classico (EU) (Italy)
+https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Krime (French subs)
+https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",iHola Play (EU) 
+https://rakuten-hola-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Real Crime
+https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Real Families
+https://lds-realfamilies-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Real Wild
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Timeline
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Don't Tell the Bride
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Gratisfilmer (EU)
+https://rakuten-gratisfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Top Film (EU) (Denmark)
+https://rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",WildEarth
+https://wildearth-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",TalkRadio TV
+https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Explore by TVPlayer (Uk)
+https://alchimie-explorebytvplayer-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Explore by TVPlayer (ES)
+https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Explore by TVPlayer (Fr)
+https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Tennis Channel (Deu) Geo
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Tennis Channel International (Geo)
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight (GB Subs) LG
+https://rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Actionmovies (GB Subs) LG
+https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows (GB Subs) LG
+https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies (GB Subs) LG
+https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight (ES Subs) LG
+https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Actionmovies (ES Subs) LG
+https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows (ES Subs) LG
+https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies (ES Subs) LG
+https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Hola 2 (ES subs) LG
+https://rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",CNN International LG
+https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight (DE Subs) LG
+https://rakuten-spotlight-3-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Actionmovies (DE Subs) LG
+https://rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows (DE Subs) LG
+https://rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies (DE Subs) LG
+https://rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight (IT Subs) LG
+https://rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8	
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Actionmovies (IT Subs) LG
+https://rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows (IT Subs) LG
+https://rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies (IT Subs) LG
+https://rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Spotlight (FR Subs) LG
+https://rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Actionmovies (FR Subs) LG
+https://rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten TV Shows (FR Subs) LG	
+https://rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Comedy Movies (FR Subs) LG
+https://rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RAKUTEN",Rakuten Huippuelokuvat -Top Movies (EU)
+https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="★★★★ ITALIA ★★★★" tvg-logo="https://i.imgur.com/xrGFBt3.jpg" group-title="ITALIA",★★★★ ITALIA ★★★★
 https://
 #EXTINF:-1 tvg-name="Canale 5" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Canale 5
