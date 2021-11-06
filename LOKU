@@ -946,14 +946,18 @@ http://83.78.23.248:8000/play/xxRaiYoyo
 https://
 #EXTINF:-1 tvg-name="ALL Sports (BR)" tvg-logo="https://i.imgur.com/8ndl6x6.jpg" group-title="SPORTS",ALL Sports (BR)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,Alkass 1 HD
+#EXTINF:-1 tvg-name="Alkass 1 HD" tvg-logo="https://i.imgur.com/IoJC8Nd.png" group-title="SPORTS",Alkass 1 HD
 http://41.224.63.108:7788/play/a028
-#EXTINF:-1,Alkass 2 HD
+#EXTINF:-1 tvg-name="Alkass 2 HD" tvg-logo="https://i.imgur.com/8lGqDNf.png" group-title="SPORTS",Alkass 2 HD
 http://41.224.63.108:7788/play/a029
-#EXTINF:-1,AlKass 3 HD
+#EXTINF:-1 tvg-name="Alkass 3 HD" tvg-logo="https://i.imgur.com/3FLynwD.png" group-title="SPORTS",AlKass 3 HD
 http://41.224.63.108:7788/play/a02a
-#EXTINF:-1,Alkass 4 HD
+#EXTINF:-1 tvg-name="Alkass 4 HD" tvg-logo="https://i.imgur.com/zsXf4JN.png" group-title="SPORTS",Alkass 4 HD
 http://41.224.63.108:7788/play/a02b
+#EXTINF:-1 tvg-name="Alkass 5 HD" tvg-logo="https://i.imgur.com/W6udi9U.png" group-title="SPORTS",Alkass 5 HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/Alkass5vcnz/master480.m3u8
+#EXTINF:-1 tvg-name="Alkass Online" tvg-logo="https://i.imgur.com/oD6VwDx.png" group-title="SPORTS",Alkass Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="Astrakhan Sport (RU)" tvg-logo="https://i.imgur.com/V3BieVx.jpg" group-title="SPORTS",Astrakhan Sport (RU)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
@@ -994,9 +998,9 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
-#EXTINF:-1,ONTIME SPORTS
+#EXTINF:-1 group-title="SPORTS",ONTIME SPORTS
 http://41.224.63.108:7788/play/a02e
-#EXTINF:-1,ONTIME SPORTS2
+#EXTINF:-1 group-title="SPORTS",ONTIME SPORTS2
 http://41.224.63.108:7788/play/a02c
 #EXTINF:-1 tvg-name="Red Bull TV FHD (AT)" tvg-logo="https://i.imgur.com/NG1Qzh1.jpg" group-title="SPORTS",Red Bull TV FHD (AT)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
