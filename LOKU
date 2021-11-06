@@ -465,10 +465,6 @@ https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/
 https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8?ads.wurl_channel=449&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210923T010838.png" group-title="SAMSUNGTV+FR",Films d'action - Rakuten TV
 https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-name="Universecine (GEO)" tvg-logo="https://i.imgur.com/JYmzHGq.png" group-title="SAMSUNGTV+FR",Universecine (GEO)
-https://universcine-samsungfre.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ADN (GEO)" tvg-logo="https://i.imgur.com/YJahdkv.jpg" group-title="SAMSUNGTV+FR",ADN (GEO)
-https://adn-samsungfre.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ RAKUTEN ★★★★" tvg-logo="https://i.imgur.com/dDoSzOo.jpg" group-title="RAKUTEN",★★★★ RAKUTEN ★★★★
 https://
@@ -915,6 +911,8 @@ https://
 http://93.157.62.180/Canale5/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Italia 1
 http://93.157.62.180/Italia1/index.m3u8
+#EXTINF:-1 tvg-name="Rete 4" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Rete 4
+http://93.157.62.180/Rete4/index.m3u8
 #EXTINF:-1 tvg-name="RAI 1" tvg-id="" tvg-logo="https://i.imgur.com/KT8kXPn.jpg" group-title="ITALIA",RAI 1
 http://93.157.62.180/Rai1/index.m3u8
 #EXTINF:-1 tvg-name="RAI 2" tvg-id="" tvg-logo="https://i.imgur.com/vM6eTCI.jpeg" group-title="ITALIA",RAI 2
@@ -941,14 +939,21 @@ http://83.78.23.248:8000/play/RaiSportxx
 http://83.78.23.248:8000/play/xxRaiStoriaxx
 #EXTINF:-1 group-title="ITALIA",Rai YoYo
 http://83.78.23.248:8000/play/xxRaiYoyo
-#EXTINF:-1 tvg-name="Rete 4" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Rete 4
-http://93.157.62.180/Rete4/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="★★★★ SPORTS ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="SPORTS",★★★★ SPORTS ★★★★
 https://
 #EXTINF:-1 tvg-name="ALL Sports (BR)" tvg-logo="https://i.imgur.com/8ndl6x6.jpg" group-title="SPORTS",ALL Sports (BR)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,Alkass 1 HD
+http://41.224.63.108:7788/play/a028
+#EXTINF:-1,Alkass 2 HD
+http://41.224.63.108:7788/play/a029
+#EXTINF:-1,AlKass 3 HD
+http://41.224.63.108:7788/play/a02a
+#EXTINF:-1,Alkass 4 HD
+http://41.224.63.108:7788/play/a02b
 #EXTINF:-1 tvg-name="Astrakhan Sport (RU)" tvg-logo="https://i.imgur.com/V3BieVx.jpg" group-title="SPORTS",Astrakhan Sport (RU)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports XTRA" tvg-logo="https://i.imgur.com/7JFEkLB.jpg" group-title="SPORTS",Bein Sports XTRA
@@ -989,6 +994,10 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1,ONTIME SPORTS
+http://41.224.63.108:7788/play/a02e
+#EXTINF:-1,ONTIME SPORTS2
+http://41.224.63.108:7788/play/a02c
 #EXTINF:-1 tvg-name="Red Bull TV FHD (AT)" tvg-logo="https://i.imgur.com/NG1Qzh1.jpg" group-title="SPORTS",Red Bull TV FHD (AT)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="ROH FHD (US)" tvg-logo="https://i.imgur.com/T04MWcd.png" group-title="SPORTS",ROH FHD (US)
@@ -1025,6 +1034,30 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-HeroGo/120.m3u8
 #EXTINF:-1 tvg-name="Футбол 1 (UA)" tvg-id="" tvg-logo="https://i.imgur.com/QB7X0In.jpg" group-title="SPORTS",Футбол 1 (UA)
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="SPORTS",181_MAX Sport 1 HD
+http://84.54.180.252:8000/play/a07m
+#EXTINF:-1 group-title="SPORTS",182_MAX Sport 2 HD
+http://84.54.180.252:8000/play/a07n
+#EXTINF:-1 group-title="SPORTS",183_MAX Sport 3 HD
+http://84.54.180.252:8000/play/a07o
+#EXTINF:-1 group-title="SPORTS",184_MAX Sport 4 HD
+http://84.54.180.252:8000/play/a07p
+#EXTINF:-1 group-title="SPORTS",185_Diema Sport HD
+http://84.54.180.252:8000/play/a07z
+#EXTINF:-1 group-title="SPORTS",186_Diema Sport 2 HD
+http://84.54.180.252:8000/play/a080
+#EXTINF:-1 group-title="SPORTS",201_Ring HD
+http://84.54.180.252:8000/play/a06e
+#EXTINF:-1 group-title="SPORTS",202_Eurosport HD
+http://84.54.180.252:8000/play/a081
+#EXTINF:-1 group-title="SPORTS",203_Eurosport 2
+http://84.54.180.252:8000/play/a04b
+#EXTINF:-1 group-title="SPORTS",204_Nova Sport
+http://84.54.180.252:8000/play/a04a
+#EXTINF:-1 group-title="SPORTS",205_B1B Action
+http://84.54.180.252:8000/play/a082
+#EXTINF:-1 group-title="SPORTS",206_Sport+
+http://84.54.180.252:8000/play/a083
 
 
 #EXTINF:-1 tvg-name="★★★★ Спорт ★★★★" tvg-logo="https://i.imgur.com/KHDf35w.jpeg" group-title="Спорт",★★★★ Спорт ★★★★
@@ -2299,6 +2332,26 @@ https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 #EXTINF:-1 tvg-name="THE Voice (BG)" tvg-logo="https://i.imgur.com/S38VlNV.png" group-title="MUSIC",THE Voice (BG)
 https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+#EXTINF:-1 group-title="MUSIC",Planeta HD
+http://84.54.180.252:8000/play/a03m
+#EXTINF:-1 group-title="MUSIC",Balkanika
+http://84.54.180.252:8000/play/a05h
+#EXTINF:-1 group-title="MUSIC",FEN TV
+http://84.54.180.252:8000/play/a05f
+#EXTINF:-1 group-title="MUSIC",STARS.TV
+http://84.54.180.252:8000/play/a07f
+#EXTINF:-1 group-title="MUSIC",4Fun Dance
+http://84.54.180.252:8000/play/a07i
+#EXTINF:-1 group-title="MUSIC",MagicTV
+http://84.54.180.252:8000/play/a03u
+#EXTINF:-1 group-title="MUSIC",MTV 80s
+http://84.54.180.252:8000/play/a07t
+#EXTINF:-1 group-title="MUSIC",VH 1
+http://84.54.180.252:8000/play/a07u
+#EXTINF:-1 group-title="MUSIC",City TV
+http://84.54.180.252:8000/play/a06c
+#EXTINF:-1 group-title="MUSIC",The Voice
+http://84.54.180.252:8000/play/a043
 
 
 
@@ -2466,14 +2519,14 @@ https://sluhay.by/live/Ch316pub/index.m3u8
 #EXTINF:-1 tvg-name="SluhaybyXtip.by (RU)" tvg-id="SluhaybyXtip.by" tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="MUSIC",Sluhay.by Xtip (RU)
 https://sluhay.by/live/Ch056pub/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNxMDzV.png" group-title="M Radio",★★★★ M Radio FRANCE ★★★★
+#EXTINF:-1 tvg-name="★★★★ M Radio FRANCE ★★★★" tvg-logo="https://i.imgur.com/fNxMDzV.png" group-title="M Radio",★★★★ M Radio FRANCE ★★★★
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUCg96c.png" group-title="M Radio",M Radio - 100 titres cultes
 https://mradio-100-titres-cultes.ice.infomaniak.ch/mradio-100-titres-cultes.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kkYDtbw.png" group-title="M Radio",M Radio - Années 90
 https://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eY7UcMq.png" group-title="MIX Radio",★★★★ MIX Radio ★★★★
+#EXTINF:-1 tvg-name="★★★★ MIX Radio ★★★★" tvg-logo="https://i.imgur.com/eY7UcMq.png" group-title="MIX Radio",★★★★ MIX Radio ★★★★
 https://
 #EXTINF:-1 group-title="MIX Radio",TOP GOLD
 https://live.topgold.al/topgold
