@@ -2532,9 +2532,9 @@ https://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
 
 #EXTINF:-1 tvg-name="★★★★ MIX Radio ★★★★" tvg-logo="https://i.imgur.com/eY7UcMq.png" group-title="MIX Radio",★★★★ MIX Radio ★★★★
 https://
-#EXTINF:-1 group-title="MIX Radio",TOP GOLD
+#EXTINF:-1 group-title="MIX Radio",TOP GOLD (AL)
 https://live.topgold.al/topgold
-#EXTINF:-1 group-title="MIX Radio",TOP ALBANIA RADIO
+#EXTINF:-1 group-title="MIX Radio",TOP ALBANIA RADIO (AL)
 https://live.top-media.al/tar
 #EXTINF:-1 group-title="MIX Radio",MY MUSIC RADIO (AL)
 https://live.top-media.al/mmr
