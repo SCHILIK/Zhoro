@@ -2255,6 +2255,14 @@ https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Folk (MK)" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="MUSIC",Sky Folk (MK)
 https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-name="Smash Country (ML)" tvg-logo="http://s3.smashmalta.com/Icons/1080country.png" group-title="MUSIC",Smash Country (ML)
+http://a3.smashmalta.com:82/live/smash/smash/12.ts
+#EXTINF:-1 tvg-name="Smash House of Rock (ML)" tvg-logo="http://s3.smashmalta.com/Icons/1080HouseRock.png" group-title="MUSIC",Smash House of Rock (ML)
+http://a3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1 tvg-name="Smash Jazz (ML)" tvg-logo="http://s3.smashmalta.com/Icons/1080jazz.png" group-title="MUSIC",Smash Jazz (ML)
+http://a3.smashmalta.com:82/live/smash/smash/10.ts
+#EXTINF:-1 tvg-name="Smash Music (ML)" tvg-logo="http://s3.smashmalta.com/Icons/1080music.png" group-title="MUSIC",Smash Music (ML)
+http://a3.smashmalta.com:82/live/smash/smash/8.ts
 #EXTINF:-1 tvg-name="Sonus FM TV (US)" tvg-logo="https://i.imgur.com/GcCzcpE.png" group-title="MUSIC",Sonus FM TV (US)
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
 #EXTINF:-1 tvg-name="Spirit TV (US)" group-title="MUSIC" tvg-logo="https://i.imgur.com/jR24flK.png",Spirit TV (US)
