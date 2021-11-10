@@ -331,6 +331,28 @@ http://95.107.132.106/out/u/646_5.m3u8
 http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Premiere 1 HD
+http://46.4.40.167/Premiere1/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Premiere 2 HD
+http://46.4.40.167/Premiere2/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Premiere 3 HD
+http://46.4.40.167/Premiere3/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Premiere 4 HD
+http://46.4.40.167/Premiere4/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Action
+http://46.4.40.167/action/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Drama
+http://46.4.40.167/drama/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Gold
+http://46.4.40.167/gold/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Sci-Fi
+http://46.4.40.167/scifi/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Comedy
+http://46.4.40.167/comedy/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Family
+http://46.4.40.167/family/index.m3u8
+#EXTINF:-1 group-title="ALBANIA",Dark
+http://46.4.40.167/dark/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SAMSUNGTV+FR ★★★★" tvg-logo="https://i.imgur.com/SwfoxrK.jpg" group-title="SAMSUNGTV+FR",★★★★ SAMSUNGTV+FR ★★★★
 https://
