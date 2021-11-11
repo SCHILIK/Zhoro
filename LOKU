@@ -945,12 +945,13 @@ http://93.157.62.180/Rai3/index.m3u8
 http://83.78.23.248:8000/play/a0fn
 #EXTINF:-1 group-title="ITALIA",Rai 5
 http://83.78.23.248:8000/play/Rai5xx
-#EXTINF:-1 group-title="ITALIA",Rai Gulp
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-logo="https://i.imgur.com/MwaXnUo.png" group-title="ITALIA",Rai Gulp
 http://83.78.23.248:8000/play/xxRaiGulpxx
 #EXTINF:-1 group-title="ITALIA",Rai Movie
 http://83.78.23.248:8000/play/xxRaiMOviexx
-#EXTINF:-1 group-title="ITALIA",Rai News 24
-http://83.78.23.248:8000/play/xxRaiNEws24xx
+#EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/NaD6IsS.jpg" group-title="ITALIA",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+***http://83.78.23.248:8000/play/xxRaiNEws24xx
 #EXTINF:-1 group-title="ITALIA",Rai Premium
 http://83.78.23.248:8000/play/a0kq
 #EXTINF:-1 group-title="ITALIA",Rai Scuola
@@ -961,6 +962,17 @@ http://83.78.23.248:8000/play/RaiSportxx
 http://83.78.23.248:8000/play/xxRaiStoriaxx
 #EXTINF:-1 group-title="ITALIA",Rai YoYo
 http://83.78.23.248:8000/play/xxRaiYoyo
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/qmSMXHA.jpg" group-title="ITALIA",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/qhlCkJ5.jpg" group-title="ITALIA",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/NRZE8Td.jpg" group-title="ITALIA",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-name="Spike" tvg-logo="https://i.imgur.com/3Ru3MuY.jpg" group-title="ITALIA",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/QKSPKfG.jpg" group-title="ITALIA",Super!
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+
 
 #EXTINF:-1 tvg-name="★★★★ ITALIA PLUTO ★★★★" tvg-logo="https://i.imgur.com/xrGFBt3.jpg" group-title="ITALIA PLUTO",★★★★ ITALIA PLUTO ★★★★
 https://
