@@ -965,9 +965,11 @@ http://83.78.23.248:8000/play/xxRaiYoyo
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/qmSMXHA.jpg" group-title="ITALIA",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/qhlCkJ5.jpg" group-title="ITALIA",Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/NRZE8Td.jpg" group-title="ITALIA",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-name="Radio Italia TV" tvg-logo="https://i.imgur.com/SKehO03.png" group-title="ITALIA",Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-name="Spike" tvg-logo="https://i.imgur.com/3Ru3MuY.jpg" group-title="ITALIA",Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/QKSPKfG.jpg" group-title="ITALIA",Super!
