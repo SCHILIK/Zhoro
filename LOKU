@@ -975,7 +975,6 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/QKSPKfG.jpg" group-title="ITALIA",Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/it.xml.gz"
 #EXTINF:-1 tvg-name="★★★★ SAMSUNGTV+IT ★★★★" tvg-logo="https://i.imgur.com/xrGFBt3.jpg" group-title="SAMSUNGTV+IT",★★★★ SAMSUNGTV+IT ★★★★
 https://
 #EXTINF:-1 tvg-id="ITBB2000005X0" tvg-chno="4001" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/ITBB2000005X0_20211110T010733.png" group-title="SAMSUNGTV+IT",Doctor Who
