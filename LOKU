@@ -940,6 +940,8 @@ http://83.78.23.248:8000/play/RaiSportxx
 http://83.78.23.248:8000/play/xxRaiStoriaxx
 #EXTINF:-1 group-title="ITALIA",Rai YoYo
 http://83.78.23.248:8000/play/xxRaiYoyo
+#EXTINF:-1 group-title="ITALIA",CANALE 7
+http://178.32.140.155:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/qmSMXHA.jpg" group-title="ITALIA",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/qhlCkJ5.jpg" group-title="ITALIA",Giallo
@@ -1262,6 +1264,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,MLB.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="NFL" group-title="SPORTS",NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 group-title="SPORTS",ONE GOLF HD (PK)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ONTIME SPORTS
 http://41.224.63.108:7788/play/a02e
 #EXTINF:-1 group-title="SPORTS",ONTIME SPORTS2
@@ -1338,6 +1342,12 @@ http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
 http://185.228.135.48:8080/tv_eurosport_gold_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://i.imgur.com/eOfjZjI.jpg",Fun Sport
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://i.imgur.com/kQL7wvR.png",Setanta Sports Ukraine HD
 http://iptv.prosto.tv:7000/ch106/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjozGrV.png" group-title="Спорт",Setanta Sports 1 HD
