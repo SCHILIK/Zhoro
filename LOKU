@@ -331,28 +331,6 @@ http://95.107.132.106/out/u/646_5.m3u8
 http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Premiere 1 HD" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Premiere 1 HD
-http://46.4.40.167/Premiere1/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Premiere 2 HD" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Premiere 2 HD
-http://46.4.40.167/Premiere2/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Premiere 3 HD" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Premiere 3 HD
-http://46.4.40.167/Premiere3/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Premiere 4 HD" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Premiere 4 HD
-http://46.4.40.167/Premiere4/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Action" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Action
-http://46.4.40.167/action/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Drama" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Drama
-http://46.4.40.167/drama/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Gold" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Gold
-http://46.4.40.167/gold/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Sci-Fi" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Sci-Fi
-http://46.4.40.167/scifi/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Comedy" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Comedy
-http://46.4.40.167/comedy/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Family" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Family
-http://46.4.40.167/family/index.m3u8
-#EXTINF:-1 tvg-name="Xtreem_Dark" tvg-logo="https://i.imgur.com/BTBIHYc.jpg" group-title="ALBANIA",Xtreem_Dark
-http://46.4.40.167/dark/index.m3u8
 
 #EXTINF:-1 tvg-name="★★★★ SAMSUNGTV+FR ★★★★" tvg-logo="https://i.imgur.com/SwfoxrK.jpg" group-title="SAMSUNGTV+FR",★★★★ SAMSUNGTV+FR ★★★★
 https://
