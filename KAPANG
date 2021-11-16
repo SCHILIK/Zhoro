@@ -27,11 +27,11 @@ https://gpuserver001.broadcastcdn.net/KAPANG-FALLBACKVIDEO/index.m3u8
 https://gpuserver004.broadcastcdn.net/AFRICAXP-RPM/index.m3u8
 #EXTINF:-1 tvg-name="S4C" tvg-logo="https://i.imgur.com/yCKOGX4.png" group-title="LOCAL",S4C
 https://gpuserver003.broadcastcdn.net/KUK-S4C/index.m3u8
-#EXTINF:-1 tvg-name="View TV London" tvg-logo="https://i.imgur.com/okAVkJJ.png" group-title="LOCAL",View TV London
+#EXTINF:-1 tvg-name="View TV London (Geo-UK)" tvg-logo="https://i.imgur.com/okAVkJJ.png" group-title="LOCAL",View TV London (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-VIEWTVONEUK/index.m3u8
-#EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://i.imgur.com/IltZSTe.png" group-title="MUSIC",Now 80s
+#EXTINF:-1 tvg-name="Now 80s (Geo-UK)" tvg-logo="https://i.imgur.com/IltZSTe.png" group-title="MUSIC",Now 80s (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-NOW80S/index.m3u8
-#EXTINF:-1 tvg-name="Trace Hits" tvg-logo="https://i.imgur.com/qcuZ6B5.png" group-title="MUSIC",Trace Hits
+#EXTINF:-1 tvg-name="Trace Hits (Geo-UK)" tvg-logo="https://i.imgur.com/qcuZ6B5.png" group-title="MUSIC",Trace Hits (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-TRACEHITS/index.m3u8
 #EXTINF:-1 tvg-name="Vintage Jukebox" tvg-logo="https://i.imgur.com/flPj2sc.jpg" group-title="MUSIC",Vintage Jukebox
 https://gpuserver001.broadcastcdn.net/CLOUDIETV-VINTAGEJUKEBOX/index.m3u8
@@ -39,27 +39,53 @@ https://gpuserver001.broadcastcdn.net/CLOUDIETV-VINTAGEJUKEBOX/index.m3u8
 https://gpuserver004.broadcastcdn.net/AFRICAXP-PULSE/index.m3u8
 #EXTINF:-1 tvg-name="Rathergood 00s" tvg-logo="https://i.imgur.com/9mtmHDJ.png" group-title="MUSIC",Rathergood 00s
 https://gpuserver001.broadcastcdn.net/CLOUDIETV-RATHERGOODNOUGHTIES-001/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Dance" tvg-logo="https://i.imgur.com/yMcgh4W.png" group-title="MUSIC",Rathergood Dance
+#EXTINF:-1 tvg-name="Rathergood Dance (Geo-UK)" tvg-logo="https://i.imgur.com/yMcgh4W.png" group-title="MUSIC",Rathergood Dance (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODDANCE-001/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Dance Classics" tvg-logo="https://i.imgur.com/wAK0RM9.png" group-title="MUSIC",Rathergood Dance Classics
+#EXTINF:-1 tvg-name="Rathergood Dance Classics (Geo-UK)" tvg-logo="https://i.imgur.com/wAK0RM9.png" group-title="MUSIC",Rathergood Dance Classics (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODDANCECLASSICS-001/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Hits" tvg-logo="https://i.imgur.com/LB133go.png" group-title="MUSIC",Rathergood Hits
+#EXTINF:-1 tvg-name="Rathergood Hits (Geo-UK)" tvg-logo="https://i.imgur.com/LB133go.png" group-title="MUSIC",Rathergood Hits (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODHITS-001/index.m3u8
-#EXTINF:-1 tvg-name="Rathergood Movies" tvg-logo="https://i.imgur.com/eD79ZQn.png" group-title="MUSIC",Rathergood Movies
+#EXTINF:-1 tvg-name="Rathergood Movies (Geo-UK)" tvg-logo="https://i.imgur.com/eD79ZQn.png" group-title="MUSIC",Rathergood Movies (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODMOVIES-001/index.m3u8
-#EXTINF:-1 tvg-name="Christmas 365" tvg-logo="https://i.imgur.com/pxhV0up.jpg" group-title="MUSIC",Christmas 365
+#EXTINF:-1 tvg-name="Christmas 365 (Geo-UK)" tvg-logo="https://i.imgur.com/pxhV0up.jpg" group-title="MUSIC",Christmas 365 (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-CHRISTMAS365/index.m3u8
-#EXTINF:-1 tvg-name="Spotlight TV" tvg-logo="https://i.imgur.com/w89WaIQ.png" group-title="MUSIC",Spotlight TV
+#EXTINF:-1 tvg-name="Spotlight TV (Geo-UK)" tvg-logo="https://i.imgur.com/w89WaIQ.png" group-title="MUSIC",Spotlight TV (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SPOTLIGHTTV/index.m3u8
-#EXTINF:-1 tvg-name="OFIVE" tvg-logo="https://i.imgur.com/ai4e7zf.png" group-title="MUSIC",OFIVE
+#EXTINF:-1 tvg-name="OFIVE (Geo-UK)" tvg-logo="https://i.imgur.com/ai4e7zf.png" group-title="MUSIC",OFIVE (Geo-UK)
 https://cdnuk001.broadcastcdn.net/CLOUDIETV-OFIVE/index.m3u8
-#EXTINF:-1 tvg-name="Film4" tvg-logo="https://i.imgur.com/Kqto6nb.png" group-title="MOVIES",Film4
+#EXTINF:-1 tvg-name="Film4 (Geo-UK)" tvg-logo="https://i.imgur.com/Kqto6nb.png" group-title="MOVIES",Film4 (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-FILM4/index.m3u8
-#EXTINF:-1 tvg-name="Great! movies" tvg-logo="https://i.imgur.com/aEDJsaN.png" group-title="MOVIES",Great! movies
+#EXTINF:-1 tvg-name="Great! movies (Geo-UK)" tvg-logo="https://i.imgur.com/aEDJsaN.png" group-title="MOVIES",Great! movies (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/index.m3u8
-#EXTINF:-1 tvg-name="Great! movies action" tvg-logo="https://i.imgur.com/9GNevjd.png" group-title="MOVIES",Great! movies action
+#EXTINF:-1 tvg-name="Great! movies action (Geo-UK)" tvg-logo="https://i.imgur.com/9GNevjd.png" group-title="MOVIES",Great! movies action (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/index.m3u8
-#EXTINF:-1 tvg-name="Great! movies classic" tvg-logo="https://i.imgur.com/8T81DS9.png" group-title="MOVIES",Great! movies classic
+#EXTINF:-1 tvg-name="Great! movies classic (Geo-UK)" tvg-logo="https://i.imgur.com/8T81DS9.png" group-title="MOVIES",Great! movies classic (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/index.m3u8
 #EXTINF:-1 tvg-name="Lone Star" tvg-logo="https://i.imgur.com/5WWcrXJ.png" group-title="MOVIES",Lone Star
 https://gpuserver003.broadcastcdn.net/CLOUDIETV-LONESTAR/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/6MarDHo.png" group-title="ENTERTAINMENT",Comedy Dynamics
+https://gpuserver003.broadcastcdn.net/CLOUDIETV-COMEDYDYNAMICS/index.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/HqjgSdJ.png" group-title="ENTERTAINMENT",DMAX
+https://cdnuk001.broadcastcdn.net/KUK-DMAX/index.m3u8
+#EXTINF:-1 tvg-name="DAVE" tvg-logo="https://i.imgur.com/Wnk1LFm.png" group-title="ENTERTAINMENT",DAVE
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8
+#EXTINF:-1 tvg-name="Dave Ja Vu" tvg-logo="https://i.imgur.com/XNnvNbx.png" group-title="ENTERTAINMENT",Dave Ja Vu
+https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
+#EXTINF:-1 tvg-name="Horror Channel" tvg-logo="https://i.imgur.com/aRNHEN5.png" group-title="ENTERTAINMENT",Horror Channel
+https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Blaze" tvg-logo="https://i.imgur.com/QmSKZQ5.png" group-title="ENTERTAINMENT",Blaze
+https://cdnuk001.broadcastcdn.net/KUK-BLAZE/index.m3u8
+#EXTINF:-1 tvg-name="Great! tv" tvg-logo="https://i.imgur.com/Sz47FEF.png" group-title="ENTERTAINMENT",Great! tv
+https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/miB2oJW.png" group-title="ENTERTAINMENT",Paramount
+https://cdnuk001.broadcastcdn.net/KUK-PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-name="Really" tvg-logo="https://i.imgur.com/m2VYdZv.png" group-title="ENTERTAINMENT",Really
+https://cdnuk001.broadcastcdn.net/KUK-REALLY/index.m3u8
+#EXTINF:-1 tvg-name="Challenge" tvg-logo="https://i.imgur.com/a38aCbf.png" group-title="ENTERTAINMENT",Challenge
+https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
+#EXTINF:-1 tvg-name="Drama" tvg-logo="https://i.imgur.com/Ldgi8MS.png" group-title="ENTERTAINMENT",Drama
+https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
+#EXTINF:-1 tvg-name="Five Select" tvg-logo="https://i.imgur.com/0Ijwa9l.png" group-title="ENTERTAINMENT",Five Select
+https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/index.m3u8
+#EXTINF:-1 tvg-name="Court TV" tvg-logo="https://i.imgur.com/T1Lhgtu.png" group-title="ENTERTAINMENT",Court TV
+https://cdnuk001.broadcastcdn.net/KUK-COURTTV/index.m3u8
