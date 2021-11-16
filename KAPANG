@@ -65,27 +65,51 @@ https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/index.m3u8
 https://gpuserver003.broadcastcdn.net/CLOUDIETV-LONESTAR/index.m3u8
 #EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/6MarDHo.png" group-title="ENTERTAINMENT",Comedy Dynamics
 https://gpuserver003.broadcastcdn.net/CLOUDIETV-COMEDYDYNAMICS/index.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/HqjgSdJ.png" group-title="ENTERTAINMENT",DMAX
+#EXTINF:-1 tvg-name="DMAX (Geo-UK)" tvg-logo="https://i.imgur.com/HqjgSdJ.png" group-title="ENTERTAINMENT",DMAX (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-DMAX/index.m3u8
-#EXTINF:-1 tvg-name="DAVE" tvg-logo="https://i.imgur.com/Wnk1LFm.png" group-title="ENTERTAINMENT",DAVE
+#EXTINF:-1 tvg-name="DAVE (Geo-UK)" tvg-logo="https://i.imgur.com/Wnk1LFm.png" group-title="ENTERTAINMENT",DAVE (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/index.m3u8
-#EXTINF:-1 tvg-name="Dave Ja Vu" tvg-logo="https://i.imgur.com/XNnvNbx.png" group-title="ENTERTAINMENT",Dave Ja Vu
+#EXTINF:-1 tvg-name="Dave Ja Vu (Geo-UK)" tvg-logo="https://i.imgur.com/XNnvNbx.png" group-title="ENTERTAINMENT",Dave Ja Vu (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8
-#EXTINF:-1 tvg-name="Horror Channel" tvg-logo="https://i.imgur.com/aRNHEN5.png" group-title="ENTERTAINMENT",Horror Channel
+#EXTINF:-1 tvg-name="Horror Channel (Geo-UK)" tvg-logo="https://i.imgur.com/aRNHEN5.png" group-title="ENTERTAINMENT",Horror Channel (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="Blaze" tvg-logo="https://i.imgur.com/QmSKZQ5.png" group-title="ENTERTAINMENT",Blaze
+#EXTINF:-1 tvg-name="Blaze (Geo-UK)" tvg-logo="https://i.imgur.com/QmSKZQ5.png" group-title="ENTERTAINMENT",Blaze (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-BLAZE/index.m3u8
-#EXTINF:-1 tvg-name="Great! tv" tvg-logo="https://i.imgur.com/Sz47FEF.png" group-title="ENTERTAINMENT",Great! tv
+#EXTINF:-1 tvg-name="Great! tv (Geo-UK)" tvg-logo="https://i.imgur.com/Sz47FEF.png" group-title="ENTERTAINMENT",Great! tv (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://i.imgur.com/miB2oJW.png" group-title="ENTERTAINMENT",Paramount
+#EXTINF:-1 tvg-name="Paramount (Geo-UK)" tvg-logo="https://i.imgur.com/miB2oJW.png" group-title="ENTERTAINMENT",Paramount (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-name="Really" tvg-logo="https://i.imgur.com/m2VYdZv.png" group-title="ENTERTAINMENT",Really
+#EXTINF:-1 tvg-name="Really (Geo-UK)" tvg-logo="https://i.imgur.com/m2VYdZv.png" group-title="ENTERTAINMENT",Really (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/index.m3u8
-#EXTINF:-1 tvg-name="Challenge" tvg-logo="https://i.imgur.com/a38aCbf.png" group-title="ENTERTAINMENT",Challenge
+#EXTINF:-1 tvg-name="Challenge (Geo-UK)" tvg-logo="https://i.imgur.com/a38aCbf.png" group-title="ENTERTAINMENT",Challenge (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/index.m3u8
-#EXTINF:-1 tvg-name="Drama" tvg-logo="https://i.imgur.com/Ldgi8MS.png" group-title="ENTERTAINMENT",Drama
+#EXTINF:-1 tvg-name="Drama (Geo-UK)" tvg-logo="https://i.imgur.com/Ldgi8MS.png" group-title="ENTERTAINMENT",Drama (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-DRAMA/index.m3u8
-#EXTINF:-1 tvg-name="Five Select" tvg-logo="https://i.imgur.com/0Ijwa9l.png" group-title="ENTERTAINMENT",Five Select
+#EXTINF:-1 tvg-name="Five Select (Geo-UK)" tvg-logo="https://i.imgur.com/0Ijwa9l.png" group-title="ENTERTAINMENT",Five Select (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/index.m3u8
-#EXTINF:-1 tvg-name="Court TV" tvg-logo="https://i.imgur.com/T1Lhgtu.png" group-title="ENTERTAINMENT",Court TV
+#EXTINF:-1 tvg-name="Court TV (Geo-UK)" tvg-logo="https://i.imgur.com/T1Lhgtu.png" group-title="ENTERTAINMENT",Court TV (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-COURTTV/index.m3u8
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="" group-title="ENTERTAINMENT",BBC One
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",
+http
