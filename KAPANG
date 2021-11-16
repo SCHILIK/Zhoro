@@ -1,5 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="***** KAPANGTV UK *****" tvg-logo="https://i2.wp.com/kapang.com/wp-content/uploads/2021/06/kapanglogo2021.png" group-title="KAPANG",***** KAPANGTV UK *****
-https://live.topgold.al/topgold
-#EXTINF:-1 tvg-name="BILLIARD TV" tvg-id="" tvg-logo="https://s3.amazonaws.com/img.prod.mw.kapang.com/images/channel-logo/617043a14a2336000171f15b.PNG" group-title="KAPANG",BILLIARD TV
+#EXTINF:-1 tvg-name="BILLIARD TV" tvg-logo="https://i.imgur.com/FQOtWmo.png" group-title="SPORT",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+#EXTINF:-1 tvg-name="MotoAmerica" tvg-logo="https://i.imgur.com/zpqNxZP.png" group-title="SPORT",MotoAmerica
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1 tvg-name="LSN" tvg-logo="https://i.imgur.com/E6TxgTk.png" group-title="SPORT",LSN
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/ShC6yv6.png" group-title="SPORT",Real Madrid TV
+https://gpuserver003.broadcastcdn.net/CLOUDIETV-REALMADRIDTV/index.m3u8
+#EXTINF:-1 tvg-name="FreeSports" tvg-logo="https://i.imgur.com/6wvcBdB.png" group-title="SPORT",FreeSports
+https://gpuserver003.broadcastcdn.net/KUK-FREESPORTSHD/index.m3u8
+#EXTINF:-1 tvg-name="Sporty Stuff" tvg-logo="https://i.imgur.com/KnJqFCY.png" group-title="SPORT",Sporty Stuff
+https://cdnuk001.broadcastcdn.net/KUK-SPORTYSTUFF/index.m3u8
+#EXTINF:-1 tvg-name="FTF International" tvg-logo="https://i.imgur.com/Zzqfbv9.png" group-title="SPORT",FTF International
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 tvg-name="MotorRacing" tvg-logo="https://i.imgur.com/VK4RlSL.png" group-title="SPORT",MotorRacing
+https://a.jsrdn.com/broadcast/j7h4gFbd4/%2B0700/high/c.m3u8
+#EXTINF:-1 tvg-name="HorizonSports" tvg-logo="https://i.imgur.com/5kaY2wv.png" group-title="SPORT",HorizonSports
+https://a.jsrdn.com/broadcast/20dc4269f3/%2B0700/high/c.m3u8
+#EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/njUUYay.png" group-title="SPORT",The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/%2B0700/high/c.m3u8
+#EXTINF:-1 tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/VlipdBC.png" group-title="SPORT",Fuel TV
+https://gpuserver003.broadcastcdn.net/KUK-FUEL/index.m3u8
+#EXTINF:-1 tvg-name="Hard Knocks" tvg-logo="https://i.imgur.com/tkSOrNe.jpg" group-title="SPORT",Hard Knocks
+https://gpuserver001.broadcastcdn.net/KAPANG-FALLBACKVIDEO/index.m3u8
+#EXTINF:-1 tvg-name="RPM" tvg-logo="https://i.imgur.com/qFrx7G5.png" group-title="SPORT",RPM
+https://gpuserver004.broadcastcdn.net/AFRICAXP-RPM/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+http
