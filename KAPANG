@@ -10,7 +10,7 @@ https://gpuserver003.broadcastcdn.net/CLOUDIETV-REALMADRIDTV/index.m3u8
 #EXTINF:-1 tvg-name="FreeSports" tvg-logo="https://i.imgur.com/6wvcBdB.png" group-title="SPORT",FreeSports
 https://gpuserver003.broadcastcdn.net/KUK-FREESPORTSHD/index.m3u8
 #EXTINF:-1 tvg-name="Sporty Stuff" tvg-logo="https://i.imgur.com/KnJqFCY.png" group-title="SPORT",Sporty Stuff
-https://cdnuk001.broadcastcdn.net/KUK-SPORTYSTUFF/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-SPORTYSTUFF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FTF International" tvg-logo="https://i.imgur.com/Zzqfbv9.png" group-title="SPORT",FTF International
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-name="MotorRacing" tvg-logo="https://i.imgur.com/VK4RlSL.png" group-title="SPORT",MotorRacing
