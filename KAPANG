@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="***** KAPANGTV UK *****" tvg-logo="https://i2.wp.com/kapang.com/wp-content/uploads/2021/06/kapanglogo2021.png" group-title="KAPANG",***** KAPANGTV UK *****
+https://live.topgold.al/topgold
+#EXTINF:-1 tvg-name="BILLIARD TV" tvg-id="" tvg-logo="https://s3.amazonaws.com/img.prod.mw.kapang.com/images/channel-logo/617043a14a2336000171f15b.PNG" group-title="KAPANG",BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
