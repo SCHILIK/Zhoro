@@ -9,7 +9,7 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 https://gpuserver003.broadcastcdn.net/CLOUDIETV-REALMADRIDTV/index.m3u8
 #EXTINF:-1 tvg-name="FreeSports" tvg-logo="https://i.imgur.com/6wvcBdB.png" group-title="SPORT",FreeSports
 https://gpuserver003.broadcastcdn.net/KUK-FREESPORTSHD/index.m3u8
-#EXTINF:-1 tvg-name="Sporty Stuff" tvg-logo="https://i.imgur.com/KnJqFCY.png" group-title="SPORT",Sporty Stuff
+#EXTINF:-1 tvg-name="Sporty Stuff (Geo-UK)" tvg-logo="https://i.imgur.com/KnJqFCY.png" group-title="SPORT",Sporty Stuff (Geo-UK)
 https://cdnuk001.broadcastcdn.net/KUK-SPORTYSTUFF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FTF International" tvg-logo="https://i.imgur.com/Zzqfbv9.png" group-title="SPORT",FTF International
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
@@ -25,17 +25,41 @@ https://gpuserver003.broadcastcdn.net/KUK-FUEL/index.m3u8
 https://gpuserver001.broadcastcdn.net/KAPANG-FALLBACKVIDEO/index.m3u8
 #EXTINF:-1 tvg-name="RPM" tvg-logo="https://i.imgur.com/qFrx7G5.png" group-title="SPORT",RPM
 https://gpuserver004.broadcastcdn.net/AFRICAXP-RPM/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
-http
+#EXTINF:-1 tvg-name="S4C" tvg-logo="https://i.imgur.com/yCKOGX4.png" group-title="LOCAL",S4C
+https://gpuserver003.broadcastcdn.net/KUK-S4C/index.m3u8
+#EXTINF:-1 tvg-name="View TV London" tvg-logo="https://i.imgur.com/okAVkJJ.png" group-title="LOCAL",View TV London
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-VIEWTVONEUK/index.m3u8
+#EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://i.imgur.com/IltZSTe.png" group-title="MUSIC",Now 80s
+https://cdnuk001.broadcastcdn.net/KUK-NOW80S/index.m3u8
+#EXTINF:-1 tvg-name="Trace Hits" tvg-logo="https://i.imgur.com/qcuZ6B5.png" group-title="MUSIC",Trace Hits
+https://cdnuk001.broadcastcdn.net/KUK-TRACEHITS/index.m3u8
+#EXTINF:-1 tvg-name="Vintage Jukebox" tvg-logo="https://i.imgur.com/flPj2sc.jpg" group-title="MUSIC",Vintage Jukebox
+https://gpuserver001.broadcastcdn.net/CLOUDIETV-VINTAGEJUKEBOX/index.m3u8
+#EXTINF:-1 tvg-name="PULSE" tvg-logo="https://i.imgur.com/t0BcKfT.png" group-title="MUSIC",PULSE
+https://gpuserver004.broadcastcdn.net/AFRICAXP-PULSE/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood 00s" tvg-logo="https://i.imgur.com/9mtmHDJ.png" group-title="MUSIC",Rathergood 00s
+https://gpuserver001.broadcastcdn.net/CLOUDIETV-RATHERGOODNOUGHTIES-001/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Dance" tvg-logo="https://i.imgur.com/yMcgh4W.png" group-title="MUSIC",Rathergood Dance
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODDANCE-001/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Dance Classics" tvg-logo="https://i.imgur.com/wAK0RM9.png" group-title="MUSIC",Rathergood Dance Classics
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODDANCECLASSICS-001/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Hits" tvg-logo="https://i.imgur.com/LB133go.png" group-title="MUSIC",Rathergood Hits
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODHITS-001/index.m3u8
+#EXTINF:-1 tvg-name="Rathergood Movies" tvg-logo="https://i.imgur.com/eD79ZQn.png" group-title="MUSIC",Rathergood Movies
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-RATHERGOODMOVIES-001/index.m3u8
+#EXTINF:-1 tvg-name="Christmas 365" tvg-logo="https://i.imgur.com/pxhV0up.jpg" group-title="MUSIC",Christmas 365
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-CHRISTMAS365/index.m3u8
+#EXTINF:-1 tvg-name="Spotlight TV" tvg-logo="https://i.imgur.com/w89WaIQ.png" group-title="MUSIC",Spotlight TV
+https://cdnuk001.broadcastcdn.net/KUK-SPOTLIGHTTV/index.m3u8
+#EXTINF:-1 tvg-name="OFIVE" tvg-logo="https://i.imgur.com/ai4e7zf.png" group-title="MUSIC",OFIVE
+https://cdnuk001.broadcastcdn.net/CLOUDIETV-OFIVE/index.m3u8
+#EXTINF:-1 tvg-name="Film4" tvg-logo="https://i.imgur.com/Kqto6nb.png" group-title="MOVIES",Film4
+https://cdnuk001.broadcastcdn.net/KUK-FILM4/index.m3u8
+#EXTINF:-1 tvg-name="Great! movies" tvg-logo="https://i.imgur.com/aEDJsaN.png" group-title="MOVIES",Great! movies
+https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/index.m3u8
+#EXTINF:-1 tvg-name="Great! movies action" tvg-logo="https://i.imgur.com/9GNevjd.png" group-title="MOVIES",Great! movies action
+https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/index.m3u8
+#EXTINF:-1 tvg-name="Great! movies classic" tvg-logo="https://i.imgur.com/8T81DS9.png" group-title="MOVIES",Great! movies classic
+https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/index.m3u8
+#EXTINF:-1 tvg-name="Lone Star" tvg-logo="https://i.imgur.com/5WWcrXJ.png" group-title="MOVIES",Lone Star
+https://gpuserver003.broadcastcdn.net/CLOUDIETV-LONESTAR/index.m3u8
