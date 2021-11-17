@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SCHILIK
-- DISTRO TV LINK https://is.gd/DISTROTV
+- DISTRO TV LINK https://is.gd/DISTROTV EPG:https://cutt.ly/DistroTVepg
 - KAPANG TV LINK https://is.gd/KAPANGTV
