@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U ( Distro EPG https://cutt.ly/DistroTVepg )
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="Entertainment",Ace
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGBest of British TV" tvg-name="Best Of British TV" tvg-logo="https://a.jsrdn.com/hls/22913/best-of-british/logo_20210119_204821_70.png" group-title="Entertainment",Best Of British TV
