@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @SCHILIK
+- DISTRO TV LINK https://is.gd/DISTROTV
+- KAPANG TV LINK https://is.gd/KAPANGTV
