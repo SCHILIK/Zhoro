@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-name="★★★★ ALBANIA ★★★★" tvg-logo="https://i.imgur.com/gWTuVrE.png" group-title="ALBANIA",★★★★ ALBANIA ★★★★
 https://live.topgold.al/topgold
 #EXTINF:-1 tvg-name="21 Macedonia" tvg-id="" tvg-logo="https://i.imgur.com/5793gRM.png" group-title="ALBANIA",21 Macedonia
-http://us.bestvideostreaming.is/8748/playlist.m3u8
+http://us.bestvideostreaming.is/8748/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="21 Mix" tvg-id="" tvg-logo="https://i.imgur.com/6AVnREY.png" group-title="ALBANIA",21 Mix
-http://us.bestvideostreaming.is/8756/index.m3u8
+http://us.bestvideostreaming.is/8756/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="21 Plus" tvg-id="" tvg-logo="https://i.imgur.com/MGhTraO.png" group-title="ALBANIA",21 Plus
-http://us.bestvideostreaming.is/8750/index.m3u8
+http://us.bestvideostreaming.is/8750/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="21 Popullore" tvg-id="" tvg-logo="https://i.imgur.com/yRhawJE.png" group-title="ALBANIA",21 Popullore
-http://us.bestvideostreaming.is/8749/playlist.m3u8
+http://us.bestvideostreaming.is/8749/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="ALBANIA",ABC News
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-name="AdriaNet" tvg-id="" tvg-logo="https://i.imgur.com/s56At7J.png" group-title="ALBANIA",AdriaNet
@@ -20,7 +20,7 @@ http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-name="AlbKanale Music TV" tvg-id="" tvg-logo="https://i.imgur.com/CsPeSRT.png" group-title="ALBANIA",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-name="AlbTV USA" tvg-id="" tvg-logo="https://i.imgur.com/iWjchEw.png" group-title="ALBANIA",AlbTV USA
-http://us.bestvideostreaming.is/8711/index.m3u8
+http://us.bestvideostreaming.is/8711/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ALBUK TV" tvg-id="" tvg-logo="https://i.imgur.com/juC4lkA.jpg" group-title="ALBANIA",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ALPO" tvg-id="" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="ALBANIA",ALPO
