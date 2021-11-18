@@ -2409,6 +2409,12 @@ https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 #EXTINF:-1 tvg-name="THE Voice (BG)" tvg-logo="https://i.imgur.com/S38VlNV.png" group-title="MUSIC",THE Voice (BG)
 https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
 
+#EXTINF:-1 group-title="MUSIC",KISS (UK)
+http://45.153.35.204:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="MUSIC",NOW 70s (UK)
+http://45.153.35.204:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="MUSIC",NOW 80s (UK)
+http://45.153.35.204:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV (UK)
 http://45.153.35.204:8000/play/a0cy/index.m3u8
 #EXTINF:-1 group-title="MUSIC",MTV BASE (UK)
