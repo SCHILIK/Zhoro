@@ -39,48 +39,12 @@ http://45.153.35.204:8000/play/a0ba/index.m3u8
 http://45.153.35.204:8000/play/a0b4/index.m3u8
 #EXTINF:-1,BBC 6 Music
 http://45.153.35.204:8000/play/a01n/index.m3u8
-#EXTINF:-1,BBC Four
-http://45.153.35.204:8000/play/a015/index.m3u8
-#EXTINF:-1,BBC Four HD
-http://45.153.35.204:8000/play/a0j2/index.m3u8
 #EXTINF:-1,BBC NEWS HD
 http://45.153.35.204:8000/play/a0j0/index.m3u8
 #EXTINF:-1,BBC News
 http://45.153.35.204:8000/play/a021/index.m3u8
 #EXTINF:-1,BBC One Cambridge
 http://45.153.35.204:8000/play/a017/index.m3u8
-#EXTINF:-1,BBC One Channel Islands
-http://45.153.35.204:8000/play/a018/index.m3u8
-#EXTINF:-1,BBC One East
-http://45.153.35.204:8000/play/a01f/index.m3u8
-#EXTINF:-1,BBC One HD
-http://45.153.35.204:8000/play/a02b/index.m3u8
-#EXTINF:-1,BBC One London
-http://45.153.35.204:8000/play/a00y/index.m3u8
-#EXTINF:-1,BBC One North Ireland HD
-http://45.153.35.204:8000/play/a02c/index.m3u8
-#EXTINF:-1,BBC One Northern Ireland
-http://45.153.35.204:8000/play/a022/index.m3u8
-#EXTINF:-1,BBC One Oxford
-http://45.153.35.204:8000/play/a020/index.m3u8
-#EXTINF:-1,BBC One ScotHD
-http://45.153.35.204:8000/play/a0iy/index.m3u8
-#EXTINF:-1,BBC One South
-http://45.153.35.204:8000/play/a01y/index.m3u8
-#EXTINF:-1,BBC One South West
-http://45.153.35.204:8000/play/a01z/index.m3u8
-#EXTINF:-1,BBC One Wal HD
-http://45.153.35.204:8000/play/a0iz/index.m3u8
-#EXTINF:-1,BBC One Wales
-http://45.153.35.204:8000/play/a01h/index.m3u8
-#EXTINF:-1,BBC One West
-http://45.153.35.204:8000/play/a016/index.m3u8
-#EXTINF:-1,BBC One West Midlands
-http://45.153.35.204:8000/play/a01e/index.m3u8
-#EXTINF:-1,BBC One West Midlands
-http://45.153.35.204:8000/play/a01d/index.m3u8
-#EXTINF:-1,BBC One West Midlands
-http://45.153.35.204:8000/play/a01c/index.m3u8
 #EXTINF:-1,BBC Parliament
 http://45.153.35.204:8000/play/a01g/index.m3u8
 #EXTINF:-1,BBC R Cymru
@@ -101,16 +65,8 @@ http://45.153.35.204:8000/play/a01k/index.m3u8
 http://45.153.35.204:8000/play/a01o/index.m3u8
 #EXTINF:-1,BBC R4 FM
 http://45.153.35.204:8000/play/a01l/index.m3u8
-#EXTINF:-1,BBC R4 LW
-http://45.153.35.204:8000/play/a01m/index.m3u8
 #EXTINF:-1,BBC Red Button 1
 http://45.153.35.204:8000/play/a019/index.m3u8
-#EXTINF:-1,BBC Two England
-http://45.153.35.204:8000/play/a01a/index.m3u8
-#EXTINF:-1,BBC Two HD
-http://45.153.35.204:8000/play/a02a/index.m3u8
-#EXTINF:-1,BBC Two Northern Ireland
-http://45.153.35.204:8000/play/a023/index.m3u8
 #EXTINF:-1,BBC Two Wales
 http://45.153.35.204:8000/play/a01i/index.m3u8
 #EXTINF:-1,BBC Two Wales HD
@@ -223,16 +179,6 @@ http://45.153.35.204:8000/play/a08q/index.m3u8
 http://45.153.35.204:8000/play/a0e0/index.m3u8
 #EXTINF:-1,Channel 4 HD
 http://45.153.35.204:8000/play/a0j7/index.m3u8
-#EXTINF:-1,Channel 4 London
-http://45.153.35.204:8000/play/a00l/index.m3u8
-#EXTINF:-1,Channel 4 Midlands
-http://45.153.35.204:8000/play/a00n/index.m3u8
-#EXTINF:-1,Channel 4 North
-http://45.153.35.204:8000/play/a00o/index.m3u8
-#EXTINF:-1,Channel 4 Scotland
-http://45.153.35.204:8000/play/a00p/index.m3u8
-#EXTINF:-1,Channel 4 South & East
-http://45.153.35.204:8000/play/a00m/index.m3u8
 #EXTINF:-1,Channel 5
 http://45.153.35.204:8000/play/a066/index.m3u8
 #EXTINF:-1,Channel 5 HD
@@ -253,8 +199,6 @@ http://45.153.35.204:8000/play/a0d1/index.m3u8
 http://45.153.35.204:8000/play/a08b/index.m3u8
 #EXTINF:-1,ComedyXtra
 http://45.153.35.204:8000/play/a0d5/index.m3u8
-#EXTINF:-1,ComedyXtra
-http://45.153.35.204:8000/play/a086/index.m3u8
 #EXTINF:-1,Court TV
 http://45.153.35.204:8000/play/a0bp/index.m3u8
 #EXTINF:-1,Craft Extra
@@ -299,8 +243,6 @@ http://45.153.35.204:8000/play/a0am/index.m3u8
 http://45.153.35.204:8000/play/a0dd/index.m3u8
 #EXTINF:-1,Faith World TV
 http://45.153.35.204:8000/play/a0bt/index.m3u8
-#EXTINF:-1,Film4
-http://45.153.35.204:8000/play/a00q/index.m3u8
 #EXTINF:-1,Foodxp
 http://45.153.35.204:8000/play/a0c1/index.m3u8
 #EXTINF:-1,Forces TV
@@ -355,36 +297,6 @@ http://45.153.35.204:8000/play/a07c/index.m3u8
 http://45.153.35.204:8000/play/a06u/index.m3u8
 #EXTINF:-1,ID+1
 http://45.153.35.204:8000/play/a06m/index.m3u8
-#EXTINF:-1,ITV 1 Anglia West HD
-http://45.153.35.204:8000/play/a07z/index.m3u8
-#EXTINF:-1,ITV 1 Central East HD
-http://45.153.35.204:8000/play/a080/index.m3u8
-#EXTINF:-1,ITV 1 Central West +1
-http://45.153.35.204:8000/play/a02o/index.m3u8
-#EXTINF:-1,ITV 1 Granada
-http://45.153.35.204:8000/play/a02n/index.m3u8
-#EXTINF:-1,ITV 1 Granada HD
-http://45.153.35.204:8000/play/a06y/index.m3u8
-#EXTINF:-1,ITV 1 London
-http://45.153.35.204:8000/play/a02l/index.m3u8
-#EXTINF:-1,ITV 1 London +1
-http://45.153.35.204:8000/play/a02r/index.m3u8
-#EXTINF:-1,ITV 1 Meridian East
-http://45.153.35.204:8000/play/a02q/index.m3u8
-#EXTINF:-1,ITV 1 Meridian North HD
-http://45.153.35.204:8000/play/a07w/index.m3u8
-#EXTINF:-1,ITV 1 Meridian South HD
-http://45.153.35.204:8000/play/a07v/index.m3u8
-#EXTINF:-1,ITV 1 Tyne Tees HD
-http://45.153.35.204:8000/play/a06z/index.m3u8
-#EXTINF:-1,ITV 1 Wales
-http://45.153.35.204:8000/play/a02p/index.m3u8
-#EXTINF:-1,ITV 1 West Country East HD
-http://45.153.35.204:8000/play/a071/index.m3u8
-#EXTINF:-1,ITV 1 West Country West HD
-http://45.153.35.204:8000/play/a070/index.m3u8
-#EXTINF:-1,ITV Border Scotland
-http://45.153.35.204:8000/play/a02k/index.m3u8
 #EXTINF:-1,ITV HD
 http://45.153.35.204:8000/play/a07x/index.m3u8
 #EXTINF:-1,ITV Wales HD
