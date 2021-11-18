@@ -117,7 +117,7 @@ http://95.107.132.105/out/u/581_1.m3u8
 #EXTINF:-1 tvg-name="Kanali 10" tvg-id="" tvg-logo="https://i.imgur.com/cN0HHIK.jpeg" group-title="ALBANIA",Kanali 10
 http://us.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1 tvg-name="Klan" tvg-id="KLAN.al" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan
-http://us.bestvideostreaming.is/8704/playlist.m3u8
+http://us.bestvideostreaming.is/8704/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Klan HD" tvg-id="KLAN.al" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="ALBANIA",Klan HD
 http://93.157.62.180/TVKlanHD/index.m3u8
 #EXTINF:-1 tvg-name="Klan Kosova" tvg-id="KlanKosova.al" tvg-logo="https://i.imgur.com/umtl5FQ.png" group-title="ALBANIA",Klan Kosova
