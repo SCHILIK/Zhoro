@@ -333,6 +333,24 @@ http://us.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
 
+#EXTINF:-1 tvg-name="★★★★ ATMOSPHERE TV ★★★★" tvg-logo="https://i.imgur.com/fvrhPT8.jpg" group-title="ATMOSPHERE",★★★★ ATMOSPHERE TV ★★★★
+** https://atmosphere.tv/channels **
+#EXTINF:-1 tvg-name="Atmosphere News" tvg-logo="https://i.imgur.com/lNz2sfY.png" group-title="ATMOSPHERE",Atmosphere News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/atmosphere-atmosphere-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="CHIVE TV" tvg-logo="https://i.imgur.com/4UeB3Ej.jpg" group-title="ATMOSPHERE",CHIVE TV
+https://cdnapisec.kaltura.com/p/1289861/sp/128986100/playManifest/entryId/0_qruuoww6/flavorIds/0_t1c8g4u6,0_c43yoh0n,0_1n7ft5uu,0_wct4p23o,0_t2h2ivgx,0_ifismxta/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9hdG1vc3BoZXJlLnR2&playSessionId=9d8ba03a-cd56-e906-e2f9-402448622371&clientTag=html5:v2.81.1&uiConfId=43313261
+#EXTINF:-1 tvg-name="Beach Bum TV" tvg-logo="https://i.imgur.com/ytXTQWj.jpg" group-title="ATMOSPHERE",Beach Bum TV
+https://cdnapisec.kaltura.com/p/1289861/sp/128986100/playManifest/entryId/0_gttuim7s/flavorIds/0_kcmlq6fr,0_x1yk3kcf,0_6yb8pcpp,0_p2x6he9f,0_8xt6la0n,0_ljzjn2yh/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9hdG1vc3BoZXJlLnR2&playSessionId=d3007e94-ad2e-910b-fb50-9d2ae538eff2&clientTag=html5:v2.81.1&uiConfId=43313261
+#EXTINF:-1 tvg-name="Drone TV" tvg-logo="https://i.imgur.com/VMgTqv9.jpg" group-title="ATMOSPHERE",Drone TV
+https://resignationmedia-vod.akamaized.net/s/hls/p/1289861/sp/128986100/serveFlavor/entryId/1_wwdjfya3/v/1/ev/5/flavorId/1_rmbufwk2/name/a.mp4/index.m3u8?__hdnea__=st=1637260265~exp=1637346665~acl=/s/hls/p/1289861/sp/128986100/serveFlavor/entryId/1_wwdjfya3/v/1/ev/5/flavorId/1_*~hmac=b41398fa3df9c2d5525b7698e2cf2c7d055ba356db4515cc44eed58cf8c1cf46#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ATMOSPHERE",
+http:
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ATMOSPHERE",
+http:
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ATMOSPHERE",
+http:
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ATMOSPHERE",
+http:
+
 #EXTINF:-1 tvg-name="★★★★ SAMSUNGTV+FR ★★★★" tvg-logo="https://i.imgur.com/SwfoxrK.jpg" group-title="SAMSUNGTV+FR",★★★★ SAMSUNGTV+FR ★★★★
 https://
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml.gz"
