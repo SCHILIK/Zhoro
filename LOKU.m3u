@@ -15,6 +15,9 @@ https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 http://79.106.48.2:4578/live/adriamed/playlist.m3u8
 #EXTINF:-1 tvg-name="ALB Music" tvg-id="" tvg-logo="https://i.imgur.com/7TWTJfG.png" group-title="ALBANIA",ALB Music
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AlbFilm 1" tvg-id="" tvg-logo="https://i.imgur.com/rrMKTAX.png" group-title="ALBANIA",AlbFilm 1
+#EXTVLCOPT:http-referrer=https://tvmak.com/
+https://t1.tvmak.com/tv/ALBFILMTV1.m3u8
 #EXTINF:-1 tvg-name="AlbDreams TV" tvg-id="" tvg-logo="https://i.imgur.com/3hGevWa.png" group-title="ALBANIA",AlbDreams TV
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-name="AlbKanale Music TV" tvg-id="" tvg-logo="https://i.imgur.com/CsPeSRT.png" group-title="ALBANIA",AlbKanale Music TV
