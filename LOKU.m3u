@@ -72,6 +72,8 @@ http://us.bestvideostreaming.is/8718/index.m3u8
 http://us.bestvideostreaming.is/8719/index.m3u8
 #EXTINF:-1 tvg-name="Eurofilm HD" tvg-id="" tvg-logo="https://i.imgur.com/EYxwrun.png" group-title="ALBANIA",Eurofilm HD
 http://us.bestvideostreaming.is/8758/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Albania" tvg-id="" tvg-logo="https://i.imgur.com/0S3Q7wP.png" group-title="ALBANIA",Euronews Albania
+https://naimi.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y0xx1q1080/index.m3u8
 #EXTINF:-1 tvg-name="Explorer Histori" tvg-id="" tvg-logo="https://i.imgur.com/FyUwKxj.png" group-title="ALBANIA",Explorer Histori
 http://us.bestvideostreaming.is/8729/index.m3u8
 #EXTINF:-1 tvg-name="Explorer Natyra" tvg-id="" tvg-logo="https://i.imgur.com/pVfbbmU.png" group-title="ALBANIA",Explorer Natyra
