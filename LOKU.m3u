@@ -2139,6 +2139,8 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-name="MUSIC+ (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",MUSIC+ (HU)
 http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 tvg-name="Music Library" tvg-logo="https://i.imgur.com/yndZKcD.jpg" group-title="MUSIC",Music Library
+https://dvrfl01.tulix.tv/musiclibrary/index.m3u8
 #EXTINF:-1 tvg-name="Music Top (AR)" tvg-logo="https://i.imgur.com/h8wq2Xo.png" group-title="MUSIC",Music Top (AR)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Music Video" tvg-logo="https://i.imgur.com/9NkCSlf.jpg" group-title="MUSIC",Music Video
