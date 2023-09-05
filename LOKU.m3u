@@ -43,7 +43,6 @@ http://us.bestvideostreaming.is/8709/playlist.m3u8
 http://us.bestvideostreaming.is/8737/playlist.m3u8
 #EXTINF:-1 tvg-name="BBF Music TV" tvg-id="" tvg-logo="https://i.imgur.com/IPaY8cY.png" group-title="ALBANIA",BBF Music TV
 http://us.bestvideostreaming.is/8795/index.m3u8
-http://93.157.62.180/BBFMusic/index.m3u8
 #EXTINF:-1 tvg-name="BB VIP 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB VIP 1
 http://us.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1 tvg-name="BB vip 1" tvg-id="" tvg-logo="https://i.imgur.com/HIt1pjY.png" group-title="ALBANIA",BB vip 1
@@ -64,6 +63,8 @@ http://us.bestvideostreaming.is/8779/playlist.m3u8
 http://us.bestvideostreaming.is/8888/playlist.m3u8
 #EXTINF:-1 tvg-name="Drita TV" tvg-id="" tvg-logo="https://i.imgur.com/N4WAwFh.png" group-title="ALBANIA",Drita TV
 https://nesertv.live/DRITATV-5879/playlist.m3u8
+#EXTINF:-1 tvg-name="Drita TV" tvg-id="" tvg-logo="https://i.imgur.com/N4WAwFh.png" group-title="ALBANIA",Drita TV
+http://us.bestvideostreaming.is/8817/playlist.m3u8
 #EXTINF:-1 tvg-name="Dukagjini" tvg-id="" tvg-logo="https://i.imgur.com/bMqcaQh.png" group-title="ALBANIA",Dukagjini
 http://us.bestvideostreaming.is/8788/playlist.m3u8
 #EXTINF:-1 tvg-name="Elrodi TV" tvg-id="" tvg-logo="https://i.imgur.com/27DBNRX.jpg" group-title="ALBANIA",Elrodi TV
@@ -191,7 +192,7 @@ http://79.106.48.2:4578/live/rtsh_korca_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Kukesi" tvg-id="" tvg-logo="https://i.imgur.com/QCu0SdX.png" group-title="ALBANIA",RTSH Kukesi
 http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Muzike" tvg-id="" tvg-logo="https://i.imgur.com/dzD11t4.png" group-title="ALBANIA",RTSH Muzike
-http://79.106.48.2:4578/live/rtsh_muzike_mob_p1/playlist.m3u8
+http://us.bestvideostreaming.is/8052/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Plus" tvg-id="RTSHPlus.al" tvg-logo="https://i.imgur.com/2dsNgMQ.png" group-title="ALBANIA",RTSH Plus
 http://79.106.48.2:4578/live/rtsh_plus_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Sat" tvg-id="" tvg-logo="https://i.imgur.com/BMRr75e.png" group-title="ALBANIA",RTSH Sat
@@ -252,6 +253,8 @@ https://tv.syri.net/syrilive/webtv/playlist.m3u8
 http://us.bestvideostreaming.is/8784/index.m3u8
 #EXTINF:-1 tvg-name="T HD" tvg-id="" tvg-logo="https://i.imgur.com/ok8spDi.png" group-title="ALBANIA",T HD
 http://us.bestvideostreaming.is/8746/playlist.m3u8
+#EXTINF:-1 tvg-name="Tao Tao" tvg-id="" tvg-logo="https://i.imgur.com/UpJ4Lxf.png" group-title="ALBANIA",Tao Tao
+http://us.bestvideostreaming.is/10090/playlist.m3u8
 #EXTINF:-1 tvg-name="Teuta TV" tvg-id="" tvg-logo="https://i.imgur.com/aqfZ0x5.png" group-title="ALBANIA",Teuta TV
 http://143.244.204.5/tvteuta/index.m3u8
 #EXTINF:-1 tvg-name="Tip TV" tvg-id="" tvg-logo="https://i.imgur.com/bF2QWAk.png" group-title="ALBANIA",Tip TV
@@ -312,6 +315,8 @@ http://us.bestvideostreaming.is/8839/index.m3u8
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Dielli" tvg-id="" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-name="TV Dielli" tvg-id="" tvg-logo="https://i.imgur.com/XQkIM5j.jpg" group-title="ALBANIA",TV Dielli
+http://us.bestvideostreaming.is/8818/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Johaniter" tvg-id="" tvg-logo="https://i.imgur.com/CcPBKet.png" group-title="ALBANIA",TV Johaniter
 https://nesertv.live/webstream/index.m3u8
 #EXTINF:-1 tvg-name="TV Llapi" tvg-id="" tvg-logo="https://i.imgur.com/M9DZlWA.png" group-title="ALBANIA",TV Llapi
@@ -326,7 +331,7 @@ http://uk4.streamingpulse.com:1935/TVSHARRI/TVSHARRI/playlist.m3u8
 http://us.bestvideostreaming.is/8850/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Tema" tvg-id="" tvg-logo="https://i.imgur.com/NVgJS5X.jpg" group-title="ALBANIA",TV Tema
 http://134.209.238.38/hls/test.m3u8
-#EXTINF:-1 tvg-name="Vizion Plus HD" tvg-id="VizionPlus.al" tvg-logo="https://i.imgur.com/Mh9wROB.png" group-title="ALBANIA",Vizion Plus HD
+#EXTINF:-1 tvg-name="Vizion Plus HD" tvg-id="" tvg-logo="https://i.imgur.com/Mh9wROB.png" group-title="ALBANIA",Vizion Plus HD
 http://95.107.132.106/out/u/646_5.m3u8
 #EXTINF:-1 tvg-name="Vizion+" tvg-id="VizionPlus.al" tvg-logo="https://i.imgur.com/Q2MZPab.png" group-title="ALBANIA",Vizion+
 http://us.bestvideostreaming.is/8703/index.m3u8
