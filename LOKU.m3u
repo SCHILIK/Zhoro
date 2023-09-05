@@ -266,6 +266,8 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 http://us.bestvideostreaming.is/8773/index.m3u8
 #EXTINF:-1 tvg-name="Tring Action" tvg-id="" tvg-logo="https://i.imgur.com/sutPP11.png" group-title="ALBANIA",Tring Action
 http://us.bestvideostreaming.is/8769/index.m3u8
+#EXTINF:-1 tvg-name="Tring Collection" tvg-id="" tvg-logo="https://imgur.com/1CwlfHd.png" group-title="ALBANIA",Tring Collection
+http://us.bestvideostreaming.is/8813/index.m3u8
 #EXTINF:-1 tvg-name="Tring Comedy" tvg-id="" tvg-logo="https://i.imgur.com/FxaF5j0.png" group-title="ALBANIA",Tring Comedy
 http://us.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1 tvg-name="Tring Fantasy" tvg-id="" tvg-logo="https://i.imgur.com/gCFHoYM.png" group-title="ALBANIA",Tring Fantasy
@@ -296,6 +298,8 @@ http://us.bestvideostreaming.is/8796/index.m3u8
 http://us.bestvideostreaming.is/8797/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport News HD" tvg-id="" tvg-logo="https://i.imgur.com/yAG1sS5.png" group-title="ALBANIA",Tring Sport News HD
 http://us.bestvideostreaming.is/8785/index.m3u8
+#EXTINF:-1 tvg-name="Tring Stories" tvg-id="" tvg-logo="https://i.imgur.com/LM79CPF.png" group-title="ALBANIA",Tring Stories
+http://us.bestvideostreaming.is/8814/index.m3u8
 #EXTINF:-1 tvg-name="Tring Super" tvg-id="TringSuper.al" tvg-logo="https://i.imgur.com/Gz1YyLw.png" group-title="ALBANIA",Tring Super
 http://us.bestvideostreaming.is/8770/index.m3u8
 #EXTINF:-1 tvg-name="Tring Tring" tvg-id="" tvg-logo="https://i.imgur.com/5j9cF0E.png" group-title="ALBANIA",Tring Tring
