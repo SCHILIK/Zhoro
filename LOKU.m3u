@@ -156,7 +156,7 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Opoja TV" tvg-id="" tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="ALBANIA",Opoja TV
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-name="ORA News" tvg-id="OraNews.al" tvg-logo="https://i.imgur.com/2R7i4qo.png" group-title="ALBANIA",ORA News
-http://93.157.62.180/OraNews/index.m3u8
+http://us.bestvideostreaming.is/8715/playlist.m3u8
 #EXTINF:-1 tvg-name="Peace TV" tvg-id="" tvg-logo="https://i.imgur.com/lP4HZL0.png" group-title="ALBANIA",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-name="Premium" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium
@@ -164,9 +164,9 @@ https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:-1 tvg-name="Premium Travel" tvg-id="" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium Travel
 https://premiummedia.al/stream/premium-travel/live.m3u8
 #EXTINF:-1 tvg-name="Report TV" tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/Ac4Hfui.jpg" group-title="ALBANIA",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
+http://us.bestvideostreaming.is/8707/playlist.m3u8
 #EXTINF:-1 tvg-name="RTK 1" tvg-id="" tvg-logo="https://i.imgur.com/HyyO4Qw.png" group-title="ALBANIA",RTK 1
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+http://us.bestvideostreaming.is/8702/playlist.m3u8
 #EXTINF:-1 tvg-name="RTK 2" tvg-id="" tvg-logo="https://i.imgur.com/QZSxxH9.png" group-title="ALBANIA",RTK 2
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTK 3" tvg-id="" tvg-logo="https://i.imgur.com/Jaep9ly.png" group-title="ALBANIA",RTK 3
@@ -196,7 +196,7 @@ http://us.bestvideostreaming.is/8052/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Plus" tvg-id="RTSHPlus.al" tvg-logo="https://i.imgur.com/2dsNgMQ.png" group-title="ALBANIA",RTSH Plus
 http://79.106.48.2:4578/live/rtsh_plus_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Sat" tvg-id="" tvg-logo="https://i.imgur.com/BMRr75e.png" group-title="ALBANIA",RTSH Sat
-http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
+http://us.bestvideostreaming.is/8701/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Shkodra" tvg-id="" tvg-logo="https://i.imgur.com/uOb5z9V.png" group-title="ALBANIA",RTSH Shkodra
 http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Shqip" tvg-id="RTSHShqip.al" tvg-logo="https://i.imgur.com/EjXxjaP.png" group-title="ALBANIA",RTSH Shqip
@@ -257,6 +257,8 @@ http://us.bestvideostreaming.is/8746/playlist.m3u8
 http://us.bestvideostreaming.is/10090/playlist.m3u8
 #EXTINF:-1 tvg-name="Teuta TV" tvg-id="" tvg-logo="https://i.imgur.com/aqfZ0x5.png" group-title="ALBANIA",Teuta TV
 http://143.244.204.5/tvteuta/index.m3u8
+#EXTINF:-1 tvg-name="teve SHQIP" tvg-id="" tvg-logo="https://i.imgur.com/MfsgSa0.png" group-title="ALBANIA",teve SHQIP
+http://us.bestvideostreaming.is/8721/playlist.m3u8
 #EXTINF:-1 tvg-name="Tip TV" tvg-id="" tvg-logo="https://i.imgur.com/bF2QWAk.png" group-title="ALBANIA",Tip TV
 http://us.bestvideostreaming.is/8776/index.m3u8
 #EXTINF:-1 tvg-name="TOP Channel" tvg-id="TopChannel.al" tvg-logo="https://i.imgur.com/85ollse.jpg" group-title="ALBANIA",TOP Channel
