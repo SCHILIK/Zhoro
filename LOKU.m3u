@@ -3965,3 +3965,5 @@ http://151.248.16.100:4444/KabelEins/index.m3u8
 http://151.248.16.100:4444/MTV90s/index.m3u8
 #EXTINF:-1,Pro7MAXX
 http://151.248.16.100:4444/Pro7MAXX/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://185.235.187.11:8888/play/match_futbol3_HD/index.m3u8
