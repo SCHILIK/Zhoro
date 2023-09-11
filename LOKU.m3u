@@ -49,6 +49,8 @@ http://us.bestvideostreaming.is/8795/index.m3u8
 http://us.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1 tvg-name="BB VIP 2" tvg-id="" tvg-logo="https://i.imgur.com/v1gdqE9.png" group-title="ALBANIA",BB VIP 2
 http://us.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1 tvg-name="CNA TV" tvg-id="" tvg-logo="https://i.imgur.com/vu755hm.png" group-title="ALBANIA",CNA TV
+http://193.38.33.29:8099/play/a00e
 #EXTINF:-1 tvg-name="Contact Vision TV" tvg-id="" tvg-logo="https://i.imgur.com/NrbRO5E.png" group-title="ALBANIA",Contact Vision TV
 http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cufo TV" tvg-id="Cufo.al" tvg-logo="https://i.imgur.com/xXlrzEo.png" group-title="ALBANIA",Cufo TV
@@ -123,8 +125,10 @@ http://us.bestvideostreaming.is/8704/index.m3u8
 http://93.157.62.180/TVKlanHD/index.m3u8
 #EXTINF:-1 tvg-name="Klan Kosova" tvg-id="KlanKosova.al" tvg-logo="https://i.imgur.com/umtl5FQ.png" group-title="ALBANIA",Klan Kosova
 http://93.157.62.180/KlanKosova/index.m3u8
-#EXTINF:-1 tvg-name="Klan Maçedonia" tvg-id="KlanMacedonia.al" tvg-logo="https://i.imgur.com/nl7zjjD.png" group-title="ALBANIA",Klan Maçedonia
+#EXTINF:-1 tvg-name="Klan Maçedonia" tvg-id="" tvg-logo="https://i.imgur.com/nl7zjjD.png" group-title="ALBANIA",Klan Maçedonia
 http://us.bestvideostreaming.is/8789/index.m3u8
+#EXTINF:-1 tvg-name="Klan Music" tvg-id="" tvg-logo="https://i.imgur.com/eXxtO2J.png" group-title="ALBANIA",Klan Music
+http://193.38.33.29:8099/play/a008
 #EXTINF:-1 tvg-name="Klan Plus" tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1 tvg-name="Klan Plus" tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="ALBANIA",Klan Plus
@@ -176,35 +180,35 @@ http://us.bestvideostreaming.is/8902/playlist.m3u8
 #EXTINF:-1 tvg-name="RTK 4" tvg-id="" tvg-logo="https://i.imgur.com/mEsYfFv.png" group-title="ALBANIA",RTK 4
 http://us.bestvideostreaming.is/8903/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH 1" tvg-id="RTSH1.al" tvg-logo="https://i.imgur.com/hNxtuJu.png" group-title="ALBANIA",RTSH 1
-http://79.106.48.2:4578/live/rtsh_1mob_pp2/playlist.m3u8
+http://193.38.33.29:8099/play/a00g
 #EXTINF:-1 tvg-name="RTSH 2" tvg-id="" tvg-logo="https://i.imgur.com/2hKfbpy.png" group-title="ALBANIA",RTSH 2
-http://79.106.48.2:4578/live/rtsh_2mob_p2/playlist.m3u8
+http://193.38.33.29:8099/play/a00h
 #EXTINF:-1 tvg-name="RTSH 24" tvg-id="RTSH24.al" tvg-logo="https://i.imgur.com/66xEHM3.png" group-title="ALBANIA",RTSH 24
 http://79.106.48.2:4578/live/rtsh_24_mob/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH 3" tvg-id="RTSH3.al" tvg-logo="https://i.imgur.com/uYVw4JJ.png" group-title="ALBANIA",RTSH 3
-http://79.106.48.2:4578/live/rtsh3mobp1/playlist.m3u8
+http://193.38.33.29:8099/play/a00i
 #EXTINF:-1 tvg-name="RTSH Film" tvg-id="" tvg-logo="https://i.imgur.com/ZN5Nyx5.png" group-title="ALBANIA",RTSH Film
-http://79.106.48.2:4578/live/rtsh_film_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00k
 #EXTINF:-1 tvg-name="RTSH Gjirokastra" tvg-id="" tvg-logo="https://i.imgur.com/IdiGGWG.png" group-title="ALBANIA",RTSH Gjirokastra
-http://79.106.48.2:4578/live/rtsh_gjirokastra_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00w
 #EXTINF:-1 tvg-name="RTSH Kids" tvg-id="" tvg-logo="https://i.imgur.com/rqvY7yR.png" group-title="ALBANIA",RTSH Kids
-http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00r
 #EXTINF:-1 tvg-name="RTSH Korça" tvg-id="" tvg-logo="https://i.imgur.com/7XyN6Li.png" group-title="ALBANIA",RTSH Korça
-http://79.106.48.2:4578/live/rtsh_korca_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00v
 #EXTINF:-1 tvg-name="RTSH Kukesi" tvg-id="" tvg-logo="https://i.imgur.com/QCu0SdX.png" group-title="ALBANIA",RTSH Kukesi
-http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00x
 #EXTINF:-1 tvg-name="RTSH Muzike" tvg-id="" tvg-logo="https://i.imgur.com/dzD11t4.png" group-title="ALBANIA",RTSH Muzike
-http://us.bestvideostreaming.is/8052/playlist.m3u8
+http://193.38.33.29:8099/play/a00m
 #EXTINF:-1 tvg-name="RTSH Plus" tvg-id="RTSHPlus.al" tvg-logo="https://i.imgur.com/2dsNgMQ.png" group-title="ALBANIA",RTSH Plus
-http://79.106.48.2:4578/live/rtsh_plus_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00q
 #EXTINF:-1 tvg-name="RTSH Sat" tvg-id="" tvg-logo="https://i.imgur.com/BMRr75e.png" group-title="ALBANIA",RTSH Sat
 http://us.bestvideostreaming.is/8701/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH Shkodra" tvg-id="" tvg-logo="https://i.imgur.com/uOb5z9V.png" group-title="ALBANIA",RTSH Shkodra
-http://79.106.48.2:4578/live/rtsh_shkodra_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00y
 #EXTINF:-1 tvg-name="RTSH Shqip" tvg-id="RTSHShqip.al" tvg-logo="https://i.imgur.com/EjXxjaP.png" group-title="ALBANIA",RTSH Shqip
-http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
+http://193.38.33.29:8099/play/a00l
 #EXTINF:-1 tvg-name="RTSH Sport" tvg-id="" tvg-logo="https://i.imgur.com/o6O1WTo.png" group-title="ALBANIA",RTSH Sport
-https://tvlive.rtsh.dev/live/sport_ott_p3/playlist.m3u8
+http://193.38.33.29:8099/play/a00j
 #EXTINF:-1 tvg-name="RTV Arberia" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia
 https://yayin.haber100.com/P361579059/rtvarberia/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Arberia Mix" tvg-id="" tvg-logo="https://i.imgur.com/YOU4v9G.jpg" group-title="ALBANIA",RTV Arberia Mix
@@ -1638,244 +1642,6 @@ https://gpuserver003.broadcastcdn.net/CLOUDIETV-LONESTAR/index.m3u8
 #EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/6MarDHo.png" group-title="KAPANG",Comedy Dynamics
 https://gpuserver003.broadcastcdn.net/CLOUDIETV-COMEDYDYNAMICS/index.m3u8
 
-#EXTINF:-1 tvg-name="★★★★ NL ★★★★" tvg-logo="https://i.imgur.com/fjDLCzo.jpg" group-title="NL",★★★★ NL ★★★★
-https://
-#EXTINF:-1 group-title="NL",100% NL TV
-http://81.204.1.224:9981/play/a073
-#EXTINF:-1 group-title="NL",192TV
-http://81.204.1.224:9981/play/a07b
-#EXTINF:-1 group-title="NL",1LIVE
-http://81.204.1.224:9981/play/a07t
-#EXTINF:-1 group-title="NL",24Kitchen HD
-http://81.204.1.224:9981/play/a01f
-#EXTINF:-1 group-title="NL",ARD
-http://81.204.1.224:9981/play/a077
-#EXTINF:-1 group-title="NL",ARD HD
-http://81.204.1.224:9981/play/a00g
-#EXTINF:-1 group-title="NL",Aljazeera English
-http://81.204.1.224:9981/play/a084
-#EXTINF:-1 group-title="NL",Animal Planet HD
-http://81.204.1.224:9981/play/a008
-#EXTINF:-1 group-title="NL",BBC First HD
-http://81.204.1.224:9981/play/a01s
-#EXTINF:-1 group-title="NL",BBC One HD
-http://81.204.1.224:9981/play/a00e
-#EXTINF:-1 group-title="NL",BBC Two HD
-http://81.204.1.224:9981/play/a014
-#EXTINF:-1 group-title="NL",Baby TV
-http://81.204.1.224:9981/play/a02a
-#EXTINF:-1 group-title="NL",Boomerang
-http://81.204.1.224:9981/play/a06r
-#EXTINF:-1 group-title="NL",CBS Reality
-http://81.204.1.224:9981/play/a078
-#EXTINF:-1 group-title="NL",CNBC Europe
-http://81.204.1.224:9981/play/a06p
-#EXTINF:-1 group-title="NL",Canvas HD
-http://81.204.1.224:9981/play/a02j
-#EXTINF:-1 group-title="NL",Cartoon Network HD
-http://81.204.1.224:9981/play/a01y
-#EXTINF:-1 group-title="NL",Comedy Central HD
-http://81.204.1.224:9981/play/a00y
-#EXTINF:-1 group-title="NL",DUSK
-http://81.204.1.224:9981/play/a05w
-#EXTINF:-1 group-title="NL",DanceTelevision
-http://81.204.1.224:9981/play/a06q
-#EXTINF:-1 group-title="NL",Discovery HD
-http://81.204.1.224:9981/play/a02i
-#EXTINF:-1 group-title="NL",Discovery Science HD
-http://81.204.1.224:9981/play/a01w
-#EXTINF:-1 group-title="NL",Disney Channel
-http://81.204.1.224:9981/play/a076
-#EXTINF:-1 group-title="NL",Disney Channel HD
-http://81.204.1.224:9981/play/a01t
-#EXTINF:-1 group-title="NL",E! HD
-http://81.204.1.224:9981/play/a01u
-#EXTINF:-1 group-title="NL",ESPN
-http://81.204.1.224:9981/play/a06l
-#EXTINF:-1 group-title="NL",ESPN 2
-http://81.204.1.224:9981/play/a018
-#EXTINF:-1 group-title="NL",ESPN 3
-http://81.204.1.224:9981/play/a04d
-#EXTINF:-1 group-title="NL",ESPN 4
-http://81.204.1.224:9981/play/a019
-#EXTINF:-1 group-title="NL",Euronews
-http://81.204.1.224:9981/play/a085
-#EXTINF:-1 group-title="NL",Eurosport 1 HD
-http://81.204.1.224:9981/play/a02v
-#EXTINF:-1 group-title="NL",Eurosport 2 HD
-http://81.204.1.224:9981/play/a039
-#EXTINF:-1 group-title="NL",Evil Angel
-http://81.204.1.224:9981/play/a05r
-#EXTINF:-1 group-title="NL",Extreme Sports Channel
-http://81.204.1.224:9981/play/a079
-#EXTINF:-1 group-title="NL",FOX HD
-http://81.204.1.224:9981/play/a01a
-#EXTINF:-1 group-title="NL",Family7
-http://81.204.1.224:9981/play/a081
-#EXTINF:-1 group-title="NL",Fashion TV HD
-http://81.204.1.224:9981/play/a00f
-#EXTINF:-1 group-title="NL",Film1 Action HD
-http://81.204.1.224:9981/play/a03n
-#EXTINF:-1 group-title="NL",Film1 Drama HD
-http://81.204.1.224:9981/play/a03l
-#EXTINF:-1 group-title="NL",Film1 Family HD
-http://81.204.1.224:9981/play/a03o
-#EXTINF:-1 group-title="NL",Film1 Premiere HD
-http://81.204.1.224:9981/play/a03p
-#EXTINF:-1 group-title="NL",HISTORY HD
-http://81.204.1.224:9981/play/a01g
-#EXTINF:-1 group-title="NL",Horse & Country TV HD
-http://81.204.1.224:9981/play/a051
-#EXTINF:-1 group-title="NL",ID HD
-http://81.204.1.224:9981/play/a03s
-#EXTINF:-1 group-title="NL",L1TV
-http://81.204.1.224:9981/play/a05f
-#EXTINF:-1 group-title="NL",Love Nature HD
-http://81.204.1.224:9981/play/a03y
-#EXTINF:-1 group-title="NL",MTV 90s
-http://81.204.1.224:9981/play/a07e
-#EXTINF:-1 group-title="NL",MTV HD
-http://81.204.1.224:9981/play/a013
-#EXTINF:-1 group-title="NL",MTV Live HD
-http://81.204.1.224:9981/play/a00i
-#EXTINF:-1 group-title="NL",Mezzo
-http://81.204.1.224:9981/play/a074
-#EXTINF:-1 group-title="NL",MvH Hard
-http://81.204.1.224:9981/play/a05x
-#EXTINF:-1 group-title="NL",MyZen HD
-http://81.204.1.224:9981/play/a082
-#EXTINF:-1 group-title="NL",NDR
-http://81.204.1.224:9981/play/a00p
-#EXTINF:-1 group-title="NL",NDR Kultur
-http://81.204.1.224:9981/play/a07z
-#EXTINF:-1 group-title="NL",NDR1
-http://81.204.1.224:9981/play/a07x
-#EXTINF:-1 group-title="NL",NDR2
-http://81.204.1.224:9981/play/a07y
-#EXTINF:-1 group-title="NL",NPO 1 HD
-http://81.204.1.224:9981/play/a02n
-#EXTINF:-1 group-title="NL",NPO 1 extra HD
-http://81.204.1.224:9981/play/a05v
-#EXTINF:-1 group-title="NL",NPO 2 HD
-http://81.204.1.224:9981/play/a02o
-#EXTINF:-1 group-title="NL",NPO 2 extra HD
-http://81.204.1.224:9981/play/a027
-#EXTINF:-1 group-title="NL",NPO 3 HD
-http://81.204.1.224:9981/play/a02p
-#EXTINF:-1 group-title="NL",NPO Nieuws
-http://81.204.1.224:9981/play/a05b
-#EXTINF:-1 group-title="NL",NPO Politiek
-http://81.204.1.224:9981/play/a05c
-#EXTINF:-1 group-title="NL",NPO Zappelin extra
-http://81.204.1.224:9981/play/a080
-#EXTINF:-1 group-title="NL",Nat Geo WILD HD
-http://81.204.1.224:9981/play/a01h
-#EXTINF:-1 group-title="NL",National Geographic Channel HD
-http://81.204.1.224:9981/play/a02h
-#EXTINF:-1 group-title="NL",Net5 HD
-http://81.204.1.224:9981/play/a06k
-#EXTINF:-1 group-title="NL",Nick Jr.
-http://81.204.1.224:9981/play/a07d
-#EXTINF:-1 group-title="NL",Nick Music
-http://81.204.1.224:9981/play/a06s
-#EXTINF:-1 group-title="NL",Nickelodeon HD
-http://81.204.1.224:9981/play/a037
-#EXTINF:-1 group-title="NL",Nicktoons
-http://81.204.1.224:9981/play/a07c
-#EXTINF:-1 group-title="NL",ONS
-http://81.204.1.224:9981/play/a05d
-#EXTINF:-1 group-title="NL",OUTTV HD
-http://81.204.1.224:9981/play/a041
-#EXTINF:-1 group-title="NL",Omroep Brabant
-http://81.204.1.224:9981/play/a06w
-#EXTINF:-1 group-title="NL",PassieXXX
-http://81.204.1.224:9981/play/a05u
-#EXTINF:-1 group-title="NL",Pebble TV
-http://81.204.1.224:9981/play/a04z
-#EXTINF:-1 group-title="NL",Penthouse Gold
-http://81.204.1.224:9981/play/a05y
-#EXTINF:-1 group-title="NL",RTL 4 HD
-http://81.204.1.224:9981/play/a04b
-#EXTINF:-1 group-title="NL",RTL 5 HD
-http://81.204.1.224:9981/play/a04c
-#EXTINF:-1 group-title="NL",RTL 7 HD
-http://81.204.1.224:9981/play/a00n
-#EXTINF:-1 group-title="NL",RTL 8 HD
-http://81.204.1.224:9981/play/a02s
-#EXTINF:-1 group-title="NL",RTL Crime HD
-http://81.204.1.224:9981/play/a026
-#EXTINF:-1 group-title="NL",RTL Lounge HD
-http://81.204.1.224:9981/play/a05n
-#EXTINF:-1 group-title="NL",RTL Telekids HD
-http://81.204.1.224:9981/play/a05o
-#EXTINF:-1 group-title="NL",RTL Z HD
-http://81.204.1.224:9981/play/a00q
-#EXTINF:-1 group-title="NL",RTV-7
-http://81.204.1.224:9981/play/a057
-#EXTINF:-1 group-title="NL",SBS6 HD
-http://81.204.1.224:9981/play/a01n
-#EXTINF:-1 group-title="NL",SBS9 HD
-http://81.204.1.224:9981/play/a04h
-#EXTINF:-1 group-title="NL",Sat. 1
-http://81.204.1.224:9981/play/a05e
-#EXTINF:-1 group-title="NL",Secret Circle
-http://81.204.1.224:9981/play/a058
-#EXTINF:-1 group-title="NL",Shorts TV HD
-http://81.204.1.224:9981/play/a05m
-#EXTINF:-1 group-title="NL",Spike HD
-http://81.204.1.224:9981/play/a03v
-#EXTINF:-1 group-title="NL",Stingray Lite TV
-http://81.204.1.224:9981/play/a07a
-#EXTINF:-1 group-title="NL",TLC HD
-http://81.204.1.224:9981/play/a01b
-#EXTINF:-1 group-title="NL",TV Drenthe
-http://81.204.1.224:9981/play/a06u
-#EXTINF:-1 group-title="NL",TV Gelderland
-http://81.204.1.224:9981/play/a06x
-#EXTINF:-1 group-title="NL",TV Noord
-http://81.204.1.224:9981/play/a06t
-#EXTINF:-1 group-title="NL",TV Oost
-http://81.204.1.224:9981/play/a06v
-#EXTINF:-1 group-title="NL",TV Oranje
-http://81.204.1.224:9981/play/a075
-#EXTINF:-1 group-title="NL",TV5 Monde
-http://81.204.1.224:9981/play/a086
-#EXTINF:-1 group-title="NL",TV538
-http://81.204.1.224:9981/play/a02f
-#EXTINF:-1 group-title="NL",Veronica HD / Disney
-http://81.204.1.224:9981/play/a045
-#EXTINF:-1 group-title="NL",WDR
-http://81.204.1.224:9981/play/a04e
-#EXTINF:-1 group-title="NL",WDR2
-http://81.204.1.224:9981/play/a07u
-#EXTINF:-1 group-title="NL",WDR3
-http://81.204.1.224:9981/play/a07v
-#EXTINF:-1 group-title="NL",WDR4
-http://81.204.1.224:9981/play/a07w
-#EXTINF:-1 group-title="NL",X-MO
-http://81.204.1.224:9981/play/a07f
-#EXTINF:-1 group-title="NL",XITE HD
-http://81.204.1.224:9981/play/a01i
-#EXTINF:-1 group-title="NL",ZDF HD
-http://81.204.1.224:9981/play/a00h
-#EXTINF:-1 group-title="NL",Ziggo Sport Docu HD
-http://81.204.1.224:9981/play/a021
-#EXTINF:-1 group-title="NL",Ziggo Sport Golf HD
-http://81.204.1.224:9981/play/a03t
-#EXTINF:-1 group-title="NL",Ziggo Sport HD
-http://81.204.1.224:9981/play/a04g
-#EXTINF:-1 group-title="NL",Ziggo Sport Racing HD
-http://81.204.1.224:9981/play/a015
-#EXTINF:-1 group-title="NL",Ziggo Sport Select HD
-http://81.204.1.224:9981/play/a01q
-#EXTINF:-1 group-title="NL",Ziggo Sport Tennis
-http://81.204.1.224:9981/play/a06o
-#EXTINF:-1 group-title="NL",Ziggo Sport Voetbal HD
-http://81.204.1.224:9981/play/a016
-#EXTINF:-1 group-title="NL",Ziggo TV HD
-http://81.204.1.224:9981/play/a01r
-#EXTINF:-1 group-title="NL",één HD
-http://81.204.1.224:9981/play/a012
 
 #EXTINF:-1 tvg-name="★★★★ MUSIC JUKEBOX ★★★★" group-title="MUSIC" tvg-logo="https://i.imgur.com/vF7TUVD.png",★★★★ MUSIC JUKEBOX ★★★★
 https://live.topgold.al/topgold
@@ -1923,6 +1689,8 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-baeblemusic/CDN/playli
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Balkan Music TV (MK)" tvg-id="" tvg-logo="https://i.imgur.com/1y95fWe.png" group-title="MUSIC",Balkan Music TV (MK)
 http://163.172.88.94:12989/live/Balkan.Music.MK/7Io7o7Q6o2/1.m3u8
+#EXTINF:-1 tvg-name="Balkanika TV (BG)" tvg-id="" tvg-logo="" group-title="MUSIC",Balkanika TV (BG)
+http://193.38.33.29:8099/play/a047
 #EXTINF:-1 tvg-name="Baraza TV Dance House (GR)" tvg-id="" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Dance House (GR)
 https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baraza TV Greek Music Hits (GR)" tvg-id="" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Greek Music Hits (GR)
@@ -2041,7 +1809,7 @@ https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8
 #EXTINF:-1 tvg-name="Fabulosa FM (ES)" tvg-logo="https://i.imgur.com/T7mBUXu.jpg" group-title="MUSIC",Fabulosa FM (ES)
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
 #EXTINF:-1 tvg-name="Fen TV (BG)" tvg-logo="https://i.imgur.com/GD6wuU1.png" group-title="MUSIC",Fen TV (BG)
-https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
+http://193.38.33.29:8099/play/a045
 #EXTINF:-1 tvg-name="FOLX Music (SI)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Music (SI)
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 #EXTINF:-1 tvg-name="FOLX Slovenija (SI)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIC",FOLX Slovenija (SI)
