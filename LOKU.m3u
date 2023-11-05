@@ -2506,14 +2506,14 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w1
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:-1 tvg-name="BEST CABLE SPORTS (PE)" tvg-logo="https://i.imgur.com/I793PBs.png" group-title="SPORTS",BEST CABLE SPORTS (PE)
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT Sport 1
-http://45.153.35.204:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT Sport 1 HD
-http://45.153.35.204:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT Sport 2
-http://45.153.35.204:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT Sport 2 HD
-http://45.153.35.204:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN +
+http://45.5.117.3:4000/play/a030/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 2 HD
+http://45.5.117.3:4000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 3 HD
+http://45.5.117.3:4000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 4 HD
+http://45.5.117.3:4000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 3
 http://45.153.35.204:8000/play/a09h/index.m3u8
 #EXTINF:-1 group-title="SPORTS",BT Sport 3 HD
