@@ -368,407 +368,22 @@ https://naimi.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y1k0kk1080/index
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,111Муз ТВ
-http://195.54.42.9:8000/play/a062/index.m3u8
-#EXTINF:-1,2х2
-http://195.54.42.9:8000/play/a00g/index.m3u8
-#EXTINF:-1,360
-http://195.54.42.9:8000/play/a007/index.m3u8
-#EXTINF:-1,5 канал
-http://195.54.42.9:8000/play/a063/index.m3u8
-#EXTINF:-1,8 Канал
-http://195.54.42.9:8000/play/a05m/index.m3u8
-#EXTINF:-1,Amedia 2
-http://195.54.42.9:8000/play/a03p/index.m3u8
-#EXTINF:-1,Amedia 2 HD
-http://195.54.42.9:8000/play/a06k/index.m3u8
-#EXTINF:-1,Bridge Classic
-http://195.54.42.9:8000/play/a05y/index.m3u8
-#EXTINF:-1,Bridge TV
-http://195.54.42.9:8000/play/a05z/index.m3u8
-#EXTINF:-1,Bridge TV Ru Hit
-http://195.54.42.9:8000/play/a02f/index.m3u8
-#EXTINF:-1,Bridge Tv Hits
-http://195.54.42.9:8000/play/a04y/index.m3u8
-#EXTINF:-1,Cinema
-http://195.54.42.9:8000/play/a00h/index.m3u8
-#EXTINF:-1,DocuBox
-http://195.54.42.9:8000/play/a06q/index.m3u8
-#EXTINF:-1,ETV
-http://195.54.42.9:8000/play/a039/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://195.54.42.9:8000/play/a04s/index.m3u8
-#EXTINF:-1,Fashion HD
-http://195.54.42.9:8000/play/a02c/index.m3u8
-#EXTINF:-1,FashionBox
-http://195.54.42.9:8000/play/a03l/index.m3u8
-#EXTINF:-1,Fastnfunbox
-http://195.54.42.9:8000/play/a02o/index.m3u8
-#EXTINF:-1,FightBox
-http://195.54.42.9:8000/play/a04z/index.m3u8
-#EXTINF:-1,FilmBox
-http://195.54.42.9:8000/play/a053/index.m3u8
-#EXTINF:-1,Filmbox Arthouse
-http://195.54.42.9:8000/play/a054/index.m3u8
-#EXTINF:-1,Galaxy
-http://195.54.42.9:8000/play/a06f/index.m3u8
-#EXTINF:-1,I Concert HD
-http://195.54.42.9:8000/play/a068/index.m3u8
-#EXTINF:-1,Leomax 24
-http://195.54.42.9:8000/play/a03i/index.m3u8
-#EXTINF:-1,Luxury
-http://195.54.42.9:8000/play/a060/index.m3u8
-#EXTINF:-1,MotorSport
-http://195.54.42.9:8000/play/a03a/index.m3u8
-#EXTINF:-1,Ocean TV
-http://195.54.42.9:8000/play/a072/index.m3u8
-#EXTINF:-1,RTG
-http://195.54.42.9:8000/play/a03e/index.m3u8
-#EXTINF:-1,RTG HD
-http://195.54.42.9:8000/play/a04e/index.m3u8
-#EXTINF:-1,RU TV
-http://195.54.42.9:8000/play/a01q/index.m3u8
-#EXTINF:-1,SRT Индийское кино
-http://195.54.42.9:8000/play/a04b/index.m3u8
-#EXTINF:-1,SRT Кинокомедия
-http://195.54.42.9:8000/play/a01o/index.m3u8
-#EXTINF:-1,SRT Киносвидание
-http://195.54.42.9:8000/play/a008/index.m3u8
-#EXTINF:-1,SRT Киноужас
-http://195.54.42.9:8000/play/a00q/index.m3u8
-#EXTINF:-1,SRT Кинохит
-http://195.54.42.9:8000/play/a04c/index.m3u8
-#EXTINF:-1,SRT Кухня ТВ
-http://195.54.42.9:8000/play/a050/index.m3u8
-#EXTINF:-1,SRT365 Дней
-http://195.54.42.9:8000/play/a05n/index.m3u8
-#EXTINF:-1,Shop&Show
-http://195.54.42.9:8000/play/a014/index.m3u8
-#EXTINF:-1,Shopping Live
-http://195.54.42.9:8000/play/a011/index.m3u8
-#EXTINF:-1,TV XXI
-http://195.54.42.9:8000/play/a06m/index.m3u8
-#EXTINF:-1,Zee TV
-http://195.54.42.9:8000/play/a01z/index.m3u8
-#EXTINF:-1,z ATV_Azerbaijan
-http://195.54.42.9:8000/play/a00y/index.m3u8
-#EXTINF:-1,z AzTV Azerbaijan
-http://195.54.42.9:8000/play/a00c/index.m3u8
-#EXTINF:-1,z CBC Sport HD
-http://195.54.42.9:8000/play/a01l/index.m3u8
-#EXTINF:-1,z CBC_Azerbaycan
-http://195.54.42.9:8000/play/a013/index.m3u8
-#EXTINF:-1,z Dunya TV
-http://195.54.42.9:8000/play/a02m/index.m3u8
-#EXTINF:-1,z Ictimai TV
-http://195.54.42.9:8000/play/a009/index.m3u8
-#EXTINF:-1,z Idman_Azerbaycan
-http://195.54.42.9:8000/play/a00r/index.m3u8
-#EXTINF:-1,z MTV Azerbaycan
-http://195.54.42.9:8000/play/a02b/index.m3u8
-#EXTINF:-1,z Medeniyet_TV
-http://195.54.42.9:8000/play/a00w/index.m3u8
-#EXTINF:-1,z RealTV HD
-http://195.54.42.9:8000/play/a01s/index.m3u8
-#EXTINF:-1,z Space HD
-http://195.54.42.9:8000/play/a028/index.m3u8
-#EXTINF:-1,z Xezer_TV
-http://195.54.42.9:8000/play/a010/index.m3u8
-#EXTINF:-1,Авто 24
-http://195.54.42.9:8000/play/a01t/index.m3u8
-#EXTINF:-1,Ани
-http://195.54.42.9:8000/play/a03b/index.m3u8
-#EXTINF:-1,Беларусь 24 HD
-http://195.54.42.9:8000/play/a05f/index.m3u8
-#EXTINF:-1,Бобер
-http://195.54.42.9:8000/play/a01y/index.m3u8
-#EXTINF:-1,Большая Азия
-http://195.54.42.9:8000/play/a02h/index.m3u8
-#EXTINF:-1,Время
-http://195.54.42.9:8000/play/a01u/index.m3u8
-#EXTINF:-1,Детский мир
-http://195.54.42.9:8000/play/a074/index.m3u8
-#EXTINF:-1,Диалоги о рыбалке
-http://195.54.42.9:8000/play/a02u/index.m3u8
-#EXTINF:-1,Дикддий
-http://195.54.42.9:8000/play/a04n/index.m3u8
-#EXTINF:-1,Дикий
-http://195.54.42.9:8000/play/a01a/index.m3u8
-#EXTINF:-1,Дисней
-http://195.54.42.9:8000/play/a04w/index.m3u8
-#EXTINF:-1,Дом кино
-http://195.54.42.9:8000/play/a038/index.m3u8
-#EXTINF:-1,Домашний
-http://195.54.42.9:8000/play/a066/index.m3u8
-#EXTINF:-1,Домашний +2
-http://195.54.42.9:8000/play/a01d/index.m3u8
-#EXTINF:-1,Еврокино
-http://195.54.42.9:8000/play/a075/index.m3u8
-#EXTINF:-1,Европа плюс
-http://195.54.42.9:8000/play/a06u/index.m3u8
-#EXTINF:-1,Еда HD
-http://195.54.42.9:8000/play/a03f/index.m3u8
-#EXTINF:-1,Живая планета
-http://195.54.42.9:8000/play/a06x/index.m3u8
-#EXTINF:-1,Живая природа HD
-http://195.54.42.9:8000/play/a069/index.m3u8
-#EXTINF:-1,Звезда
-http://195.54.42.9:8000/play/a059/index.m3u8
-#EXTINF:-1,Звезда +2
-http://195.54.42.9:8000/play/a03s/index.m3u8
-#EXTINF:-1,Здоровое ТВ
-http://195.54.42.9:8000/play/a01n/index.m3u8
-#EXTINF:-1,Зоопарк
-http://195.54.42.9:8000/play/a021/index.m3u8
-#EXTINF:-1,Иллюзион+
-http://195.54.42.9:8000/play/a00s/index.m3u8
-#EXTINF:-1,История
-http://195.54.42.9:8000/play/a05i/index.m3u8
-#EXTINF:-1,КХЛ
-http://195.54.42.9:8000/play/a05b/index.m3u8
-#EXTINF:-1,КХЛ HD (3k)
-http://195.54.42.9:8000/play/a035/index.m3u8
-#EXTINF:-1,Карусель
-http://195.54.42.9:8000/play/a05d/index.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://195.54.42.9:8000/play/a04q/index.m3u8
-#EXTINF:-1,Киномикс HD
-http://195.54.42.9:8000/play/a012/index.m3u8
-#EXTINF:-1,Кинопоказ 1 HD (шокирующее)
-http://195.54.42.9:8000/play/a03h/index.m3u8
-#EXTINF:-1,Кинопоказ 2 HD (комедийное)
-http://195.54.42.9:8000/play/a01b/index.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://195.54.42.9:8000/play/a05a/index.m3u8
-#EXTINF:-1,Киносемья HD
-http://195.54.42.9:8000/play/a03z/index.m3u8
-#EXTINF:-1,Кинохит HD
-http://195.54.42.9:8000/play/a03w/index.m3u8
-#EXTINF:-1,Комедия
-http://195.54.42.9:8000/play/a00j/index.m3u8
-#EXTINF:-1,Конный мир
-http://195.54.42.9:8000/play/a045/index.m3u8
-#EXTINF:-1,Красная линия
-http://195.54.42.9:8000/play/a046/index.m3u8
-#EXTINF:-1,Крым 1
-http://195.54.42.9:8000/play/a05p/index.m3u8
-#EXTINF:-1,Крым 24
-http://195.54.42.9:8000/play/a055/index.m3u8
-#EXTINF:-1,ЛДПР
-http://195.54.42.9:8000/play/a03x/index.m3u8
-#EXTINF:-1,Любимое кино
-http://195.54.42.9:8000/play/a06o/index.m3u8
-#EXTINF:-1,МАТЧ! ИГРА HD
-http://195.54.42.9:8000/play/a03d/index.m3u8
-#EXTINF:-1,Мама
-http://195.54.42.9:8000/play/a02a/index.m3u8
-#EXTINF:-1,Матч HD
-http://195.54.42.9:8000/play/a06i/index.m3u8
-#EXTINF:-1,Матч!
-http://195.54.42.9:8000/play/a058/index.m3u8
-#EXTINF:-1,Матч! Арена
-http://195.54.42.9:8000/play/a04m/index.m3u8
-#EXTINF:-1,Матч! Арена HD
-http://195.54.42.9:8000/play/a01e/index.m3u8
-#EXTINF:-1,Матч! Боец
-http://195.54.42.9:8000/play/a015/index.m3u8
-#EXTINF:-1,Матч! Игра
-http://195.54.42.9:8000/play/a01w/index.m3u8
-#EXTINF:-1,Матч! Планета
-http://195.54.42.9:8000/play/a019/index.m3u8
-#EXTINF:-1,Матч! Премьер
-http://195.54.42.9:8000/play/a01p/index.m3u8
-#EXTINF:-1,Матч! Страна
-http://195.54.42.9:8000/play/a048/index.m3u8
-#EXTINF:-1,Матч! Футбол 1
-http://195.54.42.9:8000/play/a017/index.m3u8
-#EXTINF:-1,Матч! Футбол 2
-http://195.54.42.9:8000/play/a00x/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-http://195.54.42.9:8000/play/a03u/index.m3u8
-#EXTINF:-1,Миллет
-http://195.54.42.9:8000/play/a05q/index.m3u8
-#EXTINF:-1,Мир
-http://195.54.42.9:8000/play/a056/index.m3u8
-#EXTINF:-1,Мир 24 HD
-http://195.54.42.9:8000/play/a02e/index.m3u8
-#EXTINF:-1,Мир HD
-http://195.54.42.9:8000/play/a00o/index.m3u8
-#EXTINF:-1,Мир Сериала
-http://195.54.42.9:8000/play/a073/index.m3u8
-#EXTINF:-1,Мир увлечений (кто куда)
-http://195.54.42.9:8000/play/a05t/index.m3u8
-#EXTINF:-1,Москва 24
-http://195.54.42.9:8000/play/a02k/index.m3u8
-#EXTINF:-1,Москва Доверие
-http://195.54.42.9:8000/play/a06w/index.m3u8
-#EXTINF:-1,Мосфильм
-http://195.54.42.9:8000/play/a00z/index.m3u8
-#EXTINF:-1,Моя планета
-http://195.54.42.9:8000/play/a022/index.m3u8
-#EXTINF:-1,Мужское кино HD
-http://195.54.42.9:8000/play/a01g/index.m3u8
-#EXTINF:-1,Мужской
-http://195.54.42.9:8000/play/a01m/index.m3u8
-#EXTINF:-1,Музыка первого
-http://195.54.42.9:8000/play/a01r/index.m3u8
-#EXTINF:-1,Мульт
-http://195.54.42.9:8000/play/a029/index.m3u8
-#EXTINF:-1,Мульт HD
-http://195.54.42.9:8000/play/a01f/index.m3u8
-#EXTINF:-1,Мультимания
-http://195.54.42.9:8000/play/a06a/index.m3u8
-#EXTINF:-1,Мультимузыка
-http://195.54.42.9:8000/play/a027/index.m3u8
-#EXTINF:-1,НСТВ
-http://195.54.42.9:8000/play/a06p/index.m3u8
-#EXTINF:-1,НТВ
-http://195.54.42.9:8000/play/a03y/index.m3u8
-#EXTINF:-1,НТВ +2
-http://195.54.42.9:8000/play/a00k/index.m3u8
-#EXTINF:-1,НТВ HD
-http://195.54.42.9:8000/play/a023/index.m3u8
-#EXTINF:-1,НТВ Хит
-http://195.54.42.9:8000/play/a01c/index.m3u8
-#EXTINF:-1,Наука
-http://195.54.42.9:8000/play/a024/index.m3u8
-#EXTINF:-1,Наука HD
-http://195.54.42.9:8000/play/a01v/index.m3u8
-#EXTINF:-1,Наша тема
-http://195.54.42.9:8000/play/a00n/index.m3u8
-#EXTINF:-1,Ностальгия
-http://195.54.42.9:8000/play/a06r/index.m3u8
-#EXTINF:-1,О!
-http://195.54.42.9:8000/play/a01x/index.m3u8
-#EXTINF:-1,ОТР
-http://195.54.42.9:8000/play/a04u/index.m3u8
-#EXTINF:-1,Остросюжетное HD
-http://195.54.42.9:8000/play/a041/index.m3u8
-#EXTINF:-1,Открытый мир
-http://195.54.42.9:8000/play/a00p/index.m3u8
-#EXTINF:-1,Охота и рыбалка
-http://195.54.42.9:8000/play/a00v/index.m3u8
-#EXTINF:-1,Первый
-http://195.54.42.9:8000/play/a05h/index.m3u8
-#EXTINF:-1,Первый +2 (3к)
-http://195.54.42.9:8000/play/a032/index.m3u8
-#EXTINF:-1,Первый HD
-http://195.54.42.9:8000/play/a01j/index.m3u8
-#EXTINF:-1,Первый Вегетарианский
-http://195.54.42.9:8000/play/a02x/index.m3u8
-#EXTINF:-1,Победа
-http://195.54.42.9:8000/play/a033/index.m3u8
-#EXTINF:-1,Поехали
-http://195.54.42.9:8000/play/a02d/index.m3u8
-#EXTINF:-1,Премиальное HD
-http://195.54.42.9:8000/play/a01h/index.m3u8
-#EXTINF:-1,Пятница
-http://195.54.42.9:8000/play/a067/index.m3u8
-#EXTINF:-1,РБК ТВ
-http://195.54.42.9:8000/play/a01k/index.m3u8
-#EXTINF:-1,РТП Матч! Арена HD
-http://195.54.42.9:8000/play/a02p/index.m3u8
-#EXTINF:-1,РТП Матч! Игра HD
-http://195.54.42.9:8000/play/a02n/index.m3u8
-#EXTINF:-1,РТП Матч! Премьер HD
-http://195.54.42.9:8000/play/a02q/index.m3u8
-#EXTINF:-1,РТП Матч! Футбол 1 HD
-http://195.54.42.9:8000/play/a02r/index.m3u8
-#EXTINF:-1,РТП Матч! Футбол 2HD
-http://195.54.42.9:8000/play/a02t/index.m3u8
-#EXTINF:-1,РТП Матч! Футбол 3 HD
-http://195.54.42.9:8000/play/a02w/index.m3u8
-#EXTINF:-1,РТП Пятница HD
-http://195.54.42.9:8000/play/a02i/index.m3u8
-#EXTINF:-1,РТП Рен ТВ HD
-http://195.54.42.9:8000/play/a02j/index.m3u8
-#EXTINF:-1,Рен
-http://195.54.42.9:8000/play/a057/index.m3u8
-#EXTINF:-1,Ретро
-http://195.54.42.9:8000/play/a031/index.m3u8
-#EXTINF:-1,Россия 1
-http://195.54.42.9:8000/play/a05s/index.m3u8
-#EXTINF:-1,Россия 1+2 3k
-http://195.54.42.9:8000/play/a043/index.m3u8
-#EXTINF:-1,Россия 24
-http://195.54.42.9:8000/play/a05x/index.m3u8
-#EXTINF:-1,Россия HD
-http://195.54.42.9:8000/play/a01i/index.m3u8
-#EXTINF:-1,Россия К
-http://195.54.42.9:8000/play/a04x/index.m3u8
-#EXTINF:-1,Русский бестселлер
-http://195.54.42.9:8000/play/a00m/index.m3u8
-#EXTINF:-1,Русский детектив
-http://195.54.42.9:8000/play/a00b/index.m3u8
-#EXTINF:-1,Русский иллюзион
-http://195.54.42.9:8000/play/a00u/index.m3u8
-#EXTINF:-1,Русский роман
-http://195.54.42.9:8000/play/a025/index.m3u8
-#EXTINF:-1,Русский экстрим HD
-http://195.54.42.9:8000/play/a06s/index.m3u8
-#EXTINF:-1,СТС
-http://195.54.42.9:8000/play/a061/index.m3u8
-#EXTINF:-1,СТС +2
-http://195.54.42.9:8000/play/a016/index.m3u8
-#EXTINF:-1,СТС HD
-http://195.54.42.9:8000/play/a02z/index.m3u8
-#EXTINF:-1,СТС Love
-http://195.54.42.9:8000/play/a02l/index.m3u8
-#EXTINF:-1,Сарафан
-http://195.54.42.9:8000/play/a026/index.m3u8
-#EXTINF:-1,Симферополь 24
-http://195.54.42.9:8000/play/a02g/index.m3u8
-#EXTINF:-1,Совершенно Секретно
-http://195.54.42.9:8000/play/a020/index.m3u8
-#EXTINF:-1,Союз
-http://195.54.42.9:8000/play/a05r/index.m3u8
-#EXTINF:-1,Спас
-http://195.54.42.9:8000/play/a05l/index.m3u8
-#EXTINF:-1,Суббота
-http://195.54.42.9:8000/play/a02s/index.m3u8
-#EXTINF:-1,Т 24
-http://195.54.42.9:8000/play/a00d/index.m3u8
-#EXTINF:-1,ТВ 3
-http://195.54.42.9:8000/play/a06j/index.m3u8
-#EXTINF:-1,ТВЦ
-http://195.54.42.9:8000/play/a05o/index.m3u8
-#EXTINF:-1,ТДК
-http://195.54.42.9:8000/play/a005/index.m3u8
-#EXTINF:-1,ТНВ
-http://195.54.42.9:8000/play/a03v/index.m3u8
-#EXTINF:-1,ТНТ
-http://195.54.42.9:8000/play/a064/index.m3u8
-#EXTINF:-1,ТНТ HD
-http://195.54.42.9:8000/play/a049/index.m3u8
-#EXTINF:-1,ТНТ Музыка
-http://195.54.42.9:8000/play/a06h/index.m3u8
-#EXTINF:-1,ТНТ4
-http://195.54.42.9:8000/play/a006/index.m3u8
-#EXTINF:-1,Телекафе
-http://195.54.42.9:8000/play/a002/index.m3u8
-#EXTINF:-1,Тномер
-http://195.54.42.9:8000/play/a00l/index.m3u8
-#EXTINF:-1,Точка ТВ
-http://195.54.42.9:8000/play/a04d/index.m3u8
-#EXTINF:-1,Три ангела
-http://195.54.42.9:8000/play/a001/index.m3u8
-#EXTINF:-1,Уникум
-http://195.54.42.9:8000/play/a034/index.m3u8
-#EXTINF:-1,Усадьба
-http://195.54.42.9:8000/play/a00t/index.m3u8
-#EXTINF:-1,Футбол
-http://195.54.42.9:8000/play/a04r/index.m3u8
-#EXTINF:-1,Че +0
-http://195.54.42.9:8000/play/a03o/index.m3u8
-#EXTINF:-1,Че +2
-http://195.54.42.9:8000/play/a03t/index.m3u8
-#EXTINF:-1,Шансон ТВ
-http://195.54.42.9:8000/play/a030/index.m3u8
-#EXTINF:-1,Ю
-http://195.54.42.9:8000/play/a05j/index.m3u8
-#EXTINF:-1,Ювелирочка
-http://195.54.42.9:8000/play/a06z/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1,Nicktoons
@@ -2506,6 +2121,21 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w1
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:-1 tvg-name="BEST CABLE SPORTS (PE)" tvg-logo="https://i.imgur.com/I793PBs.png" group-title="SPORTS",BEST CABLE SPORTS (PE)
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT SPORTS HD
+http://45.177.98.42:9800/play/156
+#EXTINF:-1 group-title="SPORTS",Fox Sports 1 HD
+http://45.177.98.42:9800/play/159
+#EXTINF:-1 group-title="SPORTS",FOX Sports 2 HD
+http://45.177.98.42:9800/play/160
+#EXTINF:-1 group-title="SPORTS",Fox Sports 3 HD
+#EXTINF:-1 group-title="SPORTS",ESPN HD
+http://45.177.98.42:9800/play/148
+#EXTINF:-1 group-title="SPORTS",ESPN 2 HD
+http://45.177.98.42:9800/play/149
+#EXTINF:-1 group-title="SPORTS",ESPN 3 HD
+http://45.177.98.42:9800/play/150
+#EXTINF:-1 group-title="SPORTS",ESPN 4 HD
+http://45.177.98.42:9800/play/151
 #EXTINF:-1 group-title="SPORTS",ESPN +
 http://45.5.117.3:4000/play/a030/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN 2 HD
