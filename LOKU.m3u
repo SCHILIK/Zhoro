@@ -368,7 +368,607 @@ https://naimi.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y1k0kk1080/index
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-name="★★★★ VIDAA ★★★★" tvg-logo="" group-title="VIDAA",★★★★ VIDAA ★★★★
+#EXTINF:-1 group-title="VIDAA",EuroNews (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsau-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Euronews (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsde-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",NewsMax (EU)
+https://newsmax-newsmaxtv-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Ticker News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Awe Encore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",OAN Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Bloomberg TV (EU) 
+https://bloomberg-bloombergtv-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Bloomberg Quicktake (EU)
+https://bloomberg-quicktake-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Best TV Ever (EU)
+https://bec-besttvever-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",More U (EU)
+https://bec-moreu-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Witz TV (EU) 
+https://bec-witz-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Action TV (EU) 
+https://bec-action-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",The Grid (EU)
+https://bec-thegrid-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Boonie Cubs TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3445
+#EXTINF:-1 group-title="VIDAA",Canela TeleNovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3078
+#EXTINF:-1 group-title="VIDAA",Cinema Libre (EU)
+https://bec-cinemalibre-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Just.Classical
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3351
+#EXTINF:-1 group-title="VIDAA",Johnny Carson TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",The Carol Burnett Show
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Crackle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Crackle Classics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Ditty TV (EU)
+https://memphisstudios-dittytv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Drone TV (EU)
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",ESTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Explore by TVPlayer
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvplyr-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Fail Army (US)
+https://jukin-failarmy-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Family Time
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3084
+#EXTINF:-1 group-title="VIDAA",Food (EU)
+https://food-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Filmzie (GB)
+https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Filmzie (US) 
+https://filmzie-filmzie-3-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Free Movies Plus (US)
+https://ottstudio-freemoviesplus-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Fubo Geo
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.dnt={DNT}&ads.us_privacy={US_PRIVACY}&ads.app_name={APP_NAME}&ads.vauth={VAUTH}&ads.bundle_id={APPBUNDLE}&ads.did={IFA}&ads.client_id={CLIENT_ID}&ads.gdpr={GDPR}&ads.gdpr_consent={GDPR_CONSENT}&ads.ua={UA}&ads.coppa={COPPA}&ads.vidaa_ads_param=1191211667
+#EXTINF:-1 group-title="VIDAA",Go See Westerns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
+#EXTINF:-1 group-title="VIDAA",Go Traveler
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3082
+#EXTINF:-1 group-title="VIDAA",Gravitas Movies (EU)
+https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Grjngo (EU)
+https://amogonetworx-grjngo-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Intipacha (EU)
+https://baktilp-intipacha-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-juntos-hisense/playlist.m3u8?did=&dnt=&gender=&app_bundle=&app_name=&app_store_url=&url=&genre=&ic=&us_privacy=&gdpr=&gdpr_consent=&coppa=&schain=&ads.vidaa_ads_param=1190602996
+#EXTINF:-1 group-title="VIDAA",Accion Mexicano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3075
+#EXTINF:-1 group-title="VIDAA",Luxe TV (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxetvau-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Luxe (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxeuk-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Magellan TV (EU) 
+https://magellantv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Manifest TV (EU)
+https://kdmg-manifesttv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Maverick Black Cinema (EU)
+https://maverick-maverick-black-cinema-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",MegaNoticias (EU)
+https://pctv-meganoticias-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Minute Shorts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3369
+#EXTINF:-1 group-title="VIDAA",Motorvision.TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2378
+#EXTINF:-1 group-title="VIDAA",Auto Allstars (EU)
+https://extremeinternational-autoallstars-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Pelimex (EU)
+https://telecine-pelimex-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",People are Awesome (US)
+https://jukin-peopleareawesome-3-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Popcorn Flix
+https://0a8aab349126402a95e24747b0405861.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa_Popflix/playlist.m3u8?ads.wurl_channel=1068&ads.wurl_name=Popflix&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=%22
+#EXTINF:-1 group-title="VIDAA",Pro Wrestling TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3117
+#EXTINF:-1 group-title="VIDAA",War Channel (US)
+https://4digitalmedia-warchannel-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Great British Menu (GB)
+https://all3media-great-british-menu-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Homes Under the Hammer (GB)
+https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8‐
+#EXTINF:-1 group-title="VIDAA",Midsomer Murders (US)
+https://all3media-midsomer-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten British Films (GB)
+https://rakuten-british-films-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Family (GB)
+https://rakuten-family-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Thriller (GB)
+https://rakuten-thriller-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Comedy Movies (GB)
+https://rakuten-comedymovies-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Top Free (GB)
+https://rakuten-topfree-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (GB) 
+https://rakuten-spotlight-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Romance (GB)
+https://rakuten-romance-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Guardian (GB)
+https://rakuten-guardian-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",So Real (GB)
+https://all3media-soreal-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Artflix (EU)
+https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Bigtjme (EU)
+https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Grjngo (EU)
+https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Moconomy (EU)
+https://amogonetworx-moconomy-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Intipacha (EU)
+https://bonudiemsa-intipacha-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Documentary Plus (EU)
+https://documentaryplus-documentaryplus-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Documentary Plus (US)
+https://documentaryplus-documentaryplus-2-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Weatherspy (EU)
+https://jukin-weatherspy-4-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Radical Docs (US)
+https://quintus-radicaldocs-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Conflict (EU)
+https://rightsboosterltd-conflict-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",PopFlix (EU)
+https://signatureentertainment-popflix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Watch Mojo (EU)
+https://watchmojo-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tastemade INT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintausuk-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Vevo Navidad
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevonavidad-ono/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Drag Race Universe USA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-dragraceuniverseusa-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Haunt TV US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Homeful US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-homefulus-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Love Nature US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Love Pets USA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Total Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-totalcrime-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Young Hollywood (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywoodau-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tokushoutsu
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Da Vinci
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinci-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",So Yummy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummytv-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mytime Movies Germann
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovgerman-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mytime Movies U.S Spanish
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovusspan-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Explore by TV Plyr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-explorebytvplyr-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Movies Central UK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentraluk-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Wedo Movies (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesde-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Wedo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",EdgeSports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Edge Sports ROW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesportsrow-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Family Tree ENG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-familytreeeng-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Flame and Fire                                                                                                                                                                                                                     Flame and Fire ENG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flameandfireeng-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Horrify
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrifyeng-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mystify
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mystifyeng-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Top Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcineeng-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tu Cine ES
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinees-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanvidaa-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Anger Management Espanol
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Anger Management US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementus-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Are We There Yet US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyetus-vidaa/playlist.m3u8
+#EXTINF:-1,Moviesphere (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Moviesphere (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviespereuk-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tratamento de Choque
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-tratamentodechoque-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Wicked Tuna
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-wickedtunaenglish-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Bein Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Bein Xtra Espanol
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Washington Post
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01655-thewashingtonpo-washingtonpostvidaa-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Great Romance
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatromance-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Pop Kids
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",WaterBear Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Clubbing TV
+https://clubbingtv-clubbingtv-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Trace Sport Stars
+https://tracetv-sportstarts-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Trace Sport Stars alt
+https://tracetv-tracesportsstar-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Real Nosey (EU)
+https://nosey-realnosey-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rcnmas+ (EU)
+https://rcntv-rcnmas-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Roi (EU)
+https://rise-financial-roi-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Emergency (US) 
+https://rightsboosterltd-emergency-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Strongman Champions League (EU)
+https://rightsboosterltd-scl-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Sportsgrid
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Super Simple Songs (EU)
+https://janson-supersimplesongs-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Giggle Mug (EU)
+https://janson-gigglemug-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Ninja Kidz (EU)
+https://playworksdigital-ninjakidztv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",BRB (EU)
+https://playworksdigital-brb-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Playground TV (EU)
+https://playgroundtv-playgroundtv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tankee (EU)
+https://playworksdigital-tankee-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",The Design Network (EU)
+https://thedesignnetwork-tdn-6-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tastemade Free TV 16
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",The Pet Collective (EU)
+https://jukin-thepetcollective-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Todays Home Owner (EU)
+https://janson-todayshomeowner-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
+#EXTINF:-1 group-title="VIDAA",Trailers from Hell (EU)
+https://bec-trailersfromhell-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",True Crime Now
+https://alliantcontent-truecrimenow-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-tucinelatam-hisense/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Twisted mirror Comedy (US)
+https://twistedmirror-twistedmirrorcomedy-2-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Unexplained (EU)
+https://gravitas-unexplained-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Unreel (EU)
+https://extremeinternational-unreel-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",World Poker Tour (EU)
+https://world-poker-tour-samsung-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Xumo Westerns
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620&ads.csid=vidaa_us_xumofreewesterns_ssai&ads.caid=XUMOFreeWesterns&ads.appName=%7BAPP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BAPP_BUNDLE%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BBRAND_NAME%7D&ads._fw_device_model=%7BDEVICE_OSV%7D&ads._fw_devicetype=%7BDEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_is_lat=%7BDNT%7D&ads._fw_us_privacy=%7BUS_PRIVACY%7D&ads._fw_h_x_country=%7BDEVICE_COUNTRY%7D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.vauth=%7BVAUTH%7D&ads.xumo_contentId=5&ads.xumo_contentName=Xumo&ads.xumo_ifa=%7BIFA%7D&ads.xumo_ifaType=%7BIFA_TYPE%7D&ads.xumo_providerId=5&ads.xumo_providerName=Xumo&ads._fw_app_store_url=%7BAPP_STORE_URL%7D&ads.vidaa_ads_param=1188362017
+#EXTINF:-1 group-title="VIDAA",Young Hollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Moconomy (EU)
+https://amogonetworx-moconomy-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Artflix (EU)
+https://amogonetworx-artflix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Irish Eyes TV (US)
+https://glovodlimited-irisheyestv-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",TED Conferences (EU)
+https://tedconferences-ted-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",CCBM Broadcasting (EU)
+https://ccbm-broadcasting-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Lacasadel Jaripeo (EU)
+https://mexicanal-lacasadeljaripeo-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Crime Thrillers (US)
+https://topic-crimeandthrillers-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Davinci (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",DAZN Combat (GEO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",DAZN ROW Women's Sport (GEO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrow-womenssport-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mytime Movies (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mytime Movies (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovuk-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Chicken Soup for the Soul
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Wedo Big Stories
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Are We There Yet (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyetus-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Great Movies TV 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatmovies-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Sports Grid (CA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsgridcanada-vidaa/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Nosey (EU)
+https://nosey-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Nosey other (EU)
+https://nosey-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Pecan TV (EU)
+https://bold-tv-corp-pecan-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Go USA (EU)
+https://brandusa-gousa-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",People Are Awesome International (EU) 
+https://jukin-peopleareawesome-international-4-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Fail Army International (EU)
+https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Just for Laughs gags (EU)
+https://distributionsjustepourrire-justforlaughsgags-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Shade TV (EU)
+https://shadeiqllc-shadetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Our Vinyl TV (EU) 
+https://ourvinyltv-ourvinyltv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Tidpix (EU) 
+https://rushlake-media-gmbh-tidpix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Globi TV (EU) 
+https://globi-globi-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Mech Plus (EU) 
+https://mechtvltd-mechplus-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Global Fashion Channel TV (EU)
+https://gfcomnimedia-globalfashionchannel-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Comedy Movies (FR)
+https://rakuten-comedymovies-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Films Francais (FR)
+https://rakuten-films-francais-1-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Family (FR)
+https://rakuten-family-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Romance (FR)
+https://rakuten-romance-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (FR)
+https://rakuten-spotlight-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Thriller (FR)
+https://rakuten-thriller-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Top Free (FR)
+https://rakuten-topfree-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (FR)
+https://rakuten-tvshows-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Guardian (FR)
+https://rakuten-guardian-1-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (DE)
+https://rakuten-actionmovies-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Thriller (DE)
+https://rakuten-thriller-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Comedy Movies (DE)
+https://rakuten-comedymovies-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Family (DE)
+https://rakuten-family-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Romance (DE) 
+https://rakuten-romance-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (DE)
+https://rakuten-spotlight-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Top Free (DE)
+https://rakuten-topfree-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (DE)
+https://rakuten-tvshows-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Guardian (DE)
+https://rakuten-guardian-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Deutsches Kino (DE)
+https://rakuten-deutsches-kino-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Grjngo (DE)
+https://amogonetworx-grjngo-4-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (ES)
+https://rakuten-actionmovies-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Comedy Movies (ES)
+https://rakuten-comedymovies-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Family (ES)
+https://rakuten-family-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Romance (ES)
+https://rakuten-romance-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (ES)
+https://rakuten-spotlight-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Thriller (ES)
+https://rakuten-thriller-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Top Free (ES)
+https://rakuten-topfree-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (ES)
+https://rakuten-tvshows-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Guardian (ES)
+https://rakuten-guardian-1-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Hola (ES)
+https://rakuten-hola-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (IT)
+https://rakuten-actionmovies-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Comedy Movies (IT)
+https://rakuten-comedymovies-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Family (IT)
+https://rakuten-family-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Romance (IT)
+https://rakuten-romance-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (IT)
+https://rakuten-spotlight-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Thriller (IT)
+https://rakuten-thriller-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (IT)
+https://rakuten-tvshows-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Classico (IT)
+https://rakuten-classico-1-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten TV Shows (AT)
+https://rakuten-tvshows-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (AT)
+https://rakuten-actionmovies-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (AT)
+https://rakuten-spotlight-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Guardian (AT)
+https://rakuten-guardian-1-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Action Movies (CH)
+https://rakuten-actionmovies-3-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (CH)
+https://rakuten-spotlight-3-ch.vidaa.wurl.tv/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-name="★★★★ SamsungTV+ NZ ★★★★" tvg-logo="" group-title="SamsungTV+ NZ",★★★★ SamsungTV+ NZ ★★★★
+#EXTINF:-1 group-title="SamsungTV+ NZ",DAZN Womens Sports (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomensport-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",The Rugby Network (NZ)
+https://tripleb-therugbynetwork-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Outdoor Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Fuel TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvnz-samsungnz/playliist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Trace Sports Stars (NZ)
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",INFAST (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",INTROUBLE (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",INWONDER (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",INWILD (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Mav TV Motorsports Network (NZ)
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Mtrspt 1 (NZ)
+https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Horse and Country Free (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",NatureTime (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Real Crime (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",True Crime Now (NZ)
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",History and Warfare Now (NZ)
+https://alliantcontent-historyandwarfarenow-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",History Hit (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Magellen TV Now (NZ)
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Smithsonian Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Waterbear (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Real Stories (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Wonder (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Real Life (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Real Wild (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Pulse TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+EXTINF:-1 group-title="SamsungTV+ NZ",CineView (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Action Hollywood Movies (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Bounty (NZ)
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo Pop (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo Retro Rock (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo 2K (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo Country (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo 70's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Vevo80's (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Now 70's (NZ)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Now 80's (NZ)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Now 90's (NZ)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Trace Urban (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Clubbing TV (NZ)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Kartoon Channel (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Zoo Moo (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Ryan and Friends (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Throwback TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-throwbacktvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Entertainment Hub (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",The Chatshow Channel (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Life Downunder (NZ)
+https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Nosey (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Dust Alien Nation (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Haunt TV (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Drybar Comedy (NZ)
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Made in Hollywood (NZ)
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Pet Club TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Mythbusters (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-mythbustersnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Baywatch Remastered (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Deal or no Deal (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Wipeout Xtra (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtranz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Bondi Vet (NZ)
+https://wtfn-bondivet-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",The Biggest Loser (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestloser-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Fear Factor (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Four in a Bed (NZ)
+https://all3media-four-in-a-bed-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Bloomberg TV (NZ)
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Bloomberg Originals (NZ)
+https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Breaking News Lead Story (NZ)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",EuroNews World (NZ)
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",GB News (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Ausbiz TV (NZ)
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Tastemade International (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",The Design Network (NZ)
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Travel XP (NZ)
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Gusto TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Motorvision.TV (NZ)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="SamsungTV+ NZ",Revry (NZ)
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1,Rai 1 HD
