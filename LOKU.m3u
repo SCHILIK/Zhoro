@@ -369,6 +369,15 @@ https://naimi.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y1k0kk1080/index
 http://93.157.62.180/ZjarrTV/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-name="★★★ EURO'2024 ★★★" tvg-logo="" group-title="EURO'2024",★★★ EURO'2024 ★★★
+#EXTINF:-1 group-title="EURO'2024",RTL
+https://s6.hopslan.com/rtlq2/index.m3u8
+#EXTINF:-1 group-title="EURO'2024",ARD
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 group-title="EURO'2024",ZDF
+https://s6.hopslan.com/zdfx1/index.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-name="★★★★ VIDAA ★★★★" tvg-logo="" group-title="VIDAA",★★★★ VIDAA ★★★★
 #EXTINF:-1 group-title="VIDAA",EuroNews (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-euronewsau-vidaa/playlist.m3u8
@@ -822,15 +831,6 @@ https://rakuten-guardian-1-at.vidaa.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-3-ch.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VIDAA",Rakuten Spotlight (CH)
 https://rakuten-spotlight-3-ch.vidaa.wurl.tv/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-name="★★★ EURO'2024 ★★★" tvg-logo="" group-title="EURO'2024",★★★ EURO'2024 ★★★
-#EXTINF:-1 group-title="EURO'2024",RTL
-https://s6.hopslan.com/rtlq2/index.m3u8
-#EXTINF:-1 group-title="EURO'2024",ARD
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 group-title="EURO'2024",ZDF
-https://s6.hopslan.com/zdfx1/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="★★★★ SamsungTV+ NZ ★★★★" tvg-logo="" group-title="SamsungTV+ NZ",★★★★ SamsungTV+ NZ ★★★★
