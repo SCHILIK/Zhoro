@@ -824,6 +824,15 @@ https://rakuten-actionmovies-3-ch.vidaa.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-3-ch.vidaa.wurl.tv/playlist.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-name="★★★★ EURO'2024 ★★★★" tvg-logo="" group-title="EURO'2024",★★★★ EURO'2024 ★★★★
+#EXTINF:-1 group-title="EURO'2024",RTL
+https://s6.hopslan.com/rtlq2/index.m3u8
+#EXTINF:-1 group-title="EURO'2024",ARD
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 group-title="EURO'2024",ZDF
+https://s6.hopslan.com/zdfx1/index.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-name="★★★★ SamsungTV+ NZ ★★★★" tvg-logo="" group-title="SamsungTV+ NZ",★★★★ SamsungTV+ NZ ★★★★
 #EXTINF:-1 group-title="SamsungTV+ NZ",DAZN Womens Sports (NZ)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomensport-samsungnz/playlist.m3u8
