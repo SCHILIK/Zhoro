@@ -367,15 +367,12 @@ http://us.bestvideostreaming.is/8703/index.m3u8
 https://naimi.gjirafa.com/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/y1k0kk1080/index.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV" tvg-id="" tvg-logo="https://i.imgur.com/NBTUV4w.jpg" group-title="ALBANIA",Zjarr TV
 http://93.157.62.180/ZjarrTV/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-name="★★★ EURO'2024 ★★★" tvg-logo="" group-title="EURO'2024",★★★ EURO'2024 ★★★
-#EXTINF:-1 group-title="EURO'2024",ZDF
-https://s6.hopslan.com/zdfx1/index.m3u8
-#EXTINF:-1 group-title="EURO'2024",RTL
-https://s6.hopslan.com/rtlq2/index.m3u8
-#EXTINF:-1 group-title="EURO'2024",ARD
+#EXTINF:-1 tvg-name="ARD" tvg-id="" tvg-logo="" group-title="ALBANIA",ARD
 https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-id="" tvg-logo="" group-title="ALBANIA",RTL
+https://s6.hopslan.com/rtlq2/index.m3u8
+#EXTINF:-1 tvg-name="ZDF" tvg-id="" tvg-logo="" group-title="ALBANIA",ZDF
+https://s6.hopslan.com/zdfx1/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="★★★ MUSIC CHOICE ★★★" tvg-logo="" group-title="MUSIC CHOICE",★★★ MUSIC CHOICE ★★★
