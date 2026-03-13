@@ -1555,6 +1555,52 @@ https://rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="RAKUTEN",Rakuten Huippuelokuvat -Top Movies (EU)
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="★★★★ PARSA TV ★★★★" tvg-logo="" group-title="PARSA",★★★★ PARSA TV ★★★★
+https://
+#EXTINF:-1 tvg-name="Persiana Sports 1" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 1
+https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports 2" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 2
+https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports 3" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 3
+https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8
+#EXTINF:-1 tvg-name="Persiana Music" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana Fight" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GEM Sport" tvg-id="" tvg-logo="" group-title="PARSA",GEM Sport
+https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/chunks.m3u8
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
+https://
+
+
+
+
 #EXTINF:-1 tvg-name="★★★★ ITALIA ★★★★" tvg-logo="https://i.imgur.com/xrGFBt3.jpg" group-title="ITALIA",★★★★ ITALIA ★★★★
 https://
 #EXTINF:-1 tvg-name="Canale 5" tvg-id="" tvg-logo="https://i.imgur.com/r3ZeRFV.jpg" group-title="ITALIA",Canale 5
