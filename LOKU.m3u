@@ -1559,10 +1559,14 @@ https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://
 #EXTINF:-1 tvg-name="Persiana Sports 1" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 1
 https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Persiana Sports 2" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 2
 https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Persiana Sports 3" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Sports 3
 https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8
+
+
 #EXTINF:-1 tvg-name="Persiana Music" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Fight" tvg-id="" tvg-logo="" group-title="PARSA",Persiana Fight
