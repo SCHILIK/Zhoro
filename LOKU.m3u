@@ -1579,6 +1579,30 @@ https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1434713096_b3000000.m3u8
 #EXTINF:-1 tvg-name="Carac 5" tvg-id="" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="PARSA",Carac 5
 https://edge11.vedge.infomaniak.com/livecast/ik:carac5/chunklist_w999997632_b3001080.m3u8?spark=7bec7727-d274-4241-bf44-77bcf6766118&token=
+#EXTINF:-1 tvg-name="Fubo Sports" tvg-id="" tvg-logo="" group-title="PARSA",Fubo Sports
+https://playout.fubo.tv/plex/4.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Xtra" tvg-id="" tvg-logo="" group-title="PARSA",beIN Sports Xtra
+https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https%3A%2F%2Fbein-beinxtrasports-firetv.amagi.tv%2FplaylistR1080p.m3u8
+#EXTINF:-1 tvg-name="Sportitalia" tvg-id="" tvg-logo="" group-title="PARSA",Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-name="4Kurd" tvg-id="" tvg-logo="" group-title="PARSA",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Number1 HD" tvg-id="" tvg-logo="" group-title="PARSA",Number1 HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-name="Number1 Ask" tvg-id="" tvg-logo="" group-title="PARSA",Number1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-name="Number1 Turk" tvg-id="" tvg-logo="" group-title="PARSA",Number1 Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-name="Number1 Dance" tvg-id="" tvg-logo="" group-title="PARSA",Number1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-name="Number1 Damar" tvg-id="" tvg-logo="" group-title="PARSA",Number1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-name="Power Taptaze" tvg-id="" tvg-logo="" group-title="PARSA",Power Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Magic TV" tvg-id="" tvg-logo="" group-title="PARSA",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo="" group-title="PARSA",Baraza TV
+https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
 https://
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
