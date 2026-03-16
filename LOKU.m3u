@@ -1569,18 +1569,18 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="GEM Sport" tvg-id="" tvg-logo="" group-title="PARSA",GEM Sport
 https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/chunks.m3u8
-#EXTINF:-1 tvg-name="Carac 1" tvg-id="" tvg-logo="https://imgur.com/VPeXDfD" group-title="PARSA",Carac 1
+#EXTINF:-1 tvg-name="Carac 1" tvg-id="" tvg-logo="https://imgur.com/VPeXDfD.png" group-title="PARSA",Carac 1
 https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w1559597015.m3u8
-#EXTINF:-1 tvg-name="Carac 2" tvg-id="" tvg-logo="https://imgur.com/R8rHl26" group-title="PARSA",Carac 2
+#EXTINF:-1 tvg-name="Carac 2" tvg-id="" tvg-logo="https://imgur.com/R8rHl26.png" group-title="PARSA",Carac 2
 https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8
-#EXTINF:-1 tvg-name="Carac 3" tvg-id="" tvg-logo="https://imgur.com/5vTdW35" group-title="PARSA",Carac 3
+#EXTINF:-1 tvg-name="Carac 3" tvg-id="" tvg-logo="https://imgur.com/5vTdW35.png" group-title="PARSA",Carac 3
 https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
-#EXTINF:-1 tvg-name="Carac 4" tvg-id="" tvg-logo="https://imgur.com/g4LgIdR" group-title="PARSA",Carac 4
+#EXTINF:-1 tvg-name="Carac 4" tvg-id="" tvg-logo="https://imgur.com/g4LgIdR.png" group-title="PARSA",Carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1434713096_b3000000.m3u8
 #EXTINF:-1 tvg-name="Carac 5" tvg-id="" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="PARSA",Carac 5
 https://edge11.vedge.infomaniak.com/livecast/ik:carac5/chunklist_w999997632_b3001080.m3u8?spark=7bec7727-d274-4241-bf44-77bcf6766118&token=
-#EXTINF:-1 tvg-name="Fubo Sports" tvg-id="" tvg-logo="" group-title="PARSA",Fubo Sports
-https://playout.fubo.tv/plex/4.m3u8
+#EXTINF:-1 tvg-name="Fubo Sports" tvg-id="" tvg-logo="https://imgur.com/UxROCsA.png" group-title="PARSA",Fubo Sports
+https://playout.fubo.tv/plex/master.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Xtra" tvg-id="" tvg-logo="" group-title="PARSA",beIN Sports Xtra
 https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https%3A%2F%2Fbein-beinxtrasports-firetv.amagi.tv%2FplaylistR1080p.m3u8
 #EXTINF:-1 tvg-name="Sportitalia" tvg-id="" tvg-logo="" group-title="PARSA",Sportitalia
