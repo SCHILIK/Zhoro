@@ -1671,20 +1671,20 @@ https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-name="NRG TV" tvg-id="" tvg-logo="https://imgur.com/aPe9yQt" group-title="PARSA",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlistm3u8
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
+#EXTINF:-1 tvg-name="Chili Rock TV (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Rock TV (IT)
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Chili Hip Hop (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Hip Hop (IT)
+https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Chili Alta Tensione (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Alta Tensione (IT)
+https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Chili Velvet (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Velvet (IT)
+https://chili-chilivelvet-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Chili Smile (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Smile (IT)
+https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Chili Buonumore (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Chili Buonumore (IT)
+https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Gringo (IT)" tvg-id="" tvg-logo="" group-title="PARSA",Gringo (IT)
+https://amogonetworx-grjngo-6-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
 https://
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
