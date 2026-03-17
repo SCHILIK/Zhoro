@@ -1653,20 +1653,20 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Magic TV" tvg-id="" tvg-logo="" group-title="PARSA",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo="" group-title="PARSA",Baraza TV
-https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 #EXTINF:-1 tvg-name="World Of Freesports" tvg-id="" tvg-logo="https://imgur.com/AfskHPc.png" group-title="PARSA",World Of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Motor" tvg-id="" tvg-logo="" group-title="PARSA",Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
+#EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo="https://imgur.com/GJtQ0tV.png" group-title="PARSA",Baraza TV
+https://eco.streams.ovh:8081/barazatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Baraza Bar TV" tvg-id="" tvg-logo="https://imgur.com/nwnLDmx.png" group-title="PARSA",Baraza Bar TV 
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-name="Baraza TV Relaxing" tvg-id="" tvg-logo="https://imgur.com/HvBPcJY.png" group-title="PARSA",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-name="Baraza DJ TV" tvg-id="" tvg-logo="https://imgur.com/JEZeR0L.png" group-title="PARSA",Baraza DJ TV
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 tvg-name="Baraza Laika" tvg-id="" tvg-logo="https://imgur.com/G5fiE1e.png" group-title="PARSA",Baraza Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
 https://
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
