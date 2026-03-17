@@ -1603,10 +1603,10 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo="" group-title="PARSA",Baraza TV
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
-#EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
-https://
+#EXTINF:-1 tvg-name="World Of Freesports" tvg-id="" tvg-logo="https://imgur.com/AfskHPc.png" group-title="PARSA",World Of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Motor" tvg-id="" tvg-logo="" group-title="PARSA",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
 https://
 #EXTINF:-1 tvg-name="?????" tvg-id="" tvg-logo="" group-title="PARSA",?????
